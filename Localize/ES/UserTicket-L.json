@@ -189,6 +189,11 @@
       "id": 37,
       "name": "Equipo de Entrenamiento - L Corp",
       "desc": "Obtenido del evento de la 4ta Noche del Walpurigs"
+    },
+    {
+      "id": 41,
+      "name": "Full-Stop Office",
+      "desc": "Obtained from the 5th Walpurgis Night event"
     }
   ]
 }

@@ -2,30 +2,30 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Dark Corners of U Corp.",
+            "place": "Callejones Oscuros de U Corp.",
             "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "Ye bastards... When our boss hears of this, yer all finished...!"
+            "teller": "Secuestrador 2",
+            "title": "¿¿??",
+            "content": "'Ta ma're... ¡Cuando nuestro jefe se entere de esto, ya fueron...!"
         },
         {
             "id": 1,
             "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "So if ye... uh, bow down and... beg fer..."
+            "teller": "Secuestrador 2",
+            "title": "¿¿??",
+            "content": "Así que si ustedes... uh, se ponen de rodillas y... piden que los perdo..."
         },
         {
             "id": 2,
             "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "W-wait! I'm not finished! Get away! Git!"
+            "teller": "Secuestrador 2",
+            "title": "¿¿??",
+            "content": "¡'P-Perate! ¡Aún no termino de hablar! ¡Aléjate!"
         },
         {
             "id": 3,
             "model": "이스마엘",
-            "content": "Oh, that's convenient."
+            "content": "Ah, qué conveniente."
         },
         {
             "id": 4,
@@ -35,98 +35,98 @@
         {
             "id": 5,
             "model": "이스마엘",
-            "content": "Nice. Now we know we can go up the chain and talk to their 'boss' in charge. Let's stop wasting our time here."
+            "content": "Genial. Ahora sabemos que tienen a un 'jefe' a cargo. Dejemos de perder nuestro tiempo aquí."
         },
         {
             "id": 6,
             "model": "이스마엘",
-            "content": "I don't want to have to crack open these shipping containers one by one and go through mountains of rotting corpses."
+            "content": "No quiero tener que abrir cada contenedor uno por uno y buscar entre montañas de cadáveres descomponiéndose."
         },
         {
             "id": 7,
             "model": "이스마엘",
-            "content": "You can still point, right?"
+            "content": "Todavía puedes apuntar, ¿verdad?"
         },
         {
             "id": 8,
             "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
+            "teller": "Secuestrador 2",
+            "title": "¿¿??",
             "content": "......"
         },
         {
             "id": 9,
             "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "P... please..."
+            "teller": "Secuestrador 2",
+            "title": "¿¿??",
+            "content": "P... por favor..."
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "The location of your boss. Mark it on this map with your finger."
+            "content": "El lugar en donde está tu jefe. Señálamelo en este mapa."
         },
         {
             "id": 11,
-            "content": "I wasn't sure when she picked it up, but Ishmael was carrying a travel brochure of Marlin Port. She shoved it in the pirate's face, who struggled for a moment before pointing to a location on the map."
+            "content": "No estoy seguro de cuándo lo consiguió, pero Ishmael llevaba con ella un folleto turístico de Puerto Marlin. Ella lo puso frente a la cara de la pirata, que forcejeó por un momento antes de apuntar a un lugar en el mapa."
         },
         {
             "id": 12,
-            "content": "As soon as her trembling finger reached the paper..."
+            "content": "Tan pronto como su dedo tembloroso alcanzó el papel..."
         },
         {
             "id": 13,
             "model": "단테2",
-            "content": "<Ishmael, Wait->"
+            "content": "<Ishmael, espera->"
         },
         {
             "id": 14,
             "model": "이스마엘",
-            "content": "Well, we have our next stop. What are we waiting for?"
+            "content": "Bueno, ahí tenemos nuestra próxima parada. ¿Qué estamos esperando?"
         },
         {
             "id": 15,
-            "content": "Ishmael walked out, leaving nothing but shipping containers full of both old and fresh bodies behind."
+            "content": "Ishmael se marchó, dejando atrás únicamente a los contenedores llenos de cadáveres tanto viejos como recientes."
         },
         {
             "id": 16,
             "model": "그레고르",
-            "content": "What are the odds that the LCCB Agent we were supposed to meet is still alive...?"
+            "content": "¿Cuáles son las probabilidades de que el Agente del LCCB con el que se supone que nos íbamos a encontrar esté vivo...?"
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "Depends on how rich they think we are."
+            "content": "Depende de qué tan ricos se piensen que somos."
         },
         {
             "id": 18,
             "model": "그레고르",
-            "content": "... He could already be dead, then."
+            "content": "... Pues puede que ya esté muerto."
         },
         {
             "id": 19,
             "model": "이스마엘",
-            "content": "Even if the worst comes to pass, we should still find his body. That'll at least give us something."
+            "content": "Incluso en el peor de los casos, aún así deberíamos encontrar su cuerpo. Eso debería darnos aunque sea una pista."
         },
         {
             "id": 20,
             "model": "싱클레어",
-            "content": "... If that's all we find at the end of this, his corpse... Ishmael..."
+            "content": "... Si es lo único que alcanzamos a encontrar... Ishmael..."
         },
         {
             "id": 21,
             "model": "싱클레어",
-            "content": "I... don't think I could forgive..."
+            "content": "Yo... no sé si lo vaya a poder perdonar..."
         },
         {
             "id": 22,
             "model": "이스마엘",
-            "content": "Ha... who, me?"
+            "content": "Je... ¿A mí?"
         },
         {
             "id": 23,
             "model": "싱클레어",
-            "content": "No. Us. We who... didn't even try to save them."
+            "content": "No. A nosotros, que... ni siquiera intentamos salvarlo."
         },
         {
             "id": 24,
@@ -136,116 +136,116 @@
         {
             "id": 25,
             "model": "파우스트",
-            "content": "I am listening."
+            "content": "Lo escucho."
         },
         {
             "id": 26,
             "model": "단테2",
-            "content": "<Should we do something? Is she going to be okay? I mean, Ishmael...>"
+            "content": "<¿Crees que Ishmael vaya a estar bien? ¿No deberíamos hacer algo...?>"
         },
         {
             "id": 27,
             "model": "파우스트",
-            "content": "I can give you answers regarding her insubordination and her emotional state."
+            "content": "Puedo darle respuestas que respectan a su insubordinación y su estado emocional."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "But this is not a matter in which Faust's answers can be of much assistance."
+            "content": "Pero este no es un asunto en el cual las respuestas de Faust puedan ser de mucha utilidad."
         },
         {
             "id": 29,
             "model": "오티스",
-            "content": "Executive Manager, such insubordination and nigh rogue behavior would have resulted in an on-the-spot execution in any other organization."
+            "content": "Gerente Ejecutivo, tales insubordinaciones y comportamientos de rebeldía habrían resultado en una ejecución instantánea en cualquier otra organización."
         },
         {
             "id": 30,
             "model": "오티스",
-            "content": "I am aware that punishing the Sinners is not a part of the authority given to you, but there must be penalties befitting her actions for proper management."
+            "content": "Sé muy bien que usted no tiene la autoridad para castigar a los Pecadores, pero se deben de realizar las penalizaciones acordes para asegurar una gestión adecuada."
         },
         {
             "id": 31,
             "model": "단테2",
-            "content": "<Outis, you're always on my side.>"
+            "content": "<Outis, tú siempre te pones de mi lado.>"
         },
         {
             "id": 32,
             "model": "단테2",
-            "content": "<Pretty much always, now that I think about it...>"
+            "content": "<Y bastante seguido, ahora que pienso al respecto...>"
         },
         {
             "id": 33,
             "model": "오티스",
-            "content": "I have been... a leader of men once, as you are now. I can sympathize with your troubles."
+            "content": "Yo también... he sido líder de hombres una vez, al igual que usted. Puedo empatizar con sus preocupaciones."
         },
         {
             "id": 34,
             "model": "단테2",
-            "content": "<I don't know if I can manage Ishmael anymore... I just don't.>"
+            "content": "<No sé si pueda seguir manejando a Ishmael... Ya no estoy tan seguro.>"
         },
         {
             "id": 35,
             "model": "단테2",
-            "content": "<Though it looked like she was acting rash, maybe it was... maybe she knew the right thing to do in this scenario.>"
+            "content": "<Aunque sí que parecía que estaba actuando algo imprudentemente, pensé que tal vez... a lo mejor ella sabía qué es lo que tenía que hacerse en estas situaciones.>"
         },
         {
             "id": 36,
             "model": "단테2",
-            "content": "<If Ishmael suddenly decides to quit, or something...>"
+            "content": "<Si Ishmael de repente decide renunciar, o algo así...>"
         },
         {
             "id": 37,
-            "content": "Faust will doubtless proceed to educate me on the various clauses that prevent Ishmael from quitting..."
+            "content": "Sin lugar a duda, Faust procederá a educarme sobre las numerosas cláusulas que impiden que Ishmael renuncie..."
         },
         {
             "id": 38,
-            "content": "But it's not like I could force her to come along should this hostility escalate. Besides, she'd already acted without my orders earlier."
+            "content": "Pero no es como si pudiera obligarla a obedecerme si es que su hostilidad sigue escalando. Además, justo recién acababa de actuar sin que se lo ordenase."
         },
         {
             "id": 39,
-            "content": "She did say that she'd follow my orders. But I wasn't sure how long that would last."
+            "content": "Si bien ella dijo que seguiría mis ordenes, no estaba seguro de por cuánto tiempo estaría dispuesta a hacerlo."
         },
         {
             "id": 40,
             "model": "오티스",
-            "content": "Executive Manager. That doesn't matter."
+            "content": "Eso no importa, Gerente Ejecutivo."
         },
         {
             "id": 41,
             "model": "오티스",
-            "content": "We don't need there to be 12 Sinners."
+            "content": "No necesitamos ser estrictamente doce Pecadores."
         },
         {
             "id": 42,
             "model": "단테2",
-            "content": "<... Are you saying that we leave Ishmael?>"
+            "content": "<... ¿Estás sugiriendo que dejemos a Ishmael?>"
         },
         {
             "id": 43,
             "model": "오티스",
-            "content": "Executive Manager. I have wandered for many years in far, far lands before making my journey here. And I have done so with steadfast determination-for a single clause on my contract with the company."
+            "content": "He estado viajando durante años por tierras muy, muy lejanas antes de unirme a esta compañía, Gerente Ejecutivo. Y esto último lo hice con una firme determinación y por una única cláusula de mi contrato."
         },
         {
             "id": 44,
             "model": "오티스",
-            "content": "I came ready to face all the hardships that the journey entails. Adversity, conflict, and loss of comrades are simply facts of this quest that I must weather. Truth be told, I expect all of them to happen at some point in our journey."
+            "content": "He venido lista para afrontar todas las dificultades que conlleven el viaje. La adversidad, el conflicto y la pérdida de camaradas no son más que elementos de esta travesía que debo de superar. Para serle honesta, de hecho espero que cada una de esas cosas sucedan eventualmente."
         },
         {
             "id": 45,
             "model": "오티스",
-            "content": "Oh, I will always remain by your side, of course."
+            "content": "Ah, y por supuesto, siempre permaneceré a su lado, Gerente."
         },
         {
             "id": 46,
-            "content": "She smoothly added the last part, but..."
+            "content": "Outis añadió esa última frase discretamente, pero..."
         },
         {
             "id": 47,
-            "content": "But there was a growing suspicion at the back of my mind that, maybe, not everyone felt a sense of belonging from this group."
+            "content": "En el fondo de mi mente crecía la sospecha de que tal vez no todos aquí tenían un sentimiento de pertenencia con este grupo."
         },
         {
             "id": 48,
-            "content": "Maybe I was the only one who sought a sense of belonging from them. That we'd fight as one no matter what ordeal this journey threw in our way."
+            "content": "A lo mejor yo era el único que buscaba crear este sentimiento; uno que nos haría luchar como grupo sin importar la prueba que este viaje ponga en nuestro camino."
         }
     ]
 }

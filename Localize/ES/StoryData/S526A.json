@@ -20,8 +20,8 @@
         {
             "id": 3,
             "model": "림",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Quite the arduous journey you've endured."
         },
         {
@@ -68,22 +68,22 @@
         {
             "id": 13,
             "model": "림",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "I see that many of you are rather flummoxed by my appearance."
         },
         {
             "id": 14,
             "model": "림",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "This is but one of the many ways one may choose to understand the journey that is the world."
         },
         {
             "id": 15,
             "model": "림",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "So, please do not be so wary."
         },
         {
@@ -94,15 +94,15 @@
         {
             "id": 17,
             "model": "림",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Under the night sky where the stars have gone out, I await the coming dawn."
         },
         {
             "id": 18,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Call me Rim."
         },
         {
@@ -129,14 +129,14 @@
             "id": 23,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I have no need of ships should I wish to cross the ocean."
         },
         {
             "id": 24,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I am simply here to have a look at all of you."
         },
         {
@@ -148,7 +148,7 @@
             "id": 26,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "You are those who follow the bough's golden ray."
         },
         {
@@ -170,7 +170,7 @@
             "id": 30,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Yes, indeed I am."
         },
         {
@@ -182,7 +182,7 @@
             "id": 32,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "To seek the bough within this structure is to understand the futility of time."
         },
         {
@@ -198,14 +198,14 @@
             "id": 35,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I am certain that you are already aware that there are parties other than your own that are interested in the Boughs."
         },
         {
             "id": 36,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "You have surrendered one to them after toiling for it, in fact."
         },
         {
@@ -222,7 +222,7 @@
             "id": 39,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "The Whale, once fated to roam the Outskirts for all eternity... is now drawn by that same incandescent, gilded calling."
         },
         {
@@ -234,21 +234,21 @@
             "id": 41,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Quite. And swallowed this structure whole with that delicate Bough."
         },
         {
             "id": 42,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "The Abnormalities here have also left with that magnificent yet fragile Whale, drawn by that selfsame calling."
         },
         {
             "id": 43,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "What you seek is no longer to be found here."
         },
         {
@@ -260,14 +260,14 @@
             "id": 45,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "It matters not who lays claim upon the Golden Bough, or to what end they use it. It is no more than a mere fluttering of wings."
         },
         {
             "id": 46,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "We simply seek to steer the echoes of that fluttering toward a better direction."
         },
         {
@@ -279,14 +279,14 @@
             "id": 48,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "We are those who watch all, those who bide the time. Those who will be sovereigns of a Star."
         },
         {
             "id": 49,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Yet, we are those who cannot all embody the same Star."
         },
         {
@@ -325,7 +325,7 @@
             "id": 57,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I do."
         },
         {
@@ -337,7 +337,7 @@
             "id": 59,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "……."
         },
         {
@@ -364,49 +364,49 @@
             "id": 64,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Indeed, I was one of them. Once."
         },
         {
             "id": 65,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I shall answer your question, Yi Sang. You ask whether I have done naught but watch?"
         },
         {
             "id": 66,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "That is a question born of vacuity."
         },
         {
             "id": 67,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "For you, the League is dead. Yet, for some, its death was but a beginning."
         },
         {
             "id": 68,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I am certain that you are... well aware of that yourself."
         },
         {
             "id": 69,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "When does something end? When does something begin? The distinction is arbitrary and signifies naught."
         },
         {
             "id": 70,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "The shattering of the League was a beginning for Brother Young-ji as well."
         },
         {
@@ -423,28 +423,28 @@
             "id": 73,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "My eyes were simply opened to the stem of this world."
         },
         {
             "id": 74,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "The singular, yet all-important stem."
         },
         {
             "id": 75,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Once your eyes are opened to it... everything else becomes..."
         },
         {
             "id": 76,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "... As hollow as the fall of wilted petals."
         },
         {
@@ -470,7 +470,7 @@
             "id": 81,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "It can be said that, indeed, what you believe, what you wish to be true, is correct."
         },
         {
@@ -487,7 +487,7 @@
             "id": 84,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I hope I have been a useful signpost to you all."
         },
         {
@@ -499,21 +499,21 @@
             "id": 86,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I was once a mere pond who only knew where the sea, the rivers, and the City were."
         },
         {
             "id": 87,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Now I seek to reach there with my wings."
         },
         {
             "id": 88,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "That is all."
         },
         {
@@ -525,14 +525,14 @@
             "id": 90,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Pity. Try as you might to hold me now, I flow betwixt your fingers."
         },
         {
             "id": 91,
             "model": "림",
             "teller": "Rim",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Well, then."
         },
         {

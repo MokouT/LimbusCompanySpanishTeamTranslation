@@ -2,78 +2,78 @@
     "dataList": [
         {
             "id": 0,
-            "place": "The Pallid Whale's Heart",
+            "place": "El Corazón de la Ballena Pálida ",
             "model": "이스마엘",
-            "content": "Yeah. There once was a time when I wanted to be like you."
+            "content": "Si. Hubo un momento en el que yo deseaba ser como tu."
         },
         {
             "id": 1,
             "model": "이스마엘",
-            "content": "Once, I was your Mermaid. Devoured and overwritten by your beliefs, I swam toward a towering mad Whale that wore your face."
+            "content": "Una vez, yo fui tu Sirena. Devorada y teñida por tus creencias, Nadé hacia una enorme ballena loca que tenía tu rostro."
         },
         {
             "id": 2,
             "model": "이스마엘",
-            "content": "Because if I didn't... I... didn't know if I could go on."
+            "content": "Porque si no lo era... yo... no sabía si podía seguir adelante."
         },
         {
             "id": 3,
             "model": "이스마엘",
-            "content": "My years of aimless wandering. My loss of everyone that was ever precious to me. That I was the only one who survived. That, once I had one chance to get them back, I ended up killing them with my own hands."
+            "content": "Tantos años de vagar sin rumbo. Perdí a todos aquellos que fueron preciados para mi. Fui la única que sobrevivió. Y que, cuando tuve una oportunidad de recuperarlos, terminé matándolos con mis propias manos."
         },
         {
             "id": 4,
             "model": "이스마엘",
-            "content": "All of that had to be your fault. That was the only way to make it bearable."
+            "content": "Todo eso tenía que ser tu culpa. Esa era la única forma de hacerlo tolerable."
         },
         {
             "id": 5,
             "model": "이스마엘",
-            "content": "Before I saw that recruitment post... after I boarded the Pequod... even after I joined Limbus Company... I've never taken the helm of my own ship."
+            "content": "Antes de ver el cartel de reclutamiento... después de abordar el Pequod... incluso después de unirme a Limbus Company... Nunca tomé el timón de mi propio barco."
         },
         {
             "id": 6,
             "model": "이스마엘",
-            "content": "But... I think I've finally found my compass."
+            "content": "Pero... Creo que finalmente encontré mi brújula."
         },
         {
             "id": 7,
             "model": "에이해브다침",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "Does a mere deckhand dare speak of her own compass now?"
+            "content": "¿Cómo te atreves tú que ni eres Capitán a hablar de su propia brújula?"
         },
         {
             "id": 8,
             "model": "이스마엘",
-            "content": "Yeah. An incredibly annoying compass that keeps getting in my way. But... they're also a compass that, even as they waver, points to where I want to go…"
+            "content": "Talvez seguirá interponiéndose en mi camino una y otra vez, será increíblemente irritante. Pero... una brújula, aun siendo inestable, señala dónde quiero ir..."
         },
         {
             "id": 9,
             "model": "이스마엘",
-            "content": "So I want to go on an adventure with that compass. A real adventure. To explore and learn this world we live in."
+            "content": "Así que quiero embarcarme en una aventura con esa brújula. Una verdadera aventura. Para explorar y aprender de este mundo en el que vivimos."
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "But that bloodied past I've sailed in this voyage... is also a path that I charted."
+            "content": "Pero ese camino manchado de sangre por el que he estado viajando es también mi camino."
         },
         {
             "id": 11,
             "model": "이스마엘",
-            "content": "I accept that now. And I'll carry that weight with me. ...All of it."
+            "content": "Lo acepto ahora. Y llevare ese peso conmigo. ...Todo el peso."
         },
         {
             "id": 12,
             "model": "이스마엘",
-            "content": "That's why I have to let you live. That is how I will chart my own path."
+            "content": "Ese es el por qué tengo que dejarte vivir. Así es como trazaré mi propio camino."
         },
         {
             "id": 13,
             "model": "에이해브다침",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "What...?"
+            "content": "¿Qué...?"
         }
     ]
 }

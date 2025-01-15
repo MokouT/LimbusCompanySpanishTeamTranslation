@@ -2394,6 +2394,36 @@
       "id": 826601,
       "name": "Cuerpo",
       "desc": "Parte"
+    },
+    {
+      "id": 1058,
+      "name": "Retrato de un Cierto Día",
+      "desc": "Núcleo"
+    },
+    {
+      "id": 1059,
+      "name": "Retrato",
+      "desc": "Núcleo"
+    },
+    {
+      "id": 1060,
+      "name": "Retrato",
+      "desc": "Núcleo"
+    },
+    {
+      "id": 1061,
+      "name": "Oveja Eléctrica Soñadora",
+      "desc": "Núcleo"
+    },
+    {
+      "id": 1062,
+      "name": "Generador",
+      "desc": "Núcleo"
+    },
+    {
+      "id": 1063,
+      "name": "El Rey en Ataduras",
+      "desc": ""
     }
   ]
 }

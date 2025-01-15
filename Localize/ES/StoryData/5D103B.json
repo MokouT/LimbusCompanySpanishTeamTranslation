@@ -2,384 +2,384 @@
     "dataList": [
         {
             "id": 0,
-            "place": "The Pallid Whale's Stomach",
-            "content": "And so we ran, trying to weave our way between the pouring stomach acid..."
+            "place": "El Estómago de la Ballena Pálida",
+            "content": "Corrimos, tratando de abrirnos paso entre los desbordantes ácidos estomacales..."
         },
         {
             "id": 1,
-            "content": "... without even knowing where we were supposed to go."
+            "content": "... sin siquiera saber adónde debíamos ir.."
         },
         {
             "id": 2,
-            "teller": "???",
-            "title": "???",
-            "content": "Wow, man. What a... what a funny sight, eh?"
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Vaya. Qué... qué espectáculo tan gracioso, ¿eh?"
         },
         {
             "id": 3,
-            "teller": "???",
-            "title": "???",
-            "content": "Funny? That's more suspicious than funny."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¿Gracioso? Eso es más sospechoso que gracioso."
         },
         {
             "id": 4,
-            "teller": "???",
-            "title": "???",
-            "content": "You're too loud...! Great, now we caught their attention."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¡Haces demasiado ruido...! Genial, ahora ya nos vieron."
         },
         {
             "id": 5,
             "model": "단테",
-            "content": "<...? Who's there?>"
+            "content": "<.¿...? ¿Quién anda ahí?>"
         },
         {
             "id": 6,
-            "teller": "???",
-            "title": "???",
-            "content": "Hey. I heard you guys... talking down there."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Oigan. Los escuche... hablando ahí abajo."
         },
         {
             "id": 7,
             "model": "이상",
-            "content": "Those Mermaids... speak...?"
+            "content": "¿Esas sirenas... hablan...?"
         },
         {
             "id": 8,
-            "teller": "???",
-            "title": "???",
-            "content": "We're not... Mermaids. Ever seen a Mer...maid this chatty?"
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "No somos... Sirenas. ¿Alguna vez has visto una Si...rena tan parlanchina?"
         },
         {
             "id": 9,
             "model": "뫼르소",
-            "content": "Their Pallidification effects have only partially progressed."
+            "content": "Sus efectos de Palidificación sólo han progresado parcialmente."
         },
         {
             "id": 10,
             "model": "로쟈",
-            "content": "So what does that make them? Half-human, half-fish?"
+            "content": "¿En qué los convierte eso? ¿Mitad humanos, mitad peces?"
         },
         {
             "id": 11,
-            "teller": "???",
-            "title": "???",
-            "content": "Well, we don't got... much time. So I'll make it... short."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Bueno, no tenemos... mucho tiempo. Así que seré... breve."
         },
         {
             "id": 12,
-            "teller": "???",
-            "title": "???",
-            "content": "This zone... floods with acid every 10 minutes... or so."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Esta zona... se llena de ácido cada 10 minutos... más o menos."
         },
         {
             "id": 13,
-            "teller": "???",
-            "title": "???",
-            "content": "Unless you guys are all... made of steel..."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "A menos que ustedes estén... hechos de acero..."
         },
         {
             "id": 14,
-            "teller": "???",
-            "title": "???",
-            "content": "... you better decide fast! Either ta...ke the rope we're about to lower down, or..."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "...  ¡será mejor que se decidan rápido! O to...man la cuerda que estamos a punto de tirar, o..."
         },
         {
             "id": 15,
-            "teller": "???",
-            "title": "???",
-            "content": "... become sludgy nutrient... for the Whale and be one with it... forever and ever."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "... se convierten en nutriente fangoso... para la Ballena y ser vuelven uno con ella... para toda la eternidad."
         },
         {
             "id": 16,
-            "teller": "???",
-            "title": "???",
-            "content": "Well, even if you were to all turn into sludge, we can still salvage your weapons. We don't got nothing to lose."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Bueno, incluso si todos ustedes se convirtieran en fango, todavía podemos salvar sus armas. No tenemos nada que perder."
         },
         {
             "id": 17,
-            "teller": "???",
-            "title": "???",
-            "content": "Some of 'em are already starting to melt."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Algunos ya están empezando a derretirse."
         },
         {
             "id": 18,
             "model": "단테",
-            "content": "<Do we even have a choice?>"
+            "content": "<¿Acaso tenemos opción?>"
         },
         {
             "id": 19,
             "model": "히스클리프",
-            "content": "ROPE! NOW!"
+            "content": "¡TIRÁ LA CUERDA! ¡YA!"
         },
         {
             "id": 20,
-            "content": "They muttered something amongst themselves, as though they found something funny about this situation... and tossed an odd-looking rope in our direction."
+            "content": "Murmuraron algo entre ellos, como si la situación les hiciera gracia... y nos arrojaron una cuerda de aspecto extraño."
         },
         {
             "id": 21,
             "model": "그레고르",
-            "content": "This rope feels funny."
+            "content": "Esta cuerda se siente rara."
         },
         {
             "id": 22,
-            "teller": "???",
-            "title": "???",
-            "content": "That rope right... there's made of capillary we pulled straight... from its lungs. It'll last more than... an hour, even in its stomach acid."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Esa cuerda de ahí... está hecha de capilares que sacamos directamente... de sus pulmones. Durará más de... una hora, incluso en el ácido de su estómago."
         },
         {
             "id": 23,
             "model": "로쟈",
-            "content": "Greg... Why'd you even ask that...? Eugh, I hate it..."
+            "content": "Greg... ¿Por qué preguntaste eso...? Eugh, que asco..."
         },
         {
             "id": 24,
-            "content": "With Rodya and her grumblings in tow, we struggled up the bundle of capillary rope."
+            "content": "Con Rodya y sus quejidos a cuestas, subimos con dificultad el haz de cuerda capilar."
         },
         {
             "id": 25,
             "model": "단테",
-            "content": "<... Phew. I don't know who you guys are... But thanks.>"
+            "content": "<... Uf. No sé quiénes son ustedes... Pero gracias.>"
         },
         {
             "id": 26,
             "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Hell yeah, what a catch! We'll net us upwards of 3 gold coins for this."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¡Estupendo, una gran captura! Conseguiremos más de 3 monedas de oro por esto."
         },
         {
             "id": 27,
             "model": "피쿼드호주민2",
-            "teller": "???",
-            "title": "???",
-            "content": "I think this tick-tocking friend might be worth more than that."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Creo que este compadre del relojito puede valer más que eso."
         },
         {
             "id": 28,
             "model": "료슈",
-            "content": "A catch? You think you fished us up?"
+            "content": "¿Una captura? ¿Creen que nos has pescado?"
         },
         {
             "id": 29,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "We come here every... once in a while to check if... anyone's washed up, yeah."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Si, venimos aquí de...  vez en cuando para comprobar si... alguien ha quedado atrapado."
         },
         {
             "id": 30,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "But most of 'em poor castaways... are already almost full Mermaids by the time we find 'em. In a matter of... minutes, they're all rearing to kill us. And the rest are... just your every-day Mermaids."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Pero la mayoría de los pobres náufragos... desde que los encontramos que ya son casi sirenas completas. En cuestión de... minutos, están todas preparadas para matarnos. Y el resto son... sirenas comunes y corrientes."
         },
         {
             "id": 31,
             "model": "홍루",
-            "content": "Haha, so this is a special occasion, then?"
+            "content": "Jaja, ¿entonces es una ocasión especial?"
         },
         {
             "id": 32,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "This is probably the first time ever... that we found sailors that could not only... talk, but also weren't halfway turned... into Mermaids."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Esta es probablemente la primera vez... que encontramos marineros que no sólo podían... hablar, sino que además no estaban medio convertidos... en Sirenas."
         },
         {
             "id": 33,
             "model": "단테",
-            "content": "<So why do you guys come here every once in a while, then?>"
+            "content": "<¿Entonces por qué vienen aquí de vez en cuando?>"
         },
         {
             "id": 34,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "The clock friend... here keeps tick-tockin'. Are they saying some...thing? Doubt they're a full-on robot."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "El amigo relojito... sigue haciendo tic-tac. ¿Está diciendo... algo? Dudo que sea un robot."
         },
         {
             "id": 35,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Don't most... people prefer to keep the ability to speak even when re...placing their bodies with prosthetics? Guess the trends have re...ally changed since we got here."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¿Acaso la mayoría... de la gente no prefiere conservar la capacidad de hablar incluso cuando reem...plazan su cuerpo con prótesis? Supongo que las tendencias han cambiado re...almente desde que llegamos aquí."
         },
         {
             "id": 36,
             "model": "그레고르",
-            "content": "Uh, so that buddy there... Well, it's a long story. But yeah, they can't communicate normally."
+            "content": "Uh, nuestro compa aquí... Bueno, es una larga historia. Pero sí, no puede comunicarse normalmente."
         },
         {
             "id": 37,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Hm, all... good. Everyone's got a sto...ry they don't want to tell."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Hm, todo... bien. Todo el mundo tiene una histo...ria que no quieren contar."
         },
         {
             "id": 38,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "We can sympathize a little. Talking ain't... the easiest thi...ng to do."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Podemos simpatizar un poco. Hablar no es... la cosa mas fá...cil de hacer."
         },
         {
             "id": 39,
             "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Consider yourselves lucked out, fellas! You guys ran into us, of all things!"
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¡Considérense afortunados, colegas! ¡De todas las cosas, se toparon con nosotros!"
         },
         {
             "id": 40,
             "model": "피쿼드호주민2",
-            "teller": "???",
-            "title": "???",
-            "content": "Cuz we'll be getting out of here real soon!"
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¡Porque saldremos de aquí muy pronto!"
         },
         {
             "id": 41,
-            "content": "We followed their confident, guiding steps, but there was no way to look at this situation without a bit of suspicion."
+            "content": "Seguimos sus confiados y orientadores pasos, pero no había forma de contemplar esta situación sin un poco de suspicacia."
         },
         {
             "id": 42,
             "model": "단테",
-            "content": "<Where do you think they're taking us?>"
+            "content": "<¿A dónde crees que nos llevan?>"
         },
         {
             "id": 43,
             "model": "단테",
-            "content": "<What if they're leading us into a trap...?>"
+            "content": "<¿Y si nos están llevando a una trampa...?>"
         },
         {
             "id": 44,
             "model": "이스마엘",
-            "content": "If they were trying to attack us, they would've done so when we were almost at the top of the cliff. We were completely vulnerable to attacks there."
+            "content": "Si estuvieran intentando atacarnos, lo habrían hecho cuando estábamos casi en la cima del acantilado. Allí éramos completamente vulnerables a una emboscada."
         },
         {
             "id": 45,
             "model": "이스마엘",
-            "content": "And..."
+            "content": "Y..."
         },
         {
             "id": 46,
-            "content": "Ishmael opened her mouth as though she was about to say something, then stopped herself before turning around. It looked like she hadn't finished processing her thoughts yet."
+            "content": "Ishmael abrió la boca como si fuera a decir algo, pero se detuvo antes de darse la vuelta. Parecía que aún no había terminado de procesar sus pensamientos."
         },
         {
             "id": 47,
             "model": "이스마엘",
-            "content": "... I'm sure I've seen that harpoon before somewhere..."
+            "content": "... Estoy segura de que he visto ese arpón antes en alguna parte..."
         },
         {
             "id": 48,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "So what ship a...re you guys from again?"
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¿Y de qué barco di...jeron que eran??"
         },
         {
             "id": 49,
             "model": "그레고르",
-            "content": "Um... It's called the... The Limbus. You probably haven't heard of it, yeah..."
+            "content": "Um... Se llama el... El Limbus. Ustedes probablemente no han oído hablar de él, sí..."
         },
         {
             "id": 50,
             "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Well, talk straight, man! It's not like you're a Mermaid. Who's your Captain? If they're from U Corp, their name just might ring a bell."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¡Habla claro, hombre! No es como si fueras una Sirena. ¿Quién es tu Capitán? Si son de U Corp, su nombre puede que me suene."
         },
         {
             "id": 51,
             "model": "그레고르",
-            "content": "Um... who's... our Captain again?"
+            "content": "Um... ¿quién es... nuestro Capitán?"
         },
         {
             "id": 52,
             "model": "단테",
-            "content": "<I dunno, guys. I've never taken the helm. Not sure if I can call myself a Captain here.>"
+            "content": "<No lo sé, chicos. Nunca he tomado el timón. No estoy seguro de si puedo llamarme Capitán.>"
         },
         {
             "id": 53,
             "model": "돈키호테",
-            "content": "The helm... Forsooth... If this be all about who handles the wheel..."
+            "content": "El timón... Por supuesto... Si todo esto se trata de quién maneja el timón..."
         },
         {
             "id": 54,
             "model": "돈키호테",
-            "content": "I am quite well aware of our Captain!!! Charon is our Captain, indeed!"
+            "content": "¡Se muy bien quien es nuestro capitán! ¡Ciertamente, Charon es nuestra Capitana!"
         },
         {
             "id": 55,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Aha... nope. Never hea...rd of 'em. I guess it's really been... a while, then..."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Ajá... no. Nunca he oí...do hablar de ellos. Supongo que... ya ha pasado un tiempo, entonces..."
         },
         {
             "id": 56,
-            "content": "He scratched his head. 'Captain' Charon clearly didn't ring a bell."
+            "content": "Se rascó la cabeza. Estaba claro que \"Capitana\" Charon no le sonaba de nada."
         },
         {
             "id": 57,
             "model": "이스마엘",
-            "content": "You... How long has it been since you were trapped in here?"
+            "content": "Oye tú... ¿Cuánto tiempo ha pasado desde que quedaste atrapado aquí?"
         },
         {
             "id": 58,
             "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Eight months."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Ocho meses."
         },
         {
             "id": 59,
             "model": "피쿼드호주민2",
-            "teller": "???",
-            "title": "???",
-            "content": "No, dumbass! This is our third year! Our last count was at 644 days, so..."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "No, idiota! ¡Este es nuestro tercer año! Nuestro último recuento fue de 644 días, así que..."
         },
         {
             "id": 60,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "I dunno, la...dy. I quit coun...ting the days a while ago. I've completely lost tra...ck of time since we got stuck deep in...side where the sun don't shine."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "INo lo sé, se...ñorita. Dejé de con...tar los días hace tiempo. He perdido completamente la no...ción del tiempo desde que nos quedamos atrapados aden...tro donde el sol no brilla."
         },
         {
             "id": 61,
             "model": "이스마엘",
-            "content": "... I see."
+            "content": "... Ya veo."
         },
         {
             "id": 62,
             "model": "이스마엘",
-            "content": "I know only one person who ties a knot to their harpoon like that..."
+            "content": "Sólo conozco a una persona que ata un nudo a su arpón así..."
         },
         {
             "id": 63,
             "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Oh, this? It's called the Desper...ate's Knot. Even in our town, only the... experienced few knows how to tie it."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "Oh, ¿esto? Se llama el Nudo Desespe...rado. Incluso en nuestro pueblo, sólo unos... pocos veteranos saben cómo atarlo."
         },
         {
             "id": 64,
             "model": "이스마엘",
-            "content": "So... they're here...?"
+            "content": "Entonces... ¿están aquí...?"
         },
         {
             "id": 65,
             "model": "이스마엘",
-            "content": "I... I think I know you."
+            "content": "Yo... Creo que te conozco."
         },
         {
             "id": 66,
-            "content": "Ishmael comes to a sudden stop. So do our guides."
+            "content": "Ishmael se detiene de repente. También nuestros guías."
         },
         {
             "id": 67,
-            "content": "... Not because of what she said."
+            "content": "... No por lo que ella dijo."
         }
     ]
 }

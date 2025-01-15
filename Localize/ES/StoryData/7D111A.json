@@ -480,14 +480,14 @@
       "place": "Aboard Mephistopheles",
       "model": "실루엣돈키호테",
       "teller": "Don Quixote?",
-      "title": "???",
+      "title": "¿¿??",
       "content": "... Ah."
     },
     {
       "id": 97,
       "model": "실루엣돈키호테",
       "teller": "Don Quixote?",
-      "title": "???",
+      "title": "¿¿??",
       "content": "You are..."
     },
     {
@@ -504,7 +504,7 @@
       "id": 100,
       "model": "실루엣돈키호테",
       "teller": "Don Quixote?",
-      "title": "???",
+      "title": "¿¿??",
       "content": "Indeed... you must be the promised timepiece..."
     },
     {
@@ -526,7 +526,7 @@
       "id": 104,
       "model": "실루엣돈키호테",
       "teller": "Don Quixote?",
-      "title": "???",
+      "title": "¿¿??",
       "content": "Has the adventure... ended...?"
     },
     {

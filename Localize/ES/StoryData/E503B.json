@@ -74,7 +74,7 @@
         },
         {
             "id": 16,
-            "place": "???",
+            "place": "¿¿??",
             "content": "And we found ourselves almost getting dragged in by his sheer fervor."
         },
         {
@@ -151,15 +151,15 @@
         {
             "id": 32,
             "model": "도도루",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Ahh~ Lady Don Quixote! You finally grace us with your presence once again-ome!!!"
         },
         {
             "id": 33,
             "model": "도도루",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "And just as you did before... poof!! Appearing from the most unexpected places again-ome!!"
         },
         {
@@ -179,8 +179,8 @@
         {
             "id": 37,
             "model": "도도루",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Pleased to make your acquaintance-ome! You must be Lady Don Quixote's friend-omes!."
         },
         {
@@ -690,8 +690,8 @@
         },
         {
             "id": 143,
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "H-hello?! Is there someone out there? Please, help! Get me out of here!!!"
         },
         {

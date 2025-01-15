@@ -4,14 +4,14 @@
             "id": 0,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I have made my move."
         },
         {
             "id": 1,
-            "model": "???",
-            "teller": "???",
-            "title": "???",
+            "model": "¿¿??",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "... Oh, so you have."
         },
         {
@@ -384,7 +384,7 @@
             "id": 65,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "???",
+            "title": "¿¿??",
             "content": "It was you."
         },
         {
@@ -432,7 +432,7 @@
             "id": 74,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I will not cut you down. Your death will change nothing."
         },
         {
@@ -443,21 +443,21 @@
             "id": 76,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Let this be a warning still."
         },
         {
             "id": 77,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "???",
+            "title": "¿¿??",
             "content": "A warning that, if I ever find anyone who is capable of tearing these putrid roots from the ground... I will return."
         },
         {
             "id": 78,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "???",
+            "title": "¿¿??",
             "content": "A warning that I can easily separate your pathetic head from your body as a blade cuts through weed."
         },
         {

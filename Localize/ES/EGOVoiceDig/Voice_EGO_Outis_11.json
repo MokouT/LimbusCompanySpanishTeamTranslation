@@ -64,6 +64,76 @@
       "id": "battle_erosion_21107_1",
       "desc": "E.G.O Corrosion",
       "dlg": "No está aquí... no detrás de ni una de estas puertas... Mi camino sigue ensombrecido ¡mi camino es...!"
+    },
+    {
+      "id": "battle_awaken_21108_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Es tal como dices; está es una bala mágica que nunca fallará."
+    },
+    {
+      "id": "battle_awaken_21108_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Mi bala vuela fatalmente a la misma dirección, su predestinada trayectoria.\n No existe coincidencia alguna."
+    },
+    {
+      "id": "battle_awaken_21108_3",
+      "desc": "E.G.O Activation",
+      "dlg": "Una vez que he disparado la bala ya no hay vuelta atrás.\nIncluso cuando el trayecto que recorro es un inevitable camino al infierno."
+    },
+    {
+      "id": "battle_awaken_21108_4",
+      "desc": "E.G.O Activation",
+      "dlg": "No busques mi piedad, a aquellos que se interponen en mi camino\nlo único que les espera es desolación."
+    },
+    {
+      "id": "battle_awaken_21108_5",
+      "desc": "E.G.O Activation",
+      "dlg": "Mantente firme. Concedele silencio a todo lo que está ante ti.\nPerfora el vasto horizonte.."
+    },
+    {
+      "id": "battle_awaken_21108_6",
+      "desc": "E.G.O Activation",
+      "dlg": "El corazón desesperado arde negro, y nunca se extingue.\nSolo se inunda de amargura."
+    },
+    {
+      "id": "battle_awaken_21108_7",
+      "desc": "E.G.O Activation",
+      "dlg": "A pesar de que anhelaba la desesperación, la trayectoria de la bala...\n... ¡está predestinada!"
+    },
+    {
+      "id": "battle_erosion_21108_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Una bala ha sido disparada, una bala mágica que nunca fallará."
+    },
+    {
+      "id": "battle_erosion_21108_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Acepta tu destino, esta bala al ser disparada nunca falla."
+    },
+    {
+      "id": "battle_erosion_21108_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Una vez desde que esta bala llego a mis manos,\nSentí el extremo sentido de omnipotencia que me daba."
+    },
+    {
+      "id": "battle_erosion_21108_4",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Sin justicia, Sin malicia. Solo un dedo apretando el gatillo."
+    },
+    {
+      "id": "battle_erosion_21108_5",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Mantente imperturbable. Perfora el horizonte\nPerfora hasta el último de ellos."
+    },
+    {
+      "id": "battle_erosion_21108_6",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Me quedaré sola en este infierno al final del camino."
+    },
+    {
+      "id": "battle_erosion_21108_7",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Aunque no tenga la voluntad para avanzar...\n... Una vez disparada, la bala avanzará sin poder ser detenida."
     }
   ]
 }

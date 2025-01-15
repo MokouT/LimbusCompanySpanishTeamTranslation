@@ -68,17 +68,17 @@
     {
       "id": "battle_awaken_20107_1",
       "desc": "E.G.O Activation",
-      "dlg": "I shall feel the ponderous mass of the gun barrel rest upon my viscera.\nLet this accursed bullet pierce through them...!"
+      "dlg": "Puedo sentir el pesado cañon de un arma descansar en mis entrañas.\n¡Permite a esta bala maldita perforar a través de ellos...!"
     },
     {
       "id": "battle_erosion_20107_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "There is neither; no fragments of memories, no need to look into them... fire, only fire!"
+      "dlg": "¡No hay recuerdos dispersos, como tampoco la necesidad de buscarlos... solo dispara, dsipara!"
     },
     {
       "id": "battle_erosion_20107_2",
       "desc": "E.G.O Corrosion",
-      "dlg": "There is neither; no fragments of memories, no need to look into them... fire, only fire!"
+      "dlg": "¡No hay recuerdos dispersos, como tampoco la necesidad de buscarlos... solo dispara, dsipara!"
     }
   ]
 }

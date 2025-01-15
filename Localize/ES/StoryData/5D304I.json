@@ -3,21 +3,21 @@
         {
             "id": 0,
             "model": "이스마엘",
-            "content": "…!"
+            "content": "¡…!"
         },
         {
             "id": 1,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "Do you still fail to see? They are already 'Ahab'."
+            "content": "¿Acaso aún no lo comprendes? Ellos ya son 'Ahab'."
         },
         {
             "id": 2,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "They are my harpoons. My hatred is their hatred. My vengeance is their vengeance. And my harpoons... shall not be defied!"
+            "content": "Ellos son mi arpón. Mi odio es su odio. Mi venganza es su venganza. Y mi arpón... ¡no será desafiado!"
         }
     ]
 }

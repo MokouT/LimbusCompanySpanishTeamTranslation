@@ -2,47 +2,47 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Aboard Mephistopheles's Deck",
+            "place": "Abordo de la Cubierta de Mefistófeles",
             "model": "베르길리우스",
-            "content": "Ah... There it is."
+            "content": "Ah... Ahí está."
         },
         {
             "id": 1,
             "model": "베르길리우스",
-            "content": "Our destination, the Lobotomy Corp. Branch of U Corp."
+            "content": "Nuestro destino: la Sucursal de Lobotomy Corp. en U Corp."
         },
         {
             "id": 2,
             "model": "싱클레어",
-            "content": "You think they're still there...? The survivors Pilot mentioned?"
+            "content": "¿Creen que... los sobrevivientes de los que nos habló Pilot... todavía sigan ahí?"
         },
         {
             "id": 3,
             "model": "이상",
-            "content": "... Unless aught has transpired since then, we still have time aplenty."
+            "content": "... A no ser que algo haya ocurrido desde entonces, aún nos queda tiempo en abundancia."
         },
         {
             "id": 4,
-            "content": "As Sinclair and Yi Sang shared their thoughts, the large structure loomed ever closer, out of the mist and into our line of sight."
+            "content": "Mientras Sinclair y Yi Sang compartían opiniones, la enorme estructura se alejaba cada vez más de la niebla para aparecerse en nuestro campo de visión."
         },
         {
             "id": 5,
             "model": "료슈",
-            "content": "Ho. Creepy."
+            "content": "Guau. Tétrico."
         },
         {
             "id": 6,
-            "content": "Every Sinner, save for Ryōshū, froze."
+            "content": "Salvo por Ryōshū, todos los Pecadores se habían quedado paralizados."
         },
         {
             "id": 7,
             "model": "그레고르",
-            "content": "That's... the Lobotomy Corp. Branch...?"
+            "content": "¿Esa es... la Sucursal de Lobotomy Corp...?"
         },
         {
             "id": 8,
             "model": "파우스트",
-            "content": "We are as close as it is physically possible to be to the center of the area delineated by the coordinates. The structure's size and appearance match the intel we received as well."
+            "content": "Nos encontramos lo más cerca posible del centro de la zona delimitada por las coordenadas. Asimismo, el tamaño y la apariencia de la estructura concuerdan con la información recibida sobre ella."
         },
         {
             "id": 9,
@@ -51,314 +51,314 @@
         },
         {
             "id": 10,
-            "content": "The sight was enough to shut everyone up."
+            "content": "La sola vista fue suficiente para dejar a todos en silencio."
         },
         {
             "id": 11,
-            "content": "To hope that there may be any survivors in this structure was far too optimistic a notion for what appeared before us."
+            "content": "Pensar que podrían quedar sobrevivientes adentro de esta estructura era una esperanza demasiado optimista si se tenía en cuenta lo que se estaba apareciendo frente a nosotros."
         },
         {
             "id": 12,
             "model": "뫼르소",
-            "content": "I observe the Lobotomy Corp. logo between the white materials."
+            "content": "El isotipo de Lobotomy Corp. puede verse entre el material blanco."
         },
         {
             "id": 13,
             "model": "로쟈",
-            "content": "So that's... really..."
+            "content": "Entonces... eso realmente es..."
         },
         {
             "id": 14,
-            "content": "Only the smeared logo of the Lobotomy Corp. Branch glistened amidst mounds of pallid, blasphemous white. This was the undeniable reality we found ourselves in."
+            "content": "El desdibujado logo de la sucursal de Lobotomy Corp. era lo único que brillaba entre los montículos del pálido y desdeñoso blanco. Esta era la innegable realidad en la cual nos encontrábamos."
         },
         {
             "id": 15,
             "model": "그레고르",
-            "content": "What the hell happened here...?"
+            "content": "¿Qué diablos fue lo que pasó aquí...?"
         },
         {
             "id": 16,
             "model": "홍루",
-            "content": "Pilot said that the last thing that the Twinhook Pirates said before leaving this place was..."
+            "content": "Según Pilot, lo último que dijeron los Piratas de los Garfios Gemelos antes de abandonar este lugar fue..."
         },
         {
             "id": 17,
             "model": "홍루",
-            "content": "'The Calamity is coming', wasn't it?"
+            "content": "'Que 'la Calamidad se acerca', ¿no es así?"
         },
         {
             "id": 18,
             "model": "이상",
-            "content": "This sight summons to my mind memories from the earlier days of this company. The manner in which the organic tissues are... plastered over the walls is quite reminiscent of that experience."
+            "content": "Este panorama me trae a la mente recuerdos de uno de nuestros días más tempranos en esta compañía. La manera en que esos tejidos orgánicos se... encaraman sobre las paredes es bastante similar a cómo lo hacían los de aquella experiencia."
         },
         {
             "id": 19,
             "model": "로쟈",
-            "content": "Eugh... Back at the D Corp. Branch, right? I hope there's no poison gas trap or anything like that in here..."
+            "content": "Puaj... Hablas de la Sucursal en D Corp., ¿verdad? Espero que esta vez no haya ninguna trampa de gas venenoso ni nada parecido..."
         },
         {
             "id": 20,
             "model": "뫼르소",
-            "content": "At D Corp., there was a traitor in our midst. Thus, it would be false equivalency to use that experience to gauge the intensity of this mission."
+            "content": "En ese entonces, había un traidor entre nosotros. Utilizar aquella experiencia para intentar medir la intensidad de esta misión sería una falsa equivalencia."
         },
         {
             "id": 21,
             "model": "그레고르",
-            "content": "Yeah, I... don't think it'll be much better here... if not worse."
+            "content": "Seh, la situación fue terrible... pero no creo que esta sea mucho mejor."
         },
         {
             "id": 22,
             "model": "싱클레어",
-            "content": "Then... Pilot's team is already..."
+            "content": "Entonces... el equipo de Pilot ya está..."
         },
         {
             "id": 23,
             "model": "오티스",
-            "content": "We should consider them lucky if they haven't been turned into Mermaids..."
+            "content": "El que todavía no se hayan convertido en Sirenas sería un milagro..."
         },
         {
             "id": 24,
             "model": "단테2",
-            "content": "<So the Calamity was...>"
+            "content": "<Así que la Calamidad era...>"
         },
         {
             "id": 25,
-            "content": "The Calamity that Pilot mentioned didn't destroy the Lobotomy Corp. Branch."
+            "content": "La Calamidad que Pilot había mencionado no destruyó la Sucursal de Lobotomy Corp."
         },
         {
             "id": 26,
-            "content": "It transformed this place into something uncanny. Something so grotesque that total obliteration would've been preferable to whatever happened here."
+            "content": "Sino que la transformó en un lugar inquietante. En un lugar tan grotesco que la aniquilación total habría sido preferible antes de lo que sea que haya sucedido aquí."
         },
         {
             "id": 27,
             "model": "베르길리우스",
-            "content": "Well, destruction isn't the only kind of calamity in this world."
+            "content": "Bueno, la destrucción no es el único tipo de calamidad que hay en este mundo."
         },
         {
             "id": 28,
             "model": "베르길리우스",
-            "content": "The Great Lake is home to five Calamities. Well... four now, I suppose."
+            "content": "El Gran Lago es el hogar de cinco Calamidades. O, bueno, ahora supongo que son cuatro."
         },
         {
             "id": 29,
             "model": "이상",
-            "content": "Whatever do you mean?"
+            "content": "¿Qué quieres decir?"
         },
         {
             "id": 30,
             "model": "베르길리우스",
-            "content": "I meant that... Hm. You'll find out soon enough."
+            "content": "Quiero decir que... Hm. Lo descubrirán pronto."
         },
         {
             "id": 31,
             "model": "이스마엘",
-            "content": "It won't matter how careful you are. At the Great Lake, the Calamities will always find you. The laws of the Great Lake don't apply to them... making it impossible to predict their patterns."
+            "content": "No importa lo cuidadoso que seas, en el Gran Lago, las Calamidades siempre se abrirán paso hacia ti. Las leyes del Gran Lago no aplican con ellas... por lo que predecir sus patrones es imposible."
         },
         {
             "id": 32,
             "model": "베르길리우스",
-            "content": "And now's the time to row your way into the ruins the Calamity left behind."
+            "content": "Y ahora... es momento de que ustedes vayan remando hacia las ruinas que la Calamidad dejó atrás."
         },
         {
             "id": 33,
             "model": "베르길리우스",
-            "content": "Take the skiff to the Lobotomy Corp. Branch. It's on the Lake adjacent to this one."
+            "content": "Llévense el esquife y diríjanse a la Sucursal de Lobotomy Corp. Se encuentra en el Lago que está al lado de este."
         },
         {
             "id": 34,
             "model": "베르길리우스",
-            "content": "I'll be keeping my distance and watching from this Lake, just in case of an emergency."
+            "content": "Yo mantendré mis distancias y los estaré observando desde este Lago por si llega a ocurrir alguna emergencia."
         },
         {
             "id": 35,
             "model": "단테2",
-            "content": "<Isn't that exactly why you should be coming with us?>"
+            "content": "<¿Y no es precisamente por eso que nos deberías acompañar?>"
         },
         {
             "id": 36,
             "model": "그레고르",
-            "content": "Who knows what the guide bud's thinking, eh?"
+            "content": "Vaya uno a saber lo que pasa adentro de la mente de nuestro amigo el guía"
         },
         {
             "id": 37,
-            "content": "After a quick tinkering from Faust, the skiff tied to the side of Mephistopheles began its slow descent."
+            "content": "Luego de que Faust le haya hechos algunos retoques rápidos, el esquife atado al costado de Mefistófeles comenzó a descender lentamente."
         },
         {
             "id": 38,
-            "content": "It's the same skiff we used to get to the cruise ship."
+            "content": "Es el mismo esquife que usamos para abordar el crucero."
         },
         {
             "id": 39,
-            "place": "Mephistopheles' Skiff",
+            "place": "Esquife de Mefistófeles",
             "model": "홍루",
-            "content": "We're getting a lot of use out of this boat."
+            "content": "Le estamos sacando un muy buen provecho a este bote."
         },
         {
             "id": 40,
             "model": "로쟈",
-            "content": "Mm, I still don't trust this dinghy... It's too small."
+            "content": "Yo sigo sin confiar del todo en esta balsita... Es demasiado pequeña."
         },
         {
             "id": 41,
-            "content": "The small engine on the skiff revved gently, and our short, sputtering journey to the Lobotomy Corp. Branch began."
+            "content": "Luego de que el motor del esquife haya emitido un sonido, nuestro corto pero agitado viaje hacia la Sucursal de Lobotomy Corp. comenzó."
         },
         {
             "id": 42,
             "model": "싱클레어",
-            "content": "Are Lakes usually this foggy? The Lake earlier was pretty misty, too..."
+            "content": "¿Es normal que haya tanta niebla en los Lagos? El de antes también tuvo un poco..."
         },
         {
             "id": 43,
             "model": "돈키호테",
-            "content": "Mm, we must remain vigilant! Fogged up horizons are climate quite ripe for an ambush! Forsooth, 'tis the number one rule of adventuring tales!"
+            "content": "¡Mm, manteneos en alerta! ¡Los horizontes están labrados con túnicas de niebla perfectas para la emboscada! ¡Os digo, este es el reglamento partidario en los cuentos de aventuras!"
         },
         {
             "id": 44,
-            "place": "Abandoned Lobotomy Corp. Drilling Ship",
-            "content": "There was a growing sense of trepidation among the Sinners..."
+            "place": "Buque Perforador de Lobotomy Corp. Abandonado",
+            "content": "Mientras subíamos las pálidas escaleras que llevaban a la Sucursal de Lobotomy Corp..."
         },
         {
             "id": 45,
-            "content": "... as we climbed the pale membrane-enveloped stairs leading up to the Lobotomy Corp. Branch."
+            "content": "... a los Pecadores los empezaba a invadir cierto miedo."
         },
         {
             "id": 46,
             "model": "로쟈",
-            "content": "Hey, Dante? Can you... sense it? The Golden Bough?"
+            "content": "¿Qué dices, Dante? ¿Puedes... sentir a la Rama Dorada?"
         },
         {
             "id": 47,
             "model": "단테2",
-            "content": "<Not yet...>"
+            "content": "<Aún no...>"
         },
         {
             "id": 48,
             "model": "로쟈",
-            "content": "Hmm... You sure about that?"
+            "content": "Hmm... ¿Estás seguro?"
         },
         {
             "id": 49,
-            "content": "Rodya was visibly disappointed. Maybe she was half-hoping that I'd tell her that the Golden Bough wasn't here, so we should turn around and head right back to Mephistopheles."
+            "content": "Rodya se veía decepcionada. Tal vez tenía la diminuta esperanza de que le dijera que la Rama Dorada no estaba aquí, para que nos diéramos la vuelta y regresásemos directamente hacia Mefistófeles."
         },
         {
             "id": 50,
             "model": "로쟈",
-            "content": "Ugh, I know I'm the worry wart of the team whenever we gotta check out places like this, but... I have a real bad feeling about this, guys..."
+            "content": "Urgh, sé que siempre soy yo la preocupona del equipo cuando tenemos que andar por lugares como este, pero... de verdad que tengo un mal presentimiento sobre esto, chicos..."
         },
         {
             "id": 51,
-            "content": "The closer we got to the entrance, the more reluctant the Sinners's gaits became."
+            "content": "Cuanto más nos acercábamos a la entrada, más lento se volviá el paso de los Pecadores."
         },
         {
             "id": 52,
-            "content": "As though they were growing increasingly wary that some unseen enemy could ambush them at any second."
+            "content": "Como si el miedo a que un enemigo apareciera de la nada para tenderles una emboscada fuera creciendo con cada segundo que pasaba."
         },
         {
             "id": 53,
             "model": "이스마엘",
-            "content": "What's the holdup? Aren't you coming?"
+            "content": "¿Qué sucede? ¿No vas a venir?"
         },
         {
             "id": 54,
             "model": "그레고르",
-            "content": "Don't you feel it? This dread... I thought it would affect you most. You're the one who spent years on the Lake, after all."
+            "content": "¿Tú no lo sientes? Este miedo... Creía que a ti te afectaría más que a nadie. Tú fuiste la que pasó todos esos años en el Lago, después de todo."
         },
         {
             "id": 55,
             "model": "이스마엘",
-            "content": "So? That's what's stopping you?"
+            "content": "¿Entonces? ¿Qué te detiene?"
         },
         {
             "id": 56,
             "model": "그레고르",
-            "content": "It's... Haah..."
+            "content": "Pues... Hahh..."
         },
         {
             "id": 57,
             "model": "이스마엘",
-            "content": "Wait by the entrance if you're not going."
+            "content": "Quédate en la entrada si no vas a venir."
         },
         {
             "id": 58,
             "model": "히스클리프",
-            "content": "What did you expect, mate? I've given up talking sense into her a while ago."
+            "content": "Flaco, lleva estando así desde hace andá a saber cuanto tiempo. ¿Qué más esperabas?."
         },
         {
             "id": 59,
             "model": "그레고르",
-            "content": "I thought she'd gotten a bit more cooperative as of late. ... Guess I was wrong."
+            "content": "Últimamente la había estado notando un poco más cooperativa... Pero supongo que me equivoqué."
         },
         {
             "id": 60,
             "model": "로쟈",
-            "content": "Well... We do have to go."
+            "content": "Bueno... Tiene razón en lo de que tenemos que avanzar."
         },
         {
             "id": 61,
-            "content": "Ishmael appeared to be the only Sinner uninterested in the Golden Bough."
+            "content": "Ishmael parecía ser el único Pecador que no estaba interesado por la Rama Dorada."
         },
         {
             "id": 62,
-            "content": "The Golden Bough, the unfathomable, bone-chilling horrors of the Lake..."
+            "content": "La Rama Dorada, lo desconocido, los escalofriantes horrores del Lago..."
         },
         {
             "id": 63,
-            "content": "I was starting to believe that she considered all of that nothing but obstacles between her and her mission."
+            "content": "Estaba empezando a creer que a todas esas cosas no las consideraba como más que obstáculos que se interponían entre ella y su misión."
         },
         {
             "id": 64,
             "model": "이상",
-            "content": "What may be this pale, mucous membrane covering the entirety of this structure?"
+            "content": "¿Qué podría ser esta pálida y mucosa membrana que tapiza a esta estructura?"
         },
         {
             "id": 65,
             "model": "싱클레어",
-            "content": "Some kind of mold... Maybe?"
+            "content": "¿A lo mejor sea un tipo de... moho?"
         },
         {
             "id": 66,
             "model": "료슈",
-            "content": "I.F."
+            "content": "T.I."
         },
         {
             "id": 67,
             "model": "이상",
-            "content": "To identify it as fungi would require it to exhibit characteristics unlike the ones we can observe here..."
+            "content": "Para poder catalogarla como fungi, debería exhibir características diferentes de las que observamos aquí..."
         },
         {
             "id": 68,
             "model": "오티스",
-            "content": "Hm. I agree. They don't appear to be fungi. In fact..."
+            "content": "Hm. Estoy de acuerdo. No parece tratarse de fungi. De hecho..."
         },
         {
             "id": 69,
             "model": "오티스",
-            "content": "They appear to be made of organic, living flesh tissue. See the blood vessels here. They've grown into random shapes without purpose or intent."
+            "content": "Parecen estar hechas de tejido vivo. Miren los vasos sanguíneos de aquí. Adoptaron formas que parecen no seguir ningún propósito ni dirección."
         },
         {
             "id": 70,
             "model": "료슈",
-            "content": "Ridiculous. I am surrounded by I.F."
+            "content": "Ridículo. Estoy rodeada de T.I."
         },
         {
             "id": 71,
             "model": "오티스",
-            "content": "What do you mean?"
+            "content": "¿A qué te refieres?"
         },
         {
             "id": 72,
             "model": "료슈",
-            "content": "Art reliant on the chaos of existence cannot create patterns such as these."
+            "content": "El arte creado a partir del caos no sigue ningún patrón."
         },
         {
             "id": 73,
             "model": "료슈",
-            "content": "Look at the big picture, fool."
+            "content": "Míralo desde otra perspectiva, idiota."
         },
         {
             "id": 74,
             "model": "이상",
-            "content": "Gazing upon the big picture, I only see a pointless disputation that does naught but wastes our vigor."
+            "content": "Desde mi perspectiva, solo alcanzo a ver una discusión sin valor que no podría significar algo más que un desperdicio de nuestros esfuerzos."
         },
         {
             "id": 75,
@@ -368,7 +368,7 @@
         {
             "id": 76,
             "model": "이상",
-            "content": "You do not intend to stall, no? See thither. Ishmael already walks at a fair distance away from us."
+            "content": "No pretenden demorarse más, ¿no? Vean allá. Ishmael ya se ha alejado bastante de nosotros."
         },
         {
             "id": 77,

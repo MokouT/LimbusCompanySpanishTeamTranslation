@@ -12,8 +12,8 @@
         },
         {
             "id": 3,
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "All of you! Hold your breaths!"
         },
         {
@@ -47,8 +47,8 @@
         {
             "id": 10,
             "model": "도미노",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "So you've defeated a northern giant... yet you don't seem to know the proper procedure for what to do afterward. Are you Hunters from the City?"
         },
         {
@@ -59,8 +59,8 @@
         {
             "id": 12,
             "model": "도미노",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Immediately before death, a northern giant's body fills with noxious gas before exploding in a rain of acid."
         },
         {
@@ -70,8 +70,8 @@
         {
             "id": 14,
             "model": "도미노",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "You have to puncture a hole in its gut to let out the gas before its internal organs condense it into acidic fluid. Allowing it to cause a chain reaction could... complicate things."
         }
     ]

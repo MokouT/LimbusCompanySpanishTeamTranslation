@@ -22,8 +22,8 @@
     {
       "id": 4,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Woah, woah! Don't come any closer! Who the hell are you guys?"
     },
     {
@@ -42,8 +42,8 @@
     {
       "id": 8,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Right, like you gave me any warning before you practically kicked that door open."
     },
     {
@@ -54,15 +54,15 @@
     {
       "id": 10,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Threatening? I'm just trying to protect those civilians in this car."
     },
     {
       "id": 11,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Also, is that a bio-prosthetic? Must be an old timer, huh? I thought those things went out of style forever ago."
     },
     {
@@ -88,8 +88,8 @@
     {
       "id": 16,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "……."
     },
     {
@@ -99,8 +99,8 @@
     {
       "id": 18,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Nah. How do I trust you? Got any proof that you ain't bitten? I'm not gonna let all my effort protecting this place go to waste..."
     },
     {
@@ -111,22 +111,22 @@
     {
       "id": 20,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Weird, ya look completely lost. If you were in one of the economy cars, I'm sure you've seen—"
     },
     {
       "id": 21,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "... Hold on."
     },
     {
       "id": 22,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Are y'all from the first class car?"
     },
     {
@@ -137,8 +137,8 @@
     {
       "id": 24,
       "model": "북부대검",
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Hmm, but none of you look very... I mean, aren't first class seats supposed to be... Well, why didn't you say so from the get-go?"
     },
     {
@@ -243,13 +243,13 @@
     {
       "id": 41,
       "teller": "Rattled Passenger",
-      "title": "???",
+      "title": "¿¿??",
       "content": "Sob..."
     },
     {
       "id": 42,
       "teller": "Unhinged Passenger",
-      "title": "???",
+      "title": "¿¿??",
       "content": "3201 red colors... 3202 red colors..."
     },
     {
@@ -424,7 +424,7 @@
       "id": 72,
       "model": "열차아이",
       "teller": "Curious Child",
-      "title": "???",
+      "title": "¿¿??",
       "content": "Um... big sis, are you a Fixer? Are you going to save us from the monsters in the cars behind us?"
     },
     {
@@ -445,7 +445,7 @@
       "id": 76,
       "model": "열차아이",
       "teller": "Curious Child",
-      "title": "???",
+      "title": "¿¿??",
       "content": "Woaah...! Are you a famous Fixer?"
     },
     {
@@ -457,13 +457,13 @@
       "id": 78,
       "model": "열차아이",
       "teller": "Curious Child",
-      "title": "???",
+      "title": "¿¿??",
       "content": "Woooaaaah... I-I wanna be a Fixer, too! Just like y—"
     },
     {
       "id": 79,
       "teller": "Rattled Passenger",
-      "title": "???",
+      "title": "¿¿??",
       "content": "Don't pester the lady! I'm sorry, she's my daughter, and—"
     },
     {
@@ -621,8 +621,8 @@
     },
     {
       "id": 107,
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Guuuuhhhh..."
     },
     {

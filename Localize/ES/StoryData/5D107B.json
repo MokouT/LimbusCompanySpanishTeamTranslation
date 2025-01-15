@@ -2,24 +2,24 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Ahab's Office",
+            "place": "Oficina de Ahab",
             "model": "에이해브",
-            "content": "I see that you are having some trouble coming to an agreement amongst yourselves."
+            "content": "Veo que están teniendo problemas en llegar a un acuerdo entre ustedes."
         },
         {
             "id": 1,
             "model": "에이해브",
-            "content": "That is quite understandable. It should be clear as day that the answer is right before your eyes. My offer is perfect for your present, rather desperate, situation."
+            "content": "Es bastante comprensible. Pero si lo analizan bien, la respuesta es más que clara. Mi oferta es perfecta para su desesperada situación actual."
         },
         {
             "id": 2,
             "model": "에이해브",
-            "content": "But that is the whims of fate! These seemingly implausible, coincidental opportunities are the threads of fate weaving the path ahead for us!"
+            "content": "¡Pero así son los caprichos del destino! ¡Estas oportunidades aparentemente inverosímiles y fortuitas son los hilos del destino que tejen nuestro camino!"
         },
         {
             "id": 3,
             "model": "에이해브",
-            "content": "You must first learn to be someone who grips their destiny when it presents itself. It is common wisdom among every seafarer."
+            "content": "Primero hay que aprender a ser alguien que agarra su destino cuando se le presenta. Es sabiduría común entre todos los marineros."
         },
         {
             "id": 4,
@@ -28,49 +28,49 @@
         },
         {
             "id": 5,
-            "content": "Sinclair shuddered a little."
+            "content": "Sinclair se estremeció un poco."
         },
         {
             "id": 6,
-            "content": "A lot has happened. Various moments of past 'coincidences' must have passed before every Sinner's eyes."
+            "content": "Han pasado muchas cosas. Varios momentos de 'coincidencias' pasadas deben haber pasado ante los ojos de cada Pecador."
         },
         {
             "id": 7,
-            "content": "When we were almost sandwiched between two ships, when we encountered those floating Mermaids on a deserted ship,"
+            "content": "Cuando casi quedamos aplastados entre dos barcos, cuando nos encontramos con esas Sirenas flotantes en un barco desierto,"
         },
         {
             "id": 8,
-            "content": "When we fought a Whale and its byproducts that came with the Waves..."
+            "content": "Cuando luchamos contra una Ballena y sus subproductos que venían con las Olas..."
         },
         {
             "id": 9,
             "model": "이스마엘",
-            "content": "You and your arrogant, all-knowing speeches haven't changed one bit."
+            "content": "Tú y tus discursos arrogantes y prepotentes, no has cambiado nada."
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "Don't delude yourself. I'm not joining hands with you ever again. Even now I can't wait to chew you up and tear you apart."
+            "content": "No te hagas ilusiones. No me uniré a tus locuras nunca más. Incluso ahora no puedo esperar para desgarrarte y destrozarte."
         },
         {
             "id": 11,
             "model": "에이해브",
-            "content": "Hahaha! What face! What words! The girl has finally learned how to speak like a proper seadog worth her salt! Haven't you, Ishmael?"
+            "content": "¡Jajaja! ¡Qué cara! ¡Qué palabras! ¡La chica por fin aprendió a hablar como un auténtico lobo de mar! ¿Verdad, Ishmael?"
         },
         {
             "id": 12,
             "model": "이스마엘",
-            "content": "Didn't think you'd remember my name."
+            "content": "No pensé que recordarías mi nombre."
         },
         {
             "id": 13,
             "model": "에이해브",
-            "content": "How could I not?"
+            "content": "¿Cómo podría no hacerlo?"
         },
         {
             "id": 14,
             "model": "에이해브",
-            "content": "I heard your voice moments before the Whale swallowed me whole. The echoes of your voice calling my name, scattering to the winds amidst the desolation. Hah. I can hear it clearly, as though it happened but a day ago."
+            "content": "Escuché tu voz justo antes de que esta Ballena me tragara por completo. Esos ecos tuyos, gritando mi nombre, dispersándose por los vientos entre toda esa calamidad. Ja, los puedo recordar claramente, como si hubiese pasado ayer."
         },
         {
             "id": 15,
@@ -80,158 +80,158 @@
         {
             "id": 16,
             "model": "에이해브",
-            "content": "Even for a brief moment, through the tempest, our eyes met. And I peered into the depths of your heart."
+            "content": "Aunque haya sido por un breve momento entre la tempestad, nuestras miradas se conectaron. Y vi entre las profundidades de tu corazón."
         },
         {
             "id": 17,
             "model": "에이해브",
-            "content": "Into the depths of your true desire."
+            "content": "Entre las profundidades de tu verdadero deseo."
         },
         {
             "id": 18,
-            "content": "Ahab strode toward Ishmael."
+            "content": "Ahab marchó hacia Ishmael."
         },
         {
             "id": 19,
-            "content": "Ishmael stood her ground. She glared at the old woman with bloodshot eyes."
+            "content": "Ishmael se mantuvo firme. Miró a la vieja mujer con unos ojos enrojecidos de ira."
         },
         {
             "id": 20,
             "model": "에이해브",
-            "content": "So I'll give you what you want."
+            "content": "Así que te daré lo que quieres."
         },
         {
             "id": 21,
-            "content": "Her voice was low... yet personal. Honest."
+            "content": "Su voz era baja... pero a la vez personal. Honesta."
         },
         {
             "id": 22,
             "model": "이스마엘",
-            "content": "Huh. Let's see what kind of crap you come up with this time."
+            "content": "Hmph. Veamos que tipo de mierda sale de tu boca ahora."
         },
         {
             "id": 23,
             "model": "이스마엘",
-            "content": "Because what I want..."
+            "content": "Porque lo que quiero..."
         },
         {
             "id": 24,
             "model": "에이해브",
-            "content": "... Is my heart."
+            "content": "... Es mi corazón."
         },
         {
             "id": 25,
             "model": "이스마엘",
-            "content": "…!"
+            "content": "¡…!"
         },
         {
             "id": 26,
             "model": "에이해브",
-            "content": "Ishmael. Listen well. I am... the first and the only person who watched the birth of your life's greatest wish."
+            "content": "Ishmael. Escúchame bien. Yo soy... la primera y única persona que presenció el nacimiento del deseo más grande de tu vida."
         },
         {
             "id": 27,
             "model": "에이해브",
-            "content": "There was an awakening deep within you. A hateful obsession, screaming and thrashing with frenzy so that you may one day gut me yourself."
+            "content": "Hubo un despertar en lo más profundo de ti. Una obsesión de odio, un frenesí violento para que algún día llegaras a destruirme con tus propias manos."
         },
         {
             "id": 28,
             "model": "에이해브",
-            "content": "That very desire is what has brought you before me, past the trials and tribulations the world has thrown in your way. Am I wrong?"
+            "content": "Aquel mismo deseo es lo que te a traído ante mí, superando todos los desafíos que el mundo te ha lanzado. ¿Acaso me equivoco?"
         },
         {
             "id": 29,
             "model": "에이해브",
-            "content": "The Golden Bough they seek? You don't give a shit about that. Of course you don't."
+            "content": "¿La Rama Dorada que buscan? No te importa una mierda. Por supuesto que no."
         },
         {
             "id": 30,
             "model": "에이해브",
-            "content": "My very heart is your Golden Bough, your plunder, the treasure you so desperately seek at the end of your journey."
+            "content": "Mi corazón es tu Rama Dorada, tu botín, el tesoro que buscas tan desesperadamente al final de tu travesía."
         },
         {
             "id": 31,
             "model": "에이해브",
-            "content": "I knew that, deep inside, you were still a sailor and a harpooneer. An excellent one at that."
+            "content": "Sabía que, dentro de ti, aún eras una marinera y una arponera. Y una muy buena."
         },
         {
             "id": 32,
             "model": "에이해브",
-            "content": "From the moment of our reunion to now, you've been stabbing me over and over again in your head. And not once have you averted your eyes."
+            "content": "Desde el momento de nuestra reunión hasta ahora, te has imaginado apuñalándome una y otra vez con un resentimiento puro, ¿verdad? Sin desviar tus ojos ni una sola vez."
         },
         {
             "id": 33,
             "model": "에이해브",
-            "content": "And what a harpooneer that makes you! Were I a Whale, I would have willingly given you my heart to kill."
+            "content": "¡Y qué clase de arponera te hace! Fuese yo una Ballena, te hubiese dado mi corazón por voluntad propia."
         },
         {
             "id": 34,
             "model": "이스마엘",
-            "content": "You'll give me your heart..."
+            "content": "Me darás tu corazón..."
         },
         {
             "id": 35,
             "model": "에이해브",
-            "content": "You know better than anyone that I do not lie, Ishmael! You know where the bow of my accumulated passion has set course to!"
+            "content": "¡Tú sabes más que nadie que yo no miento, Ishmael! ¡Conoces perfectamente a dónde se dirige mi aculada pasión!"
         },
         {
             "id": 36,
             "model": "에이해브",
-            "content": "Help me destroy this Whale's heart...!"
+            "content": "¡Ayúdame a destruir el corazón de esta Ballena...!"
         },
         {
             "id": 37,
             "model": "에이해브",
-            "content": "And I, Captain Ahab, shall willingly give you my life."
+            "content": "Y yo, la Capitán Ahab, te daré mi vida por voluntad propia."
         },
         {
             "id": 38,
             "model": "에이해브",
-            "content": "It matters not the manner in which you end me. I will accept it all gladly."
+            "content": "No ha de importar la manera en que acabes conmigo. La aceptaré alegremente."
         },
         {
             "id": 39,
             "model": "이스마엘",
-            "content": "Haah..."
+            "content": "Jaah..."
         },
         {
             "id": 40,
-            "content": "Ahab snatches Ishmael's harpoon, and brings it close to her throat."
+            "content": "Ahab arrebata el arpón de Ishmael y lo acerca a su garganta."
         },
         {
             "id": 41,
             "model": "이스마엘",
-            "content": "...!"
+            "content": "¡...!"
         },
         {
             "id": 42,
             "model": "에이해브",
-            "content": "Now! Do you not wish to tear open my arteries?"
+            "content": "¡Ahora! ¡¿No quieres desgarrarme las arterias?"
         },
         {
             "id": 43,
             "model": "에이해브",
-            "content": "Allow me to make this task even easier for you. Shall I turn my neck so that my veins are plain to see?! All of this is yours... as long as I can achieve my goal."
+            "content": "Déjame facilitarte aún más las cosas. ¡¿Debo girar mi cuello para que mis venas estén a la vista?! Todo esto es tuyo... siempre y cuando pueda lograr mi objetivo."
         },
         {
             "id": 44,
             "model": "에이해브",
-            "content": "Oh, what a keen harpoon you have whetted! I can imagine the nights you've spent sharpening it, drawing a picture of my painful demise. You must have felt it-the call of destiny, your fate! Just as I have!!!"
+            "content": "¡Oh, qué arpón tan puntiagudo tienes! ¡Imagino las noches que has pasado afilándolo, dibujando mi doloroso final! ¡Debes haber sentido la llamada del destino, tu destino! ¡Igual que yo!"
         },
         {
             "id": 45,
             "model": "에이해브",
-            "content": "No one on this earth understands you better than I do, Ishmael! I know that very longing, that very burning hatred that consumes your days!"
+            "content": "¡Nadie en esta tierra te entiende mejor que yo, Ishmael! ¡Conozco ese mismo anhelo, ese mismo odio ardiente que consume tus días!"
         },
         {
             "id": 46,
             "model": "이스마엘",
-            "content": "Yeah... You're right. I'm barely holding myself back from tearing into your arteries."
+            "content": "Sí... Tienes razón. Apenas me estoy conteniendo para no desgarrarte las arterias."
         },
         {
             "id": 47,
             "model": "에이해브",
-            "content": "Yet you do not act."
+            "content": "Sin embargo, no actúas."
         },
         {
             "id": 48,
@@ -241,119 +241,119 @@
         {
             "id": 49,
             "model": "에이해브",
-            "content": "Because even now, even as the tip of your razor-sharp harpoon tickles the fuzz on my neck, you know the truth so well."
+            "content": "¡Porque incluso ahora, cuando la punta de tu afilado arpón me hace cosquillas en la pelusa del cuello! sabes muy bien la verdad."
         },
         {
             "id": 50,
             "model": "에이해브",
-            "content": "That you are still too weak to kill me."
+            "content": "De que aún eres demasiado débil para matarme."
         },
         {
             "id": 51,
             "model": "에이해브",
-            "content": "How pitiful, yet how clever... The girl knows her place."
+            "content": "Qué lamentable, pero astuta... La chica conoce su lugar."
         },
         {
             "id": 52,
             "model": "에이해브",
-            "content": "And that cleverness serves you well. A foolish sailor would not have accepted this very generous offer of mine."
+            "content": "Y esa astucia te sirve de mucho. Un marinero tonto no habría aceptado mi generosa oferta."
         },
         {
             "id": 53,
             "model": "에이해브",
-            "content": "As long as I can kill the Pallid Whale with my two hands... I care not about what happens next."
+            "content": "Mientras pueda matar a la Ballena Pálida con mis propias manos... no me importa lo que pase después."
         },
         {
             "id": 54,
             "model": "에이해브",
-            "content": "My heart is yours to harpoon, Ishmael."
+            "content": "Mi corazón es tuyo para perforarlo, Ishmael."
         },
         {
             "id": 55,
             "model": "에이해브",
-            "content": "I will be made complete at that very moment. What happens afterward... I could not care less."
+            "content": "Estaré completa en ese mismo momento. Lo que pase después... no podría importarme menos."
         },
         {
             "id": 56,
             "model": "이스마엘",
-            "content": "Ha... Haha... Ha..."
+            "content": "Ja... jaja... Ja..."
         },
         {
             "id": 57,
-            "content": "Ishmael laughed and laughed."
+            "content": "Ishmael reía y reía."
         },
         {
             "id": 58,
-            "content": "She did not fight back with her biting tongue, nor did she sharply and rationally criticize the Captain's words as she did ours."
+            "content": "No contradijo con su lengua mordaz, ni criticó perspicaz y racionalmente las palabras del capitán como hizo con las nuestras."
         },
         {
             "id": 59,
-            "content": "She laughed and laughed and laughed, glaring straight into Ahab's eyes."
+            "content": "Reía y reía y reía, mirando directamente a los ojos de Ahab."
         },
         {
             "id": 60,
             "model": "에이해브",
-            "content": "Yes... I like the look in your eyes."
+            "content": "Sí... Me gusta tu mirada."
         },
         {
             "id": 61,
             "model": "에이해브",
-            "content": "I can already see it. In fact, I may as well have already heard your decision from that look."
+            "content": "Ya puedo verla. De hecho, solo con tu mirada ya me diste a saber tu decisión."
         },
         {
             "id": 62,
             "model": "이스마엘",
-            "content": "Yeah... Enjoy your last voyage, Ahab."
+            "content": "Sí... Disfruta tu último viaje, Ahab."
         },
         {
             "id": 63,
             "model": "이스마엘",
-            "content": "And whatever it takes, survive to the end of this voyage, until you destroy the Whale's heart."
+            "content": "Y cueste lo que cueste, sobrevive hasta el final de este viaje, hasta destruir el corazón de la Ballena."
         },
         {
             "id": 64,
             "model": "이스마엘",
-            "content": "And I'll happily destroy you the moment you are made complete."
+            "content": "Y con gusto te destrozare en el momento en que estés completa."
         },
         {
             "id": 65,
             "model": "에이해브",
-            "content": "Ha! Ahahahaha!!"
+            "content": "¡Ja! ¡¡Jajajaja!!"
         },
         {
             "id": 66,
             "model": "에이해브",
-            "content": "YES! Now I see the eyes of a proper seadog! Finally, conviction burns within your eyes!"
+            "content": "¡SI! ¡Ahora veo los ojos de un verdadero lobo de mar! ¡Por fin arde la convicción en tus ojos!"
         },
         {
             "id": 67,
             "model": "에이해브",
-            "content": "I shall not disappoint, Ishmael. Allow my heart to beat like the very tempest, allow my heart to bleed hotter than the boiling blood of the Lava Whale. So that it may be a target worthy of your harpoon."
+            "content": "No te decepcionaré, Ishmael. Permite que mi corazón lata como la misma tempestad, permite que mi corazón lata con sangre más caliente que la sangre hirviente de la Ballena de Lava. Así seré un blanco digno de tu arpón."
         },
         {
             "id": 68,
             "model": "이스마엘",
-            "content": "HA! HAHAHAHA!!"
+            "content": "¡JA! ¡¡JAJAJAJA!!"
         },
         {
             "id": 69,
-            "content": "A sense of overwhelming dread emanated from the pair's mad laughter. Neither I nor the other Sinners dared to intrude."
+            "content": "De la risa enloquecida de ambas emanaba una sensación de pavor abrumador. Ni yo ni los demás Pecadores nos atrevimos a entrometernos."
         },
         {
             "id": 70,
-            "content": "Their laughters were very much alike."
+            "content": "Sus risas eran muy parecidas."
         },
         {
             "id": 71,
-            "content": "To the point where I wasn't sure which belonged to Ishmael and which belonged to Ahab."
+            "content": "Hasta el punto de que no estaba seguro de cuál pertenecía a Ishmael y cuál a Ahab."
         },
         {
             "id": 72,
-            "content": "What I was thinking then... I'm not really sure."
+            "content": "Lo que estaba pensando entonces... No estoy muy seguro."
         },
         {
             "id": 73,
-            "content": "It wasn't like we had any other choice, but..."
+            "content": "No es como si tuviéramos otra opción, pero..."
         },
         {
             "id": 74,
@@ -362,46 +362,46 @@
         },
         {
             "id": 75,
-            "content": "... maybe I was hoping that Ishmael would refuse the offer."
+            "content": "... tal vez esperaba que Ishmael rechazara la oferta."
         },
         {
             "id": 76,
-            "place": "Pequod Town",
+            "place": "Pueblo Pequod",
             "model": "스타벅",
-            "content": "So you're joining us for the jour...ney to the heart?"
+            "content": "¿Así que te nos unes en el via...je al corazón?"
         },
         {
             "id": 77,
             "model": "스타벅",
-            "content": "Ain't that... nice. It's encouraging to have you lively-look...ing fellas along for the ride! Not a hint of that pale mem...brane to be seen on yous."
+            "content": "Qué bi...en ¡Es alentador tenerlos a ustedes en el viaje, colegas de aspec...to vivaz! Ni una pizca de esa pálida mem...brana se ve en ustedes."
         },
         {
             "id": 78,
             "model": "스타벅",
-            "content": "Oh, speaking of which... How are you all so... okay?"
+            "content": "Oh, hablando de eso... ¿Cómo están tan... bien?"
         },
         {
             "id": 79,
             "model": "스타벅",
-            "content": "How come the Pallid Wha...le's got no effect on an...y of you?"
+            "content": "¿Cómo es que la Balle...na Pálida no los afecta a nin...guno de ustedes?"
         },
         {
             "id": 80,
-            "content": "Curious, Starbuck asked."
+            "content": "Starbuck preguntó con curiosidad."
         },
         {
             "id": 81,
             "model": "돈키호테",
-            "content": "Forsooth, that is- Mmmph?!"
+            "content": "¡Por supuesto, eso es... ¡¿Mmmph?!"
         },
         {
             "id": 82,
             "model": "그레고르",
-            "content": "... It's a long story. We just happened to get lucky... and I'll leave it at that."
+            "content": "... Es una larga historia. Simplemente tuvimos suerte... no diré mas que eso."
         },
         {
             "id": 83,
-            "content": "Gregor cut in and blocked Don Quixote's mouth."
+            "content": "Gregor intervino y tapó la boca de Don Quijote."
         }
     ]
 }

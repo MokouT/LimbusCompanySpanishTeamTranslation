@@ -3,14 +3,14 @@
         {
             "id": 0,
             "place": "Backstreets of T Corp.",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "That one's headed your way, aniki!"
         },
         {
             "id": 1,
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Don't worry about me, I'll handle him! Try not to get yourself killed, ya got that?!"
         },
         {
@@ -93,14 +93,14 @@
         {
             "id": 19,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "The hell are you lookin' at? Crowdin' like you're here to start shit..."
         },
         {
             "id": 20,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "Gonna keep pointing that bat at me? You wanna go? Is that it?"
         },
@@ -141,7 +141,7 @@
         {
             "id": 28,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "Heh, looks like we've got a smart one 'ere."
         },
@@ -161,14 +161,14 @@
         {
             "id": 32,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "Well, since it looks like you clowns already know how this works... lemme get straight to the point."
         },
         {
             "id": 33,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "The toll is five-hundred-thousand Ahn. Per person."
         },
@@ -180,14 +180,14 @@
         {
             "id": 35,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "Lessee 'ere... One, two... right, I count thirteen of you here. And since you guys all rode in on a bus, I'm sure there's a driver in there, too."
         },
         {
             "id": 36,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "Don't ya skimp out on us, now. I'd like it if we didn't have to make this business... messy by going through the bus ourselves."
         },
@@ -324,21 +324,21 @@
         {
             "id": 65,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "I don't like the way you're treating the Kurokumo Clan like we're some pack of stray dogs..."
         },
         {
             "id": 66,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "And don't think I missed that sympathetic look you gave her. Which could only mean..."
         },
         {
             "id": 67,
             "model": "흑운회조직원2",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Kurokumo Clan",
             "content": "... that you clowns are chummy with the Blade Lineage."
         },

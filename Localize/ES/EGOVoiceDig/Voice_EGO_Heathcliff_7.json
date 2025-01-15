@@ -89,6 +89,16 @@
       "id": "battle_erosion_20707_1",
       "desc": "E.G.O Corrosion",
       "dlg": "Una sola bala no basta...  \n¡Seguiré hasta que el sonido y el olor de la pólvora sea todo lo que recuerde!"
+    },
+    {
+      "id": "battle_awaken_20708_1",
+      "desc": "E.G.O Activation",
+      "dlg": "¡No estoy descompensado... solo agarraba vuelo de este lado para machacarlos más fuerte de regreso!"
+    },
+    {
+      "id": "battle_erosion_20708_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "¡Pudiste haberme ayudado... Antes de caerme a pedazos...!"
     }
   ]
 }

@@ -4,8 +4,8 @@
             "id": 0,
             "place": "Yong-jin Building 6F",
             "model": "시계쥰",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Haah... tsk. Why'd this have to break? Why now...?"
         },
         {
@@ -19,8 +19,8 @@
         {
             "id": 3,
             "model": "쥰",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "It better be quiet in there... I hope that thing at least stays put..."
         },
         {
@@ -60,8 +60,8 @@
         {
             "id": 10,
             "model": "쥰",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "What the-?!"
         },
         {
@@ -74,29 +74,29 @@
         {
             "id": 12,
             "model": "쥰",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Tsk, I suppose this means that my men are all dead, huh?"
         },
         {
             "id": 13,
             "model": "시계쥰",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "I'd toss you into that office if I could, but..."
         },
         {
             "id": 14,
             "model": "쥰",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "... the 'merchandise' is still in there... Gah, come on..."
         },
         {
             "id": 15,
             "model": "쥰",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "'Spose I've got no choice but to fight. At least allow me to introduce myself. Then you can tell me who you are."
         },
         {

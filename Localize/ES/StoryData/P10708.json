@@ -101,14 +101,14 @@
             "id": 19,
             "model": "겁먹은 계약자",
             "teller": "Terrified Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "... Yes sir, understood."
         },
         {
             "id": 20,
             "model": "화난 계약자",
             "teller": "Angry Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "... Tsk. Sure."
         },
         {
@@ -148,14 +148,14 @@
             "id": 27,
             "model": "겁먹은 계약자",
             "teller": "Terrified Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Yes sir, No objections."
         },
         {
             "id": 28,
             "model": "화난 계약자",
             "teller": "Angry Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Yeah, sure."
         },
         {
@@ -166,7 +166,7 @@
             "id": 30,
             "model": "화난 계약자",
             "teller": "Angry Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "... Wait. You bastard, this ain't what we agreed upon!"
         },
         {
@@ -184,14 +184,14 @@
             "id": 33,
             "model": "화난 계약자",
             "teller": "Angry Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "You said you'd take that burden yourself! What the hell do you think you're doing here, pulling this kind of-"
         },
         {
             "id": 34,
             "model": "겁먹은 계약자",
             "teller": "Terrified Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "W-what are you talking about? Our initial agreement was that-"
         },
         {
@@ -213,7 +213,7 @@
             "id": 38,
             "model": "겁먹은 계약자",
             "teller": "Terrified Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "P-please, you have to calm down..."
         },
         {
@@ -256,14 +256,14 @@
             "id": 45,
             "model": "겁먹은 계약자",
             "teller": "Terrified Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Y-you heard him! Let's all take it easy, calm ourselves, and..."
         },
         {
             "id": 46,
             "model": "화난 계약자",
             "teller": "Angry Party",
-            "title": "???",
+            "title": "¿¿??",
             "content": "SHUT UP! Are you seriously-"
         },
         {

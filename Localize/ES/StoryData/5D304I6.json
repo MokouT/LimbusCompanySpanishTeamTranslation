@@ -2,54 +2,54 @@
     "dataList": [
         {
             "id": 0,
-            "content": "Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow."
+            "content": "Ishmael lentamente se acerca a Ahab. Con una expresión sombría en su rostro."
         },
         {
             "id": 1,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "So you've finally killed everyone. Didn't even leave a single one of them alive."
+            "content": "Entonces finalmente mataste a todos. No dejaste incluso a uno de ellos con vida."
         },
         {
             "id": 2,
             "model": "이스마엘",
-            "content": "Yeah. And you're the last one."
+            "content": "Si. Y tu eres la última."
         },
         {
             "id": 3,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "Hah..."
+            "content": "Ja..."
         },
         {
             "id": 4,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "HA! HA! AHAHAHAHAHAHA!!!!"
+            "content": "¡JA! ¡JA! ¡¡¡¡JAJAJAJAJAJAJAJA!!!!"
         },
         {
             "id": 5,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "YES! Now, we have become one and the same, Ishmael."
+            "content": "¡SI! Ahora nos hemos vuelto Idénticas, Ishmael."
         },
         {
             "id": 6,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "The paths to our destinations are both unclouded. Any sacrifice, any amount of death can be justified as long as we can see our missions through to their ends!"
+            "content": "¡Los caminos hacia nuestro destinos están claros. Cualquier sacrificio, cualquier cantidad de muerte está justificada mientras podamos ver nuestras misiones avanzar hacia sus finales!"
         },
         {
             "id": 7,
             "model": "에이해브",
             "teller": "Ahab",
             "title": "E.G.O Floreciente::Arpón de Gas",
-            "content": "As long as we kill that bastard, we will have nothing more to wish for in our lives!"
+            "content": "¡Mientras matemos a esa bastarda, no tendremos nada más que desear en nuestras vidas!"
         }
     ]
 }

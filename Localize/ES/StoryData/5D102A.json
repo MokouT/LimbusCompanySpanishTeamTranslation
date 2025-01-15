@@ -2,121 +2,121 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Inside the Pallid Whale",
+            "place": "Dentro de la Ballena Pálida",
             "model": "그레고르",
-            "content": "Haah... Yeah, let's bounce before more of those Mermaids show up."
+            "content": "Haah... Si, mejor larguémonos antes de que  aparezcan más de esas sirenas."
         },
         {
             "id": 1,
             "model": "싱클레어",
-            "content": "Bounce where...? We're trapped inside a Whale."
+            "content": "¿A donde iríamos?... Estamos atrapados dentro de una Ballena."
         },
         {
             "id": 2,
             "model": "로쟈",
-            "content": "Are we... are we gonna end up looking like them, too? You know, we've been... 'devoured'."
+            "content": "¿Vamos... vamos a terminar viéndonos como ellos? Ya sabes, también hemos sido... 'devorados''."
         },
         {
             "id": 3,
             "model": "파우스트",
-            "content": "The Golden Bough inside Dante's head is likely counteracting the Pallidification effects on the Sinners' bodies."
+            "content": "La Rama Dorada dentro de la cabeza de Dante probablemente está contrarrestando los efectos de la Palidificación en el cuerpo de los Pecadores."
         },
         {
             "id": 4,
             "model": "파우스트",
-            "content": "But there is no guarantee that this defensive effect would last forever."
+            "content": "Pero no hay garantía de que este efecto defensivo dure para siempre."
         },
         {
             "id": 5,
             "model": "파우스트",
-            "content": "We must take into account that we are in an unknown environment."
+            "content": "Debemos tener en cuenta que nos encontramos en un entorno desconocido."
         },
         {
             "id": 6,
-            "content": "In other words, spending too long here could turn us into Mermaids, just like them..."
+            "content": "En otras palabras, pasar demasiado tiempo aquí podría convertirnos en Sirenas, como ellos..."
         },
         {
             "id": 7,
-            "content": "I wasn't sure if I could bring back a Sinner that's turned into a Mermaid."
+            "content": "No estoy seguro de poder traer de vuelta a un Pecador que se haya convertido en una Sirena."
         },
         {
             "id": 8,
             "model": "단테",
-            "content": "<But... Where do we even go?>"
+            "content": "<Pero... ¿Adónde vamos siquiera?>"
         },
         {
             "id": 9,
             "model": "단테",
-            "content": "<I don't have even the slightest idea as to where we might be...>"
+            "content": "<No tengo ni la menor idea de dónde podríamos estar...>"
         },
         {
             "id": 10,
             "model": "홍루",
-            "content": "Weird... I didn't know it could rain inside a Whale's belly."
+            "content": "Extraño... No sabía que podía llover dentro del vientre de una Ballena."
         },
         {
             "id": 11,
-            "content": "I was still unsure where to go, so much so that I was starting to feel completely lost... when Hong Lu suddenly blurted something about rain."
+            "content": "No sabía que hacer, tanto así que sentía que me estaba quedando sin ideas... cuando de repente Hong Lu mencionó algo sobre lluvia."
         },
         {
             "id": 12,
             "model": "단테",
-            "content": "<... What are you talking about?>"
+            "content": "<... ¿De qué estás hablando?>"
         },
         {
             "id": 13,
             "model": "홍루",
-            "content": "Oh, it's just that I felt a few droplets of water on my shoulder."
+            "content": "Oh, es que sentí unas cuantas gotas de agua en el hombro."
         },
         {
             "id": 14,
             "model": "히스클리프",
-            "content": "... Wait."
+            "content": "... Esperá."
         },
         {
             "id": 15,
             "model": "히스클리프",
-            "content": "So this is the first place we landed on after the Whale swallowed us whole, innit?"
+            "content": "Este es el lugar donde caímos después de que la Ballena nos tragara enteros, ¿no?"
         },
         {
             "id": 16,
             "model": "단테",
-            "content": "<Right...>"
+            "content": "<Correcto...>"
         },
         {
             "id": 17,
             "model": "히스클리프",
-            "content": "Sorry, I just sometimes need someone to confirm my common senses."
+            "content": "Perdón, A veces solo necesito a alguien para confirmar mi sentido común."
         },
         {
             "id": 18,
             "model": "히스클리프",
-            "content": "When you eat something... where does it usually land first?"
+            "content": "Cuando comes algo... ¿Dónde suele caer primero?"
         },
         {
             "id": 19,
             "model": "로쟈",
-            "content": "My stomach, of course. My poor, starving stomach..."
+            "content": "Mi estomago, por supuesto. Mi pobre y hambriento estomago..."
         },
         {
             "id": 20,
             "model": "파우스트",
-            "content": "... I see your point, Heathcliff."
+            "content": "... Veo tu punto, Heathcliff."
         },
         {
             "id": 21,
             "model": "파우스트",
-            "content": "The stomach constantly secretes acid in order to digest the food effectively."
+            "content": "El estómago secreta constantemente ácido para digerir la comida de manera efectiva."
         },
         {
             "id": 22,
             "model": "싱클레어",
-            "content": "Yeah, I think I learned about it in school. It's usually some kind of powerful acid..."
+            "content": "Si, Creo que aprendí sobre eso en la escuela. Usualmente es un potente tipo de acido..."
         },
         {
             "id": 23,
             "model": "싱클레어",
-            "content": "That... dissolves everything it touches..."
+            "content": "Eso... disuelve todo lo que toca..."
         },
         {
             "id": 24,
@@ -126,31 +126,31 @@
         {
             "id": 25,
             "model": "홍루",
-            "content": "So that's why my clothes melted where the water touched. Feels a bit prickly, too."
+            "content": "Entonces es por eso que mi ropa se derrite al toca el agua. Se siente un poco punzante, también."
         },
         {
             "id": 26,
-            "content": "I stared at Hong Lu's shoulder. Something had burrowed a hole there, and the surrounding skin was sizzling and melting away."
+            "content": "Miré el hombro de Hong Lu. Algo había excavado un agujero ahí, y la piel a los costados estaba chisporroteando y derritiéndose."
         },
         {
             "id": 27,
             "model": "돈키호테",
-            "content": "Are we fated to become porridge... so soon after our arrival...?"
+            "content": "Estamos destinados a ser composta... tan pronto después de nuestra llegada...?"
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "There is one positive discovery, however. This creature appears to share similar biological mechanisms and shapes as an ordinary organic lifeform."
+            "content": "Sin embargo, hay un descubrimiento positivo. Esta criatura parece compartir las mismos mecanismos biológicos y estados de una ordinaria forma de vida orgánica."
         },
         {
             "id": 29,
             "model": "단테",
-            "content": "<Everyone... We gotta run...!>"
+            "content": "<¡Todos... Tenemos que correr...!>"
         },
         {
             "id": 30,
             "model": "단테",
-            "content": "<I don't care how many pieces of you there are left, just make sure that there's something left for me to bring back...>"
+            "content": "<No importa cuantas piezas de ustedes queden atrás, solo asegúrense de dejarme algo para traerlos de vuelta...>"
         }
     ]
 }

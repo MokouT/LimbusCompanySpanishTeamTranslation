@@ -5,125 +5,125 @@
             "model": "교육 담당자",
             "teller": "Instructor",
             "title": "LCCB",
-            "content": "Dear new employees! Everyone, I know that everyone's gotta be tired of hearing this, but..."
+            "content": "¡Atención, nuevos reclutas! Tengo entendido que ustedes ya saben la siguiente información, pero vale la pena repetirla..."
         },
         {
             "id": 1,
             "model": "교육 담당자",
             "teller": "Instructor",
             "title": "LCCB",
-            "content": "... please stay focused during these loyalty training classes! The purpose of this class is to enhance your psychological readiness for battle."
+            "content": "... ¡Presten atención al entrenamiento, por favor! El propósito de esta clase es fortalecer su temple psicológico durante el combate."
         },
         {
             "id": 2,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
+            "title": "Asistente de Gerencia - LCCB",
             "content": "……"
         },
         {
             "id": 3,
-            "content": "Click. Clack."
+            "content": "Clic. Clac."
         },
         {
             "id": 4,
-            "content": "The table vibrated ever-so-slightly as the child shook her leg impatiently. Her trousers kept making that annoying, brushing noise."
+            "content": "La niña sacudía su pierna de manera impaciente, sutilmente tambaleando la mesa. El roce de su uniforme haciendo un molesto sonido."
         },
         {
             "id": 5,
-            "content": "What accompanied that was the sound of restless, irritated click-clacking of her ballpoint pen."
+            "content": "Acompañado también por el irritante clic clac de su bolígrafo, lleno de aburrimiento y frustración."
         },
         {
             "id": 6,
             "model": "교육 담당자",
             "teller": "Instructor",
             "title": "LCCB",
-            "content": "I understand it can be a bit tiring, a bit boring... but let's try reading it out loud."
+            "content": "Aunque estén cansados, aunque estén aburridos... lean esto en voz alta."
         },
         {
             "id": 7,
             "model": "교육 담당자",
             "teller": "Instructor",
             "title": "LCCB",
-            "content": "Open page 3 of the new hire training guide."
+            "content": "Manual del nuevo recluta, pagina 3, primer párrafo."
         },
         {
             "id": 8,
             "model": "신입사원들",
-            "teller": "New Hires",
+            "teller": "Nuevos Reclutas",
             "title": "LCCB",
-            "content": "... This is a reminder to all LCCB employees. We, the Before Team, are assigned the paramount task of clearing the path before anyone else does. Every bloodied step, every flesh given becomes..."
+            "content": "... Esto es un recordatorio para todos los empleados del LCCB. Nosotros, el Equipo Before, estamos asignados con la primordial tarea de limpiar el camino antes de que nadie más lo haga. Cada paso ensangrentado, cada carne arrancada se convierte en..."
         },
         {
             "id": 9,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "W.O.T."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "P.T.A."
         },
         {
             "id": 10,
-            "content": "The child muttered with a sigh. She was clearly miffed about this waste of time."
+            "content": "La niña murmulló con un suspiro. Claramente disgustada por esta perdida de tiempo absurda."
         },
         {
             "id": 11,
-            "content": "It wasn't loud enough for the instructor to pick up, but it sure was loud enough for her colleagues to hear."
+            "content": "No fue lo suficientemente alto como para que la oyera el instructor, pero sí lo suficiente para que la oyeran sus colegas."
         },
         {
             "id": 12,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "How much longer do I have to suffer this drivel? I went along with it once or twice... But it's really starting to get on my nerves."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "¿Por cuánto tiempo tendré que soportar estas tonterías? Le seguí el rollo una o dos veces... pero ya me está empezando a sacar de quicio."
         },
         {
             "id": 13,
             "model": "이스마엘",
             "teller": "Ishmael",
-            "title": "LCCB Assistant Manager",
-            "content": "... Excuse me. Can you pipe down a little?"
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "... Disculpa. ¿Podrías guardar silencio, por favor?"
         },
         {
             "id": 14,
-            "content": "Another child sat beside this one. The expression of boredom was evident on her face as well, but she still went along with the lesson for some reason. It was an odd juxtaposition of dissatisfaction and compliance."
+            "content": "Junto a ella se sentaba otra niña. La expresión de aburrimiento de esta era evidente en su rostro, pero prestaba atención al entrenamiento por alguna razón. Un curioso contraste entre insatisfacción y obediencia."
         },
         {
             "id": 15,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "Did I say anything wrong? Sacrifice ourselves for everyone else? Be proud of it? What a load of bull. What's so fun about suffering in others' stead?"
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "¿Acaso dije algo malo? ¿Qué nos sacrifiquemos por el bien de los demás? ¿Qué nos llene de orgullo entregar nuestras vidas? Pura mierda. ¿Dónde está lo divertido en ser carne de cañón?"
         },
         {
             "id": 16,
             "model": "이스마엘",
             "teller": "Ishmael",
-            "title": "LCCB Assistant Manager",
-            "content": "Sure, I can agree with some of what you said, but... It's not like we work for fun. Better to just go along with it."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Claro, puedo estar de acuerdo con algunos de tus puntos, pero... no es como si trabajáramos por diversión. Es mejor simplemente acatar ordenes."
         },
         {
             "id": 17,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "I don't agree with anything you said. I work for fun."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Y yo no estoy de acuerdo con nada de lo que acabas de decir. Yo trabajo por diversión."
         },
         {
             "id": 18,
             "model": "이스마엘",
             "teller": "Ishmael",
-            "title": "LCCB Assistant Manager",
-            "content": "... Yeah, okay. Good for you."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "... Sí, bueno. Bien por ti."
         },
         {
             "id": 19,
-            "content": "The other child frowned and opened her mouth as though she wanted to add something... before sighing and turning away."
+            "content": "La otra niña frunció el ceño y abrió la boca como si quisiera añadir algo... antes de suspirar y darse la vuelta."
         },
         {
             "id": 20,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
+            "title": "Asistente de Gerencia - LCCB",
             "content": "Hmph."
         },
         {
@@ -131,140 +131,140 @@
             "model": "교육 담당자",
             "teller": "Instructor",
             "title": "LCCB",
-            "content": "Oh, and... while ammunition is a part of your standard issue gear, please refrain from using them unless absolutely necessary. You know how expensive they are."
+            "content": "Y además... mientras que las municiones forman parte de su equipamiento estándar, por favor, absténganse de usarla a menos que sea absolutamente necesario. Ya saben lo costosas que son."
         },
         {
             "id": 22,
             "model": "교육 담당자",
             "teller": "Instructor",
             "title": "LCCB",
-            "content": "Remember: the more ammunition you save, the more extra pay you'll get."
+            "content": "Recuerden: cuanta más munición logren ahorrar, más sueldo extra obtendrán."
         },
         {
             "id": 23,
-            "content": "The child scoffed, but she knew that the other child had a point."
+            "content": "La niña se burló, pero sabía que la otra niña tenía razón."
         },
         {
             "id": 24,
-            "content": "She wouldn't be getting any 'interesting jobs' if she got fired."
+            "content": "No conseguiría ningún 'trabajo interesante' si la despedían."
         },
         {
             "id": 25,
-            "content": "Instead of continuing to sigh and complain, the child began chewing on her ballpoint pen. Hopefully, that would make this waste of time go just a little faster."
+            "content": "En lugar de continuar suspirando y quejándose, la niña empezó a morder su bolígrafo. Con algo de suerte, eso haría que esta pérdida de tiempo pasara un poco más rápido."
         },
         {
             "id": 26,
-            "content": "She kept waiting and waiting for a smoke break to arrive... She craved that thick, eye-watering puff of smoke."
+            "content": "Ella siguió esperando y esperando un pequeño descanso para poder fumar... Ansiaba el sofocante humo de cigarro."
         },
         {
             "id": 27,
-            "content": "So here she was."
+            "content": "Así que ahí estaba ella."
         },
         {
             "id": 28,
-            "content": "Leaving a trail of voluminous, eye-watering smoke in her wake."
+            "content": "Dejando a su paso un espeso sendero de humo."
         },
         {
             "id": 29,
-            "content": "Smoke from the cigarette in her mouth? Sure."
+            "content": "Por supuesto, también era humo del cigarrillo que tenía en su boca."
         },
         {
             "id": 30,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
+            "title": "Asistente de Gerencia - LCCB",
             "content": "……"
         },
         {
             "id": 31,
-            "content": "But there also was a trail of smoke coming from the shotgun in the child's hands."
+            "content": "Pero además había una senda de humo que salía de la escopeta en la manos de la niña."
         },
         {
             "id": 32,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "Hmph. So here we are."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Hmph. Así que aquí estamos."
         },
         {
             "id": 33,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "W.O.W.W.I.E."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Y.E.H.T.A.A.H."
         },
         {
             "id": 34,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "Waiting overlong was worth it eventually."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Ya era hora. Todo acabará en un arte hermoso."
         },
         {
             "id": 35,
-            "content": "There was no other sound than the metallic ch-chak of the firearm, the light sound of plastic shell casing hitting the floor..."
+            "content": "No había más sonido salvo el chasquido metálico del arma de fuego, el ligero sonido de los casquillos de plástico al golpear el suelo..."
         },
         {
             "id": 36,
-            "content": "... and the sound of her military boots clacking against the ground."
+            "content": "... y el sonido de sus botas militares chocando contra el piso."
         },
         {
             "id": 37,
-            "content": "There was nothing else here. No new recruits, no teammates... No one."
+            "content": "No había nada más aquí. No hay nuevos reclutas, ni compañeros de equipo... Nadie."
         },
         {
             "id": 38,
             "model": "비실한 조직원",
-            "teller": "Frail Pirate",
-            "title": "Twinhook Pirates",
-            "content": "…!"
+            "teller": "Pirata Frágil",
+            "title": "Piratas de los Garfios Gemelos",
+            "content": "…¡!"
         },
         {
             "id": 39,
-            "content": "And now, no enemies."
+            "content": "Y por ahora, no hay enemigos."
         },
         {
             "id": 40,
-            "content": "The child gleefully took a hit from her cigarette. What an entertaining predicament. Some things were taken from her, yet... she'd also taken from them."
+            "content": "La niña dio una calada alegre a su cigarrillo. Qué situación tan divertida. Le habían quitado algunas cosas, pero... ella también les había quitado otras."
         },
         {
             "id": 41,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "Weaklings... All of them so-called superiors."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Debiluchos... Todos esos supuestos superiores."
         },
         {
             "id": 42,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "Was that all they could manage with such a weapon? This great communicator?"
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "¿Es eso todo lo que pueden hacer con tal arma? ¿Con el gran comunicador?"
         },
         {
             "id": 43,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "To be fair, it's running low on ammo... But it's decently useful as a blunt weapon."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Para ser justos, ya se está quedando sin munición... Pero sigue siendo bastante útil como arma contundente."
         },
         {
             "id": 44,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "So we had to find some coordinates, huh... Bet they'll greet me with open arms if I return with the mission objective and body bags of my former superiors."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Así que teníamos que encontrar unas coordenadas, eh... Apuesto a que me recibirán con los brazos abiertos si regreso con el objetivo de la misión y las bolsas de cadáveres de mis antiguos superiores."
         },
         {
             "id": 45,
             "model": "료슈",
             "teller": "Ryōshū",
-            "title": "LCCB Assistant Manager",
-            "content": "Now they'll give me more interesting jobs in the future for sure... heh."
+            "title": "Asistente de Gerencia - LCCB",
+            "content": "Ahora seguro que me darán trabajos más interesantes en el futuro... heh."
         },
         {
             "id": 46,
-            "content": "The child grinned. All's well that ends well. She spat out the butt of the cigarette and made her way deeper into the building."
+            "content": "La niña sonrió. Bien está lo que bien acaba. Escupió la cola de su cigarrillo y entró a lo más profundo del edificio."
         }
     ]
 }

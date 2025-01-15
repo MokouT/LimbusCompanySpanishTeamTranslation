@@ -2,24 +2,24 @@
     "dataList": [
         {
             "id": 0,
-            "place": "The Pequod",
+            "place": "El Pequod",
             "model": "핍과거",
-            "content": "He got bit, trying to save Pip. The Whale bit him when he tried to save Pip, he..."
+            "content": "Lo mordieron, tratando de salvar a Pip. La ballena lo mordió cuando trataba de salvar a Pip, él..."
         },
         {
             "id": 1,
             "model": "스타벅과거",
-            "content": "Shit, why'd that oil barrel have to fall on our oarsman...?"
+            "content": "Mierda, ¿por qué tuvo que caer ese barril de aceite sobre nuestro remero...?"
         },
         {
             "id": 2,
             "model": "스타벅과거",
-            "content": "None of it made sense from the start, making that kid row as a replacement...!"
+            "content": "Nada de esto tenía sentido desde el principio, ¡hacer que ese chico remara como remplazo....!"
         },
         {
             "id": 3,
             "model": "핍과거",
-            "content": "Captain, please tell Pip. Is Stubb going to die?"
+            "content": "Capitana, por favor dígale a Pip. ¿Stubb morirá?"
         },
         {
             "id": 4,
@@ -29,52 +29,52 @@
         {
             "id": 5,
             "model": "에이해브과거",
-            "content": "What did I say?"
+            "content": "¿Qué es lo que he dicho?"
         },
         {
             "id": 6,
             "model": "에이해브과거",
-            "content": "As long as you are my crew! None of you! Shall die without my explicit permission."
+            "content": "¡Mientras seáis mi tripulación! ¡Ninguno de ustedes! Morirá sin mi permiso explícito."
         },
         {
             "id": 7,
             "model": "에이해브과거",
-            "content": "And I don't remember giving any of you permission to die just yet."
+            "content": "Y no recuerdo haberle dado todavía permiso a alguno de ustedes para morir."
         },
         {
             "id": 8,
             "model": "스텁",
-            "content": "B-but... I... What will happen to..."
+            "content": "P-pero... Yo... ¿Qué pasará con...?"
         },
         {
             "id": 9,
             "model": "에이해브과거",
-            "content": "The Pequod is on the brink of reaching the Pallid Whale of hatred! All we need is a good compass that'll lead us to it."
+            "content": "¡El Pequod está a punto de alcanzar la Ballena Pálida del odio! Sólo necesitamos una buena brújula que nos lleve a ella."
         },
         {
             "id": 10,
             "model": "에이해브과거",
-            "content": "This Mermaid before us will serve that role better than anything."
+            "content": "Esta Sirena que tenemos ante nosotros cumplirá ese papel mejor que nada."
         },
         {
             "id": 11,
             "model": "스텁",
-            "content": "B-but, Captain, I... am not... a Mermaid..."
+            "content": "P-pero, Capitán, yo... no soy... una Sirena..."
         },
         {
             "id": 12,
             "model": "스타벅과거",
-            "content": "…!"
+            "content": "¡…!"
         },
         {
             "id": 13,
             "model": "에이해브과거",
-            "content": "Whatever that Whale devoured will eventually turn into a Pallid Mermaid. You must know that."
+            "content": "Lo que sea que esa Ballena devore eventualmente se convertirá en una Sirena Pálida. Ya deberías saberlo."
         },
         {
             "id": 14,
             "model": "에이해브과거",
-            "content": "Incarcerate this Mermaid in the large cistern down by the holds. Its instinct will drive it toward the Whale of hatred."
+            "content": "Encarcela a esta Sirena en la gran cisterna junto a las bodegas. Su instinto nos llevará hacia la Ballena del odio."
         },
         {
             "id": 15,
@@ -84,216 +84,216 @@
         {
             "id": 16,
             "model": "스텁",
-            "content": "Captain... Captain... Please, no...!"
+            "content": "Capitana... Capitana... ¡Por favor, no...!"
         },
         {
             "id": 17,
             "model": "에이해브과거",
-            "content": "Starbuck, send down a skiff."
+            "content": "Starbuck, manda un esquife."
         },
         {
             "id": 18,
             "model": "이스마엘과거",
-            "content": "... What? Now?"
+            "content": "... ¿Qué? ¿Ahora?"
         },
         {
             "id": 19,
             "model": "스타벅과거",
-            "content": "... Aye."
+            "content": "... Sí."
         },
         {
             "id": 20,
             "model": "이스마엘과거",
-            "content": "A few moments later, I heard a splash of water. All hands of the ship emerged from their stations and gathered around Ahab."
+            "content": "Unos instantes después, oí un chapoteo de agua. Todos los tripulantes del barco salieron de sus puestos y se reunieron alrededor de Ahab."
         },
         {
             "id": 21,
             "model": "이스마엘과거",
-            "content": "And Ahab... thundered."
+            "content": "Y Ahab... exclamó con fuerza."
         },
         {
             "id": 22,
             "model": "에이해브과거",
-            "content": "Ooh! I hear him! Listen well, for it is Stubb who speaks! Heed his voice!"
+            "content": "¡Ooh! ¡Lo oigo! ¡Escuchad bien, porque es Stubb quien habla! Presten atención a su voz!"
         },
         {
             "id": 23,
             "model": "핍과거",
-            "content": "…?"
+            "content": "¿…?"
         },
         {
             "id": 24,
             "model": "이스마엘과거",
-            "content": "What the hell is she..."
+            "content": "¿Qué demonios está...?"
         },
         {
             "id": 25,
             "model": "에이해브과거",
-            "content": "All of you! Listen well! The voice of the great sailor Stubb echoes from across that Lake! The great sailor Stubb who so willingly threw his life in danger for the hunt of the Whale!"
+            "content": "¡Todos! ¡Escuchen bien! ¡La voz del gran marinero Stubb resuena desde el otro lado del lago! ¡El gran marinero Stubb que tan voluntariamente puso su vida en peligro por la cacería de la Ballena!"
         },
         {
             "id": 26,
             "model": "스텁그림자",
-            "content": "... I... the great..."
+            "content": "... Yo... el gran..."
         },
         {
             "id": 27,
             "model": "에이해브과거",
-            "content": "In our urgency, we had no time to bring him back aboard!"
+            "content": "En nuestra premura, ¡no tuvimos tiempo de subirlo de nuevo a bordo!"
         },
         {
             "id": 28,
             "model": "에이해브과거",
-            "content": "Yet he lives! He did not die! Though he is overboard, floating on the Lake after this fateful battle, he will soon find safety aboard the skiff I have lowered for him!"
+            "content": "¡Sin embargo, vive! No ha muerto. Aunque está por la borda, flotando en el lago después de esta fatídica batalla, ¡pronto encontrará la seguridad a bordo del esquife que he bajado para él!"
         },
         {
             "id": 29,
             "model": "에이해브과거",
-            "content": "He shouts! Oh yes, he bellows for our victory! And he bellows that we must go on, sail forth to victory!"
+            "content": "¡Grita! ¡Oh sí, él brama por nuestra victoria! Y brama que debemos seguir adelante, navegar hacia la victoria!"
         },
         {
             "id": 30,
             "model": "이스마엘과거",
-            "content": "What kind of insanity is..."
+            "content": "¿Qué clase de locura es...?"
         },
         {
             "id": 31,
             "model": "퀴케그과거",
-            "content": "... We. Sail forth."
+            "content": "... Nosotros. Navegar hacia adelante."
         },
         {
             "id": 32,
             "model": "이스마엘과거",
-            "content": "... Queequeg?"
+            "content": "... ¿Queequeg?"
         },
         {
             "id": 33,
             "model": "에이해브과거",
-            "content": "This voyage will soon meet its victorious end. Then I shall sail to the nearest port!"
+            "content": "Este viaje pronto llegará a su final victorioso. ¡Entonces zarparé hacia el puerto más cercano!"
         },
         {
             "id": 34,
             "model": "에이해브과거",
-            "content": "And there he shall await us, the great Stubb! With a profound smile he shall greet us."
+            "content": "¡Y allí nos esperará, el gran Stubb! Con una profunda sonrisa nos saludará."
         },
         {
             "id": 35,
             "model": "에이해브과거",
-            "content": "He will be rightly rewarded. And of course, we will all share tales of this long voyage over many sleepless nights!"
+            "content": "Será justamente recompensado. ¡Y, por supuesto, todos compartiremos las historias de este largo viaje durante muchas noches de insomnio!"
         },
         {
             "id": 36,
             "model": "스텁그림자",
-            "content": "With... a profound... smile... I..."
+            "content": "Con... una profunda... sonrisa... Yo..."
         },
         {
             "id": 37,
             "model": "에이해브과거",
-            "content": "And there you shall all be as well! We will buy rounds upon rounds of drinks for everyone in the tavern in Stubb's name!"
+            "content": "¡Y allí estaréis todos también! ¡Compraremos rondas y rondas de bebidas para todos en la taberna en nombre de Stubb!"
         },
         {
             "id": 38,
             "model": "에이해브과거",
-            "content": "Once! This voyage is over! EVERYTHING! WILL! COME TO BE!"
+            "content": "¡Una vez! ¡Que este viaje termine! ¡TODO! ¡SE HARÁ  REALIDAD!"
         },
         {
             "id": 39,
             "model": "스타벅과거",
-            "content": "... Once this voyage is over."
+            "content": "... Una vez que este viaje termine."
         },
         {
             "id": 40,
             "model": "퀴케그과거",
-            "content": "Once this voyage... Over."
+            "content": "Una vez este viaje... termine."
         },
         {
             "id": 41,
             "model": "스텁그림자",
-            "content": "Once... this voyage... is over..."
+            "content": "Una vez... que este viaje... termine..."
         },
         {
             "id": 42,
             "model": "스텁그림자",
-            "content": "The Whale of Hatred... is finally... in our sights..."
+            "content": "La Ballena del odio... finalmente esta... en nuestras miras..."
         },
         {
             "id": 43,
             "model": "스텁그림자",
-            "content": "You'll kill it, right...? Captain..."
+            "content": "Tu la matarás ¿Verdad? Capitana..."
         },
         {
             "id": 44,
             "model": "에이해브과거",
-            "content": "Let us answer his calling! We will kill the Whale of Hatred... WE WILL KILL THE PALLID WHALE!"
+            "content": "¡Respondamos a su llamada! Mataremos a la Ballena del Odio... ¡MATAREMOS A LA BALLENA PALIDA!"
         },
         {
             "id": 45,
             "model": "에이해브과거",
-            "content": "All aboard, men! All aboard for the hunt for the evil...!"
+            "content": "¡Todos a bordo! ¡Todos a bordo de la cacería del mal...!"
         },
         {
             "id": 46,
             "model": "에이해브과거",
-            "content": "All aboard on this voyage to hunt the fount of all evils of the world, of the City, the hateful evil that pushes you all to the brink of death!"
+            "content": "Todos a bordo de este viaje para cazar a la fuente de todos los males del mundo, de la Ciudad, ¡El odioso mal que los empuja a todos al borde de la muerte!"
         },
         {
             "id": 47,
             "model": "에이해브과거",
-            "content": "All of your struggles, all of your injustices, all of your pains and losses... that very evil sprang forth from that very Whale..."
+            "content": "Todas sus luchas, todas sus injusticias, todos sus dolores y pérdidas... ese mismo mal surgió de esa misma Ballena..."
         },
         {
             "id": 48,
             "model": "에이해브과거",
-            "content": "So we'll kill it! We'll kill it and watch as the new dawn breaks upon a world that has been mended!"
+            "content": "¡Así que la mataremos! La mataremos y veremos cómo amanece un mundo remendado!"
         },
         {
             "id": 49,
             "model": "퀴케그과거",
-            "content": "... Aye!"
+            "content": "... ¡Sí!"
         },
         {
             "id": 50,
             "model": "에이해브과거",
-            "content": "SHOUT! BELLOW!"
+            "content": "¡GRITEN! ¡RUJAN!"
         },
         {
             "id": 51,
             "model": "스타벅과거",
-            "content": "Aye, Captain...!"
+            "content": "¡Sí, Capitana...!"
         },
         {
             "id": 52,
             "model": "핍과거",
-            "content": "Ehehehe, goodbye! Stubb!! Let's meet again! Again, and again!"
+            "content": "Ejejeje, ¡adiós! ¡¡Stubb!! ¡Volvamos a vernos! ¡Una y otra vez!"
         },
         {
             "id": 53,
             "model": "스텁그림자",
-            "content": "... Aye!!!"
+            "content": "... ¡¡¡Sí!!!"
         },
         {
             "id": 54,
             "model": "이스마엘과거",
-            "content": "Yeah. It'll all be over when we kill the Pallid Whale."
+            "content": "Así es. Todo terminará cuando matemos a la Ballena Pálida."
         },
         {
             "id": 55,
             "model": "이스마엘과거",
-            "content": "When we kill the Whale of all evils..."
+            "content": "Cuando matemos a la Ballena de todos los males..."
         },
         {
             "id": 56
         },
         {
             "id": 57,
-            "place": "The Pallid Whale's Right Ventricle",
+            "place": "El Ventrículo Derecho de la Ballena Pálida",
             "model": "단테",
-            "content": "<So all along, we've not only...>"
+            "content": "<Así que todo este tiempo, no solo hemos...>"
         },
         {
             "id": 58,
             "model": "단테",
-            "content": "<... been trapped inside the Whale, but also in her palms, all along...>"
+            "content": "<... estado atrapados dentro de la ballena, sino también en sus palmas...>"
         }
     ]
 }

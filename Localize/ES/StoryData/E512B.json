@@ -4,7 +4,7 @@
             "id": 0,
             "place": "Inside Mephistopheles",
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "Where...?"
         },
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "An Odachi...?! Hah!"
         },
@@ -32,7 +32,7 @@
         {
             "id": 5,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "Identify yourselves! Are you with the Kurokumo Clan?!"
         },
@@ -49,7 +49,7 @@
         {
             "id": 8,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "Then why does that woman wield an Odachi?!"
         },
@@ -100,14 +100,14 @@
         {
             "id": 18,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "I-I suppose your blade is not exactly like theirs... Your uniform is certainly different."
         },
         {
             "id": 19,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "And you... who might you be? You certainly wear a rather loud timepiece... Are you unable to communicate otherwise?"
         },
@@ -119,14 +119,14 @@
         {
             "id": 21,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "... Hm."
         },
         {
             "id": 22,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "... I recognize the scent your voice carries. It's... familiar."
         },
@@ -138,14 +138,14 @@
         {
             "id": 24,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "Speak as you do, indeed. Yet I sense familiarity in your choice of verbiage."
         },
         {
             "id": 25,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "You must be from District 19... S Corp., are you?"
         },
@@ -157,14 +157,14 @@
         {
             "id": 27,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "I see... so you have also left your home behind."
         },
         {
             "id": 28,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "My compatriots oft share the same fate as we do."
         },
@@ -180,7 +180,7 @@
         {
             "id": 31,
             "model": "앵두",
-            "teller": "???",
+            "teller": "¿¿??",
             "title": "Blade Lineage",
             "content": "Ah... So I have acted with such brutishness despite your kindness-please, accept my apologies."
         },

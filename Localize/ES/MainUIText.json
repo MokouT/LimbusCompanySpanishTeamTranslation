@@ -1843,6 +1843,10 @@
     {
       "id": "gacha_notice_vending_available_date_v3",
       "content": "IDs & E.G.O. de Temporada serán reclamables en la Dispensa luego del {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "mini_story_warning_spoiler_checkbox_desc",
+      "content": "No ver este mensaje de nuevo"
     }
   ]
 }

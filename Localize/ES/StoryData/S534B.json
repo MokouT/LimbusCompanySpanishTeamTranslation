@@ -43,8 +43,8 @@
         {
             "id": 8,
             "model": "쪽빛노인",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Because I am the only one who can hunt that Pallid Whale."
         },
         {
@@ -76,7 +76,7 @@
             "id": 14,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "... Hrm."
         },
         {
@@ -102,7 +102,7 @@
             "id": 19,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "We've wasted much time, so I'll be blunt. I wish to hunt the Pallid Whale."
         },
         {
@@ -124,7 +124,7 @@
             "id": 23,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "……."
         },
         {
@@ -175,7 +175,7 @@
             "id": 33,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "……."
         },
         {
@@ -192,21 +192,21 @@
             "id": 36,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "……"
         },
         {
             "id": 37,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I must ask you one last thing."
         },
         {
             "id": 38,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Will you join us to fish, Red?"
         },
         {
@@ -237,7 +237,7 @@
             "id": 44,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "……."
         },
         {
@@ -263,14 +263,14 @@
             "id": 49,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I never said I am."
         },
         {
             "id": 50,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "This loud, screaming ship won't do in our hunt for the Pallid Whale."
         },
         {
@@ -282,7 +282,7 @@
             "id": 52,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "To hunt it, the boat must remain near and covert. A narrow and sturdy boat is what we need."
         },
         {
@@ -304,7 +304,7 @@
             "id": 56,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "That's all right. I'll sail on my own skiff."
         },
         {
@@ -331,7 +331,7 @@
             "id": 61,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Hrm..."
         },
         {
@@ -351,28 +351,28 @@
             "id": 65,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I noticed it in the earlier scuffle. That clock seems to have been you and your crew's lifeline."
         },
         {
             "id": 66,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I know not how it works, but I presume it is a Singularity of sorts."
         },
         {
             "id": 67,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "It will not work against the Whale."
         },
         {
             "id": 68,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "So start now. Get used to the idea that not everything can be brought back."
         },
         {
@@ -398,21 +398,21 @@
             "id": 73,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "You ask me the wrong question. I would have denied your request, had Red agreed to take part."
         },
         {
             "id": 74,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Let's say that Red joined us. We would together battle the Whale in a long and arduous struggle. In the end, the Whale would surely go down-taking one of us with it."
         },
         {
             "id": 75,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "That is why I would have opted out if Red chose to join us."
         },
         {
@@ -424,7 +424,7 @@
             "id": 77,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Because the hunt would no longer be mine."
         },
         {
@@ -436,7 +436,7 @@
             "id": 79,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I mean that I would not be able to test the limits."
         },
         {
@@ -458,21 +458,21 @@
             "id": 83,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Out of fear, humans drew borders even to the Outskirts that lie beyond the City limits."
         },
         {
             "id": 84,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Beyond it are stars that lie beyond the edge of understanding, beyond even the concept of fear itself."
         },
         {
             "id": 85,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I am but a fisherman seeking to cross the borders and challenge that very understanding."
         },
         {
@@ -489,28 +489,28 @@
             "id": 88,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Ah, so you have been a prey once, sailor."
         },
         {
             "id": 89,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Countless Lakes here also devour. Summon calamities."
         },
         {
             "id": 90,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "If you find yourself at a crossroads, if you find that your life is worth nothing in the face of what lies before you..."
         },
         {
             "id": 91,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Recall this conversation."
         },
         {
@@ -522,21 +522,21 @@
             "id": 93,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I'm no good with advice. Never was."
         },
         {
             "id": 94,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Still, I thought I'd part a few words..."
         },
         {
             "id": 95,
             "model": "쪽빛노인",
             "teller": "The Indigo Elder",
-            "title": "???",
+            "title": "¿¿??",
             "content": "... as a fellow seafarer. Suppose I felt a bit of kinship."
         },
         {

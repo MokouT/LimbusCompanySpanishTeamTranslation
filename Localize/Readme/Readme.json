@@ -27,8 +27,8 @@
       "startDate": "2024-02-08T08:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Versión V0.4.1.",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# Notas del Parche v4.2\\n\\n- Corrección de errores gramáticos en Intervallo SEA arreglados. \\n- 80% de los Regalos EGO traducidos.\\n\\nHistorias de identidades traducidas\\n- Meursault Liu\\n- Meursault N Corp.\\n- Meursault Rosespanner\\n- Meursault Rhino\\n- Meursault Middle\\n- Ryoshu Kurokumo\\n- Ryoshu Chef\\n- Ishmael Reno\\n- Ishmael Shi\\n- Ishmael LCCB\\n\\nDiálogos de Identidades traducidas\\n- Hong Lu Dieci\\n\\nHabilildades Don Quixote Manager Traducidas.\\n\\nSeguimos trabajando en Canto 5. se estima que estará listo para mediados de enero. \\n  \\n  \"},{\"formatKey\":\"Image\",\"formatValue\":\"\"}]}"
+      "title_KR": "Versión V0.4.3.",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# Notas del parche 4.3:\\n\\nEste parche se centró más en la Corrección de errores existentes tanto de código, optimización y gramático, por lo que no tendrá tanto contenido.\\n\\nOh, y está versión viene con el Canto 5 casi completo, solo faltan del cap 26 hasta el 40... Pero la mazmorra está completa (y sujeta a cambios.), tal vez la siguiente semana saldrá totalmente :).\\n\\n-Arreglado un error donde la descripción del Dream-Devouring Siltcurrent no se mostraba correctamente.\\n\\nHistorias de Identidad\\n-Dead Rabbits Sault\\n-Ryoshu Butler\\n-Ryoshu W Corp.\\n-Ryoshu Liu\\n-Ryoshu LCCB\\n\\nDiálogo de Identidades\\n-Ryoshu comunista. \\n  \\n  \"},{\"formatKey\":\"Image\",\"formatValue\":\"\"}]}"
     },
     {
       "id": 2923,
@@ -38,8 +38,8 @@
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [
       ],
-      "title_KR": "Versión V0.4.0.",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# Notas del Parche 4.1:\\nHistoria Traducidas:\\nIntervallo II **M.A.R.**\\n\\nRegistros de observación.\\n-Cazador de Rosas\\n-Peccatulum Luxuriae??\\n-Peccatulum Superbiae??\\n-Osito de Peluche Lastimado\\n\\nDiálogos de Identidad\\n-Faust Multicrack\\n-Heathcliff Multicrack\\n-Hong Lu Yurodivy\\n-WILDU HUNTO YA\\n-Hook Lu\\n-Hong Lu K Corp\\n-Gregor Priest\\n-Rodion Princess\\n-Outis Barber\\n-Hong Lu W Corp.\\n-Outis W Corp.\\n\\nHabilidades y Pasivas de Identidades/Egos Recientes Actualizadas\\n\\nVarios errores corregidos. \\n  \\n  \"},{\"formatKey\":\"Image\",\"formatValue\":\"\"}]}"     
+      "title_KR": "Versión V0.4.2.",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# Notas del Parche v4.2\\n\\n- Corrección de errores gramáticos en Intervallo SEA arreglados. \\n- 80% de los Regalos EGO traducidos.\\n\\nHistorias de identidades traducidas\\n- Meursault Liu\\n- Meursault N Corp.\\n- Meursault Rosespanner\\n- Meursault Rhino\\n- Meursault Middle\\n- Ryoshu Kurokumo\\n- Ryoshu Chef\\n- Ishmael Reno\\n- Ishmael Shi\\n- Ishmael LCCB\\n\\nDiálogos de Identidades traducidas\\n- Hong Lu Dieci\\n\\nHabilildades Don Quixote Manager Traducidas.\\n\\nSeguimos trabajando en Canto 5. se estima que estará listo para mediados de enero. \\n  \\n  \"},{\"formatKey\":\"Image\",\"formatValue\":\"\"}]}"     
     }
   ]
 }

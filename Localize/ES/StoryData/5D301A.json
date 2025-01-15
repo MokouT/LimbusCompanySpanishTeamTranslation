@@ -2,23 +2,23 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Thumping of the Heart",
+            "place": "Latidos del Corazón",
             "model": "에이해브",
-            "content": "Oh, you are doing much better than I expected."
+            "content": "Oh, lo están haciendo mucho mejor de lo que esperaba."
         },
         {
             "id": 1,
             "model": "그레고르",
-            "content": "Hey, you... Don't tell me you've just been twiddling your thumbs, watching us fight?"
+            "content": "Oye, tú... ¿No me digas que solo has estado de brazos cruzados, viéndonos pelear?"
         },
         {
             "id": 2,
             "model": "에이해브",
-            "content": "I would have just gotten in your way."
+            "content": "Sólo me habría interpuesto en su camino."
         },
         {
             "id": 3,
-            "content": "It appeared that Ahab lost most of her crew on her way here."
+            "content": "Al parecer, Ahab perdió a la mayoría de su tripulación de camino hacia aquí."
         },
         {
             "id": 4,
@@ -28,196 +28,196 @@
         {
             "id": 5,
             "model": "퀴케그",
-            "content": "Rest of crew not here. Only five now. Why?"
+            "content": "Resto de tripulación no estar aquí. Sólo cinco. ¿Por qué?"
         },
         {
             "id": 6,
             "model": "에이해브",
-            "content": "You dare question me now, eh? Your present company must've rubbed off on you."
+            "content": "Te atreves a cuestionarme ahora, ¿eh? Se te debe haber pegado de tu compañía actual."
         },
         {
             "id": 7,
             "model": "에이해브",
-            "content": "I have enough men left. The rest were... disposable. They must have left you quite the impression, Queequeg."
+            "content": "Me quedan suficientes hombres. El resto eran... desechables. Deben haberte dejado una buena impresión, Queequeg."
         },
         {
             "id": 8,
             "model": "퀴케그",
-            "content": "Say it. Why."
+            "content": "Dilo. ¿Por qué."
         },
         {
             "id": 9,
             "model": "에이해브",
-            "content": "Before I do... Queequeg, where's your greeting for your Captain? For your surviving compatriots?"
+            "content": "Antes de que lo haga... Queequeg, ¿dónde está tú saludo para tu Capitana? ¿Para tus compatriotas sobrevivientes?"
         },
         {
             "id": 10,
             "model": "에이해브",
-            "content": "Especially when... the heart presents itself before us! We are THIS close to killing the Whale!"
+            "content": "Especialmente cuando... ¡el corazón mismo esta delante nosotros! ¡Estamos ASÍ de cerca de matar a la Ballena!"
         },
         {
             "id": 11,
             "model": "핍",
-            "content": "Pip hates Mermaids!!! W-want to! Now! Want to get out of here!!!"
+            "content": "¡¡¡Pip odia a las Sirenas!!! ¡Q-Quiero! ¡¡Ya!! ¡¡¡Quiero salir de aquí!!!"
         },
         {
             "id": 12,
             "model": "핍",
-            "content": "But the pale keeps trying to eat Pip. This. Ugh, ughh. It won't come off."
+            "content": "Pero la palidez sigue intentando comerse a Pip. Esto. Ugh, ughh. No se quita."
         },
         {
             "id": 13,
             "model": "에이해브",
-            "content": "The Pallidification is progressing, the closer we get to the heart. It is starting to get rather... bothersome."
+            "content": "La palidificación está progresando, cuanto más estamos del corazón. Está empezando a ser bastante... molesto."
         },
         {
             "id": 14,
-            "content": "The Pallidification effect was intensifying, indeed."
+            "content": "En efecto, el efecto de palidificación se intensificaba."
         },
         {
             "id": 15,
             "model": "에이해브",
-            "content": "But you. All of you are somehow completely unaffected."
+            "content": "Pero tú. Todos ustedes de alguna manera no se ven afectados."
         },
         {
             "id": 16,
             "model": "에이해브",
-            "content": "And... this ticking sound! It has been getting on my nerves!"
+            "content": "Y... ¡este tic-tac! ¡Me ha estado sacando de quicio!"
         },
         {
             "id": 17,
-            "content": "Ahab strode toward me."
+            "content": "Ahab se acercó a mí."
         },
         {
             "id": 18,
             "model": "에이해브",
-            "content": "Tell me. What will I find in your clock-head?"
+            "content": "Dime. ¿Qué encontraré en tu cabezota de reloj?"
         },
         {
             "id": 19,
             "model": "단테",
-            "content": "<…!>"
+            "content": "<¡…!>"
         },
         {
             "id": 20,
-            "content": "Ahab looks into my head."
+            "content": "Ahab mira mi cabeza."
         },
         {
             "id": 21,
-            "content": "And I, in turn, raise my head to return the gaze."
+            "content": "Y yo, a la vez, levanto la cabeza para devolverle la mirada."
         },
         {
             "id": 22,
             "model": "단테",
-            "content": "<This is...!>"
+            "content": "<¡Esto es...!>"
         },
         {
             "id": 23,
-            "content": "Ahab's journey through the pancreas plays right before my eyes."
+            "content": "El viaje de Ahab a través del páncreas pasa ante mis ojos."
         },
         {
             "id": 24,
             "model": "피쿼드호주민2",
-            "teller": "Hanging Villager",
-            "title": "Pequod Town",
-            "content": "Cap'n... You said... you won't let me be... a Mermaid..."
+            "teller": "Aldeano colgado",
+            "title": "Pueblo Pequod",
+            "content": "Capitán... Dijiste... que no me dejarías ser... una Sirena..."
         },
         {
             "id": 25,
             "model": "에이해브",
-            "content": "Well, then... this was not the right method indeed."
+            "content": "Bueno, entonces... este no era el método correcto."
         },
         {
             "id": 26,
             "model": "피쿼드호주민2",
-            "teller": "Despairing Villager",
-            "title": "Pequod Town",
-            "content": "Huh...? No...! Don't cut that! Everyone behind you will...!"
+            "teller": "Aldeano desesperado",
+            "title": "Pueblo Pequod",
+            "content": "¿Eh...? ¡No...! ¡No cortes eso! ¡Todos detrás de ti van a...!"
         },
         {
             "id": 27,
             "model": "핍",
-            "content": "Captain! That was Pip! Pip cut the vein!"
+            "content": "¡Capitana! ¡Fue Pip! ¡Pip cortó la vena!"
         },
         {
             "id": 28,
             "model": "에이해브",
-            "content": "Wonderful! Imagine how overjoyed Stubb would be, were he to witness your exploits!"
+            "content": "¡Maravilloso! ¡Imagina lo contento que se pondría Stubb si presenciara tus hazañas!"
         },
         {
             "id": 29,
             "model": "핍",
-            "content": "Think he's watching over Pip? Can we kill the hateful Whale?! Heheh! Ahahahaha!"
+            "content": "¿Crees que está observando a Pip? ¡¿Podemos matar a la odiosa Ballena?! ¡Jejeje! ¡Ajajajaja!"
         },
         {
             "id": 30,
             "model": "피쿼드호주민2",
-            "teller": "Falling Villager",
-            "title": "Pequod Town",
-            "content": "Huh... Huuh? Aaaaaahhhh!"
+            "teller": "Aldeano en caída",
+            "title": "Pueblo Pequod",
+            "content": "Eh.... ¿Eeh? ¡Aaaaaahhhh!"
         },
         {
             "id": 31,
             "model": "피쿼드호주민2",
-            "teller": "Shocked Villager",
-            "title": "Pequod Town",
-            "content": "C-Captain... What did you just...?"
+            "teller": "Aldeano conmocionado",
+            "title": "Pueblo Pequod",
+            "content": "C-Capitana... ¿Qué acabas de...?"
         },
         {
             "id": 32,
             "model": "에이해브",
-            "content": "I kicked the lad in there. Looks like that wasn't the right path."
+            "content": "Empujé al muchacho allí dentro. Parece que ese no era el camino correcto."
         },
         {
             "id": 33,
             "model": "에이해브",
-            "content": "You dare beg for your life?"
+            "content": "¿Te atreves a rogar por tu vida?"
         },
         {
             "id": 34,
             "model": "피쿼드호주민2",
-            "teller": "Hesitating Villager",
-            "title": "Pequod Town",
-            "content": "C-Captain. That's not it. It's..."
+            "teller": "Aldeano indeciso",
+            "title": "Pueblo Pequod",
+            "content": "C-Capitana. No es eso. Es..."
         },
         {
             "id": 35,
             "model": "에이해브",
-            "content": "With every moment, every second we waste, the end of days grows near! Every beating of that Pallid Whale's heart is a bell tolling for the end of the world!"
+            "content": "¡A cada momento, a cada segundo que desperdiciamos, el fin de los días se acerca! ¡Cada latido de esa Ballena Pálida es una campanada anunciando el fin del mundo!"
         },
         {
             "id": 36,
             "model": "에이해브",
-            "content": "We can stop the apocalypse with our own two hands! Yet you kneel here and dare to grovel for your life?!"
+            "content": "¡Podemos detener el apocalipsis con nuestras propias manos! ¡¿Y aún así te arrodillas aquí y te atreves a arrastrarte por tu vida?!"
         },
         {
             "id": 37,
             "model": "에이해브",
-            "content": "You mean to make your crew's sacrifices to have been for naught?! Unbelievable!"
+            "content": "¡¿Quieres decir que los sacrificios de tus compañeros han sido en vano?! ¡Increíble!"
         },
         {
             "id": 38,
             "model": "피쿼드호주민2",
-            "teller": "Hesitating Villager",
-            "title": "Pequod Town",
-            "content": "N-no, Captain..."
+            "teller": "Aldeano indeciso",
+            "title": "Pueblo Pequod",
+            "content": "N-no, Capitana..."
         },
         {
             "id": 39,
             "model": "피쿼드호주민2",
-            "teller": "Hesitating Villager",
-            "title": "Pequod Town",
-            "content": "I can die, for this cause I will...!"
+            "teller": "Aldeano indeciso",
+            "title": "Pueblo Pequod",
+            "content": "¡Puedo morir, por esta causa lo haré...!"
         },
         {
             "id": 40,
             "model": "에이해브",
-            "content": "Nay, not death! I have never, and will never order my men to their deaths."
+            "content": "¡No, muerte no! Nunca he ordenado ni ordenaré a mis hombres que mueran."
         },
         {
             "id": 41,
             "model": "에이해브",
-            "content": "I send them to greatness, not death."
+            "content": "Yo los envío a la grandeza, no a la muerte."
         }
     ]
 }

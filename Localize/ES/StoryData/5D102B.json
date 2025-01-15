@@ -2,29 +2,29 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Inside the Pallid Whale",
+            "place": "Dentro de la Ballena Pálida<",
             "model": "오티스",
-            "content": "Men! We will commence a search. This boat must be found as soon as possible."
+            "content": "¡Compañía! Comenzaremos la búsqueda. El bote debe ser encontrado tan pronto como sea posible."
         },
         {
             "id": 1,
             "model": "뫼르소",
-            "content": "No, there is no need for a search."
+            "content": "No, no es necesario buscar."
         },
         {
             "id": 2,
             "model": "뫼르소",
-            "content": "400 meters to your right. There is the boat-"
+            "content": "400 metros a su derecha. Allí está el bote—"
         },
         {
             "id": 3,
             "model": "오티스",
-            "content": "Quite observant you are. Let's not waste any time and return to the boat."
+            "content": "Eres muy observador. No perdamos tiempo y volvamos al bote."
         },
         {
             "id": 4,
             "model": "뫼르소",
-            "content": "Allow me to finish. There is the boat in a ditch. 75% of its hull integrity has been breached and its remains are scattered on the ground."
+            "content": "Permítame terminar. Ahí está el bote en una zanja. El 75% de la integridad de su casco se ha roto y sus restos están esparcidos por el suelo."
         },
         {
             "id": 5,
@@ -34,30 +34,30 @@
         {
             "id": 6,
             "model": "홍루",
-            "content": "Wow, so this was a piece of our boat, huh?"
+            "content": "Vaya, así que esto era una pieza de nuestro bote, ¿eh?"
         },
         {
             "id": 7,
             "model": "파우스트",
-            "content": "... That vessel was designed to be used more than three times."
+            "content": "... Ese buque fue diseñado para ser utilizado más de tres veces."
         },
         {
             "id": 8,
-            "content": "Hong Lu was pointing at the pitiful sight of an absolutely busted looking pieces of the propeller..."
+            "content": "Hong Lu estaba señalando la vista lamentable de una hélice absolutamente destrozada..."
         },
         {
             "id": 9,
-            "content": "... Well, to be exact, busted pieces of the propeller and what appeared to once have been our boat's engines. Something comes to a sputtering halt amidst the wreckage."
+            "content": "... Bueno, para ser exactos, una hélice destrozada y lo que parecían haber sido los motores de nuestro bote. Parándose en seco."
         },
         {
             "id": 10,
             "model": "이상",
-            "content": "Thus it rests here forevermore..."
+            "content": "Así que descansará aquí para siempre..."
         },
         {
             "id": 11,
             "model": "이상",
-            "content": "This would have been quite the painful sight for Mika and Rain."
+            "content": "Esto habría sido una vista muy dolorosa para Mika y Rain."
         },
         {
             "id": 12,
@@ -67,32 +67,32 @@
         {
             "id": 13,
             "model": "단테",
-            "content": "<... This is a pretty painful sight for us, too.>"
+            "content": "<... Esta es una vista bastante dolorosa para nosotros, también.>"
         },
         {
             "id": 14,
             "model": "싱클레어",
-            "content": "Uh, so... What do we..."
+            "content": "Uh, entonces... ¿Qué hacemos...?"
         },
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "Manager. You can still sense the Golden Bough, right?"
+            "content": "Gerente. Todavía puedes sentir la Rama Dorada ¿verdad?"
         },
         {
             "id": 16,
             "model": "단테",
-            "content": "<Yeah. Unlike at the Lobotomy Corp. Branch, I can definitely feel that it's somewhere 'in here'. But it's also pretty far away, so I can't tell where it exactly->"
+            "content": "<Sí. No es como en la Sucursal de Lobotomy Corp, definitivamente puedo sentir que está \"aquí\" en algún lugar. Pero también está bastante lejos, así que no puedo decir dónde exactamente...>"
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "... Great. Are you ready to turn the clock?"
+            "content": "... Genial. ¿Estás listo para rebobinar el reloj?"
         },
         {
             "id": 18,
             "model": "단테",
-            "content": "<What's that about turning the clock?>"
+            "content": "<¿Por que rebobinaría el reloj tan de repente?>"
         },
         {
             "id": 19,
@@ -101,11 +101,11 @@
         },
         {
             "id": 20,
-            "content": "The Whale's pallor had taken over their bodies and minds."
+            "content": "La influencia pálida de la Ballena se había apoderado de sus cuerpos y de sus mentes."
         },
         {
             "id": 21,
-            "content": "Of course. It only makes sense that this place is crawling with Mermaids."
+            "content": "Por supuesto. Es lógico que este lugar esté plagado de Sirenas."
         }
     ]
 }

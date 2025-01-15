@@ -2,15 +2,15 @@
     "dataList": [
         {
             "model": "이스마엘",
-            "content": "This one... It's gotta be this shipping container. And in here should be the LCCB Team Captain..."
+            "content": "Este... debería ser el que buscamos. El Capitán del Equipo LCCB debería estar aquí dentro..."
         },
         {
             "id": 0,
-            "place": "Twinhook Pirates' Hideout",
+            "place": "Escondite de los Piratas de los Garfios Gemelos",
             "model": "파일럿",
-            "teller": "???",
-            "title": "???",
-            "content": "Pshaw...! I... I really thought I was done for. Sniff, sniff..."
+            "teller": "¿¿??",
+            "title": "¿¿??",
+            "content": "¡Buaa...! De verdad... que pensaba que ya había llegado mi fin. Snif, snif..."
         },
         {
             "id": 1,
@@ -21,174 +21,174 @@
             "id": 2,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Name's Pilot. LCCB Preliminary Observation Unit 3 Assistant Manager."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Mi nombre es Pilot. Soy el subgerente de la Unidad 3 del departamento de Observación Preliminar de LCCB."
         },
         {
             "id": 3,
             "model": "이스마엘",
-            "content": "Wait, you're not the Team Leader? But the pirates said they captured the LCCB Team Leader...?"
+            "content": "Espera, ¿no eres el Líder del Equipo? Pero si los piratas dijeron que habían secuestrado al Líder del del Equipo de LCCB...?"
         },
         {
             "id": 4,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Hey... I'm standing right here... What's up with the obvious disappointment...?"
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Oye... aún sigo aquí... ¿A qué viene esa decepción...?"
         },
         {
             "id": 5,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Anyways- thank you for savin' my life! I heard so many stories about y'all. The LCB, huh?"
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Como sea, ¡gracias por salvarme! ¡He oído muchas historias sobre la gente del LCB"
         },
         {
             "id": 6,
             "model": "단테2",
-            "content": "<What kind of stories, I wonder...>"
+            "content": "<Me pregunto qué clase de historias...>"
         },
         {
             "id": 7,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Happy to make your acquaintance, sirs and ladies! I've been a huge fan ever since I joined the company!"
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "¡Encantado de conocerlos, señores y señoritas! ¡He sido un gran admirador de ustedes desde que me uní a la compañía!"
         },
         {
             "id": 8,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "... Uhh, why are y'all looking at me like that...?"
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "... Em, ¿por qué me miran así...?"
         },
         {
             "id": 9,
             "model": "그레고르",
-            "content": "Long story short, there was a whole mess with this other guy who claimed to be a fan. So... yeah. You gotta understand."
+            "content": "En resumen, ya tuvimos algunos problemas con este otro tipo que dijo ser nuestro fan. Así que... sí. Espero que lo entiendas."
         },
         {
             "id": 10,
             "model": "이상",
-            "content": "Khm, ahm..."
+            "content": "Ejem, ajam..."
         },
         {
             "id": 11,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Ohh, and I've a message to deliver to you guys."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Ah, hay un mensaje que tengo que entregarles."
         },
         {
             "id": 12,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Ahem, ahem..."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Ejem, ejem..."
         },
         {
             "id": 13,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "\"Hey. I bet you guys are chaotically running around somewhere in U Corp. like headless chickens and messing everything up.\""
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "\"¿Qué hay? Apuesto a que ya deben de estar como pollos sin cabeza correteando y causando estragos por ahí en U Corp.\""
         },
         {
             "id": 14,
             "model": "료슈",
-            "content": "... Time for O.O.F."
+            "content": "... Hora de darte una E.F.E."
         },
         {
             "id": 15,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "W-wait! I'm just delivering the message exactly as she said it, intonations and all!"
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "¡E-espera! ¡Solo estoy transmitiendo el mensaje tal como ella me lo dijo, con la caracterización y todo!"
         },
         {
             "id": 16,
             "model": "로쟈",
-            "content": "Watch out~ Don't cha think it might've been better to start with \"and I quote\"~? And tell us who this 'she' is, too."
+            "content": "Ten más cuidado~ ¿No te parece que hubiera estado mejor que hayas empezado con un \"y cito\"~? Y que también que nos hayas aclarado quién es esta 'ella."
         },
         {
             "id": 17,
             "model": "료슈",
-            "content": "Abbreviations and omissions are two completely different things. I'll let this slide, fledgling. Just this once."
+            "content": "Abreviar y omitir son cosas completamente diferentes. Lo dejaré pasar, novato. Pero solo esta vez."
         },
         {
             "id": 18,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Who 'she' is? Well, of course! It's none other than..."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "¿Que quién es esta 'ella'? Pues bueno, no podría ser otra más que..."
         },
         {
             "id": 19,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Manager Miss Saude herself!"
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "¡La mismísima Gerente Saude!"
         },
         {
             "id": 20,
             "model": "단테2",
-            "content": "<...!>"
+            "content": "<¡...!>"
         },
         {
             "id": 21,
             "model": "이스마엘",
-            "content": "Saude... is alive?"
+            "content": "¿Saude... está viva?"
         },
         {
             "id": 22,
             "model": "그레고르",
-            "content": "M-manager...? Did she get promoted?"
+            "content": "¿G-gerente...? ¿Acaso la ascendieron?"
         },
         {
             "id": 23,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "She's still in recovery, but After Team arrived just in the nick of time and treated her wounds, saving her life."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Todavía necesita recuperarse, pero el Equipo After llegó justo a tiempo para tratar sus heridas y salvarle la vida."
         },
         {
             "id": 24,
             "model": "오티스",
-            "content": "... I'm glad it wasn't a posthumous promotion."
+            "content": "... Entonces no fue un ascenso póstumo... Menos mal."
         },
         {
             "id": 25,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Manager Saude wanted to meet all of y'all too, but couldn't make it on account of her bein' on a different mission."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "La Gerente Saude también tenía muchas ganas de verlos, pero no pudo venir porque tuvo que ocuparse de otra misión."
         },
         {
             "id": 26,
             "model": "단테2",
-            "content": "<I'm glad she's okay...>"
+            "content": "<Me alegra que esté bien...>"
         },
         {
             "id": 27,
             "model": "이스마엘",
-            "content": "Is Saude... okay?"
+            "content": "¿Está bien... Saude?"
         },
         {
             "id": 28,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "'Course! It wasn't the smoothest recovery, but she's now healthy enough to eat some grub and hold a lengthy conversation."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "¡Por supuesto! No fue la recuperación más rápida, pero ahora está lo suficientemente sana como para comer algo de comida y mantener una conversación fluida."
         },
         {
             "id": 29,
             "model": "이스마엘",
-            "content": "That's great, but I was asking, because..."
+            "content": "Eso es genial, pero yo preguntaba porque..."
         },
         {
             "id": 30,
             "model": "이스마엘",
-            "content": "She lost her partner. Right before her eyes."
+            "content": "Perdió a su compañero. Justo delante de sus ojos."
         },
         {
             "id": 31,
@@ -199,62 +199,62 @@
             "id": 32,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "Oh..."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Ah..."
         },
         {
             "id": 33,
-            "content": "Pilot produced a piece of old, folded paper and began reading from it."
+            "content": "Pilot se sacó un papel arrugado y viejo del bolsillo, lo abrió y comenzó a leerlo."
         },
         {
             "id": 34,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "'This is a reminder to all LCCB employees. We, the Before Team, are assigned the paramount task of clearing the path before anyone else does. Every bloodied step, every flesh given becomes another stepping stone for your fellow Limbus Company employees to follow into the future.'"
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "'A todos los empleados del LCCB, les recordamos lo siguiente: a nosotros, el Equipo Before, se nos ha encomendado la importante tarea de despejar el camino antes de que alguien más lo haga. Cada gota de sangre derramada y carne entregada se convertirá en un paso más que sus compañeros empleados de Limbus Company podrán tomar hacia el futuro.'"
         },
         {
             "id": 35,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "That’s the very first line from the new hire training guide we were issued."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "Ese es el primer párrafo que aparece en la guía de capacitación que se nos entrega a los nuevos empleados."
         },
         {
             "id": 36,
             "model": "파일럿",
             "teller": "Pilot",
-            "title": "LCCB P-Obs. Unit 3",
-            "content": "And I'm proud of it! I'm proud of the sacrifices we make. Most of my coworkers at LCCB just want to make a quick buck before quitting and say I'm the odd one, though."
+            "title": "Unidad 3 de Obs. Prelim. del LCCB",
+            "content": "¡Y yo estoy orgulloso! Estoy orgulloso de los sacrificios que hacemos. Por más que mis compañeros en el LCCB, que solo buscan hacerse un dinero fácil para luego irse y me digan que soy un bicho raro."
         },
         {
             "id": 37,
             "model": "이스마엘",
-            "content": "You're... proud of sacrifice?"
+            "content": "¿Estás... orgulloso del sacrificio?"
         },
         {
             "id": 38,
             "model": "이스마엘",
-            "content": "Seriously?"
+            "content": "¿Lo dices en serio?"
         },
         {
             "id": 39,
             "model": "로쟈",
-            "content": "Now now, Ishy~ Whaaat? You want Sardine Whale flavored ice cream? No way, me too! Why don't we head out and get some together~?"
+            "content": "Ya, ya, Ishy~ ¿Cómo? ¿Que quieres ir a probar el helado sabor a Ballena Sardinera? ¡No puede ser, yo también! ¿Qué tal si voy contigo y lo tomamos juntas~?"
         },
         {
             "id": 40,
             "model": "이스마엘",
-            "content": "Hey, let me go. Let me g- Gah, how are you so strong-"
+            "content": "Oye, déjame ir. Déjame... Argh, ¿cómo tienes tanta fuerza..."
         },
         {
             "id": 41,
-            "content": "Rodya grabbed Ishmael's arm and began practically dragging her outside."
+            "content": "Rodya agarró a Ishmael del brazo y comenzó a prácticamente arrastrarla hacia afuera."
         },
         {
             "id": 42,
             "model": "단테2",
-            "content": "<Well... just in case she gets into another fight...>"
+            "content": "<Bueno... Por si se mete en otra pelea...>"
         },
         {
             "id": 43,
@@ -263,42 +263,42 @@
         },
         {
             "id": 44,
-            "content": "I decided to sneakily follow them from a distance."
+            "content": "Decidí seguirlas silenciosamente desde la distancia."
         },
         {
             "id": 45,
             "model": "로쟈",
-            "content": "Ishy, ya gotta stop bringing down the mood like that~ We saved his life, didn't we?"
+            "content": "Ishy, tines que dejar de arruinar el ambiente de esa manera~ Le salvamos la vida, ¿no es así??"
         },
         {
             "id": 46,
             "model": "로쟈",
-            "content": "I understand that things are a bit rough right now, but let's be a bit more patient, 'kay~?"
+            "content": "Sé que las cosas están algo mal ahora mismo, pero intentemos tener un poquito más de paciencia, ¿está bien~?"
         },
         {
             "id": 47,
             "model": "이스마엘",
-            "content": "Rodion, that back there... that's just indoctrination. They're brainwashing them."
+            "content": "Rodion, eso de allá fue adoctrinamiento. Les están lavando el cerebro."
         },
         {
             "id": 48,
             "model": "이스마엘",
-            "content": "No one wants to admit that they're just throwing themselves into a meat grinder. So they wrap that neatly in the name of self-sacrifice..."
+            "content": "Nadie quiere admitir que están arrojando sus vidas al vacío, por lo que lo disfrazan bajo el nombre de autosacrificio..."
         },
         {
             "id": 49,
             "model": "로쟈",
-            "content": "I know."
+            "content": "Lo sé."
         },
         {
             "id": 50,
             "model": "이스마엘",
-            "content": "Then why..."
+            "content": "¿Entonces por qué..."
         },
         {
             "id": 51,
             "model": "로쟈",
-            "content": "People need a way to endure that reality and go on living somehow. Some people live from paycheck to paycheck. Sometimes... they just don't have a choice."
+            "content": "La gente necesita una forma de soportar y afrontar esa realidad. Son muchos los que viven de sueldo en sueldo, y a veces... simplemente no tienen de otra."
         },
         {
             "id": 52,
@@ -308,35 +308,35 @@
         {
             "id": 53,
             "model": "로쟈",
-            "content": "Let's hear out our overzealous friend, how 'bout that?"
+            "content": "Escuchemos lo que tenga que decirnos nuestro animado amigo. ¿Te parece?"
         },
         {
             "id": 54,
             "model": "이스마엘",
-            "content": "... Don't talk down to me like you're coddling some baby."
+            "content": "... No me hables como si estuvieras calmando a un bebé enojado."
         },
         {
             "id": 55,
             "model": "이스마엘",
-            "content": "We're not that close, Rodion."
+            "content": "No somos tan cercanas, Rodion."
         },
         {
             "id": 56,
             "model": "이스마엘",
-            "content": "But I'll listen, just this once."
+            "content": "Pero escucharé. Solo por esta vez."
         },
         {
             "id": 57,
             "model": "로쟈",
-            "content": "... Fine, fine~"
+            "content": "... Bueno, bueno~"
         },
         {
             "id": 58,
-            "content": "Rodya seemed to have noticed that I was following them all along. She signaled me with a quick wink..."
+            "content": "Cuando Rodya se dio cuenta de que todo este rato las había estado siguiendo, me hizo una seña con un sutil guiño..."
         },
         {
             "id": 59,
-            "content": "... And I was able to return to where the other Sinners were before they did."
+            "content": "... Y logré regresar a donde estaban el resto de los Pecadores antes que ellas."
         }
     ]
 }

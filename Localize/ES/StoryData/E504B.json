@@ -4,8 +4,8 @@
             "id": 1,
             "place": "Gift Factory Reception Hall",
             "model": "크레용",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "Your clothes are all weird-looking... I guess you're not from the village...?"
         },
         {
@@ -15,20 +15,20 @@
         {
             "id": 3,
             "model": "크레용",
-            "teller": "???",
-            "title": "???",
+            "teller": "¿¿??",
+            "title": "¿¿??",
             "content": "A-anyways, thank you for saving me…"
         },
         {
             "id": 4,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "My name's Crayon. And… huhh?!"
         },
         {
             "id": 5,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "C-Clockwork Teeth?!"
         },
         {
@@ -48,19 +48,19 @@
         {
             "id": 9,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Clock…head? But I-I heard that the Clockwork Teeth look like… Clocks…"
         },
         {
             "id": 10,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I guess I also heard that they don't show up this high…"
         },
         {
             "id": 11,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "I've never seen a monster like that before, though…"
         },
         {
@@ -76,7 +76,7 @@
         {
             "id": 14,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "But I can't hear anything but the tick-tocking of the clock…"
         },
         {
@@ -87,13 +87,13 @@
         {
             "id": 16,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Yeah..."
         },
         {
             "id": 17,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Looks like the other people who were dragged here with me weren't so lucky, though..."
         },
         {
@@ -108,13 +108,13 @@
         {
             "id": 20,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "Yeah… B-but! Our village will soon send the Hunters to save us!"
         },
         {
             "id": 21,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "As long as they can get here, they can…"
         },
         {
@@ -151,7 +151,7 @@
         {
             "id": 29,
             "model": "크레용",
-            "title": "???",
+            "title": "¿¿??",
             "content": "T-this gas… it's the same gas from when… I was… kidna…"
         },
         {

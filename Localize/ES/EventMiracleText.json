@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "miracle_stagebutton_not_clear_cp4",
-      "content": "¡Ve y completa Canto {0} primero!"
+      "content": "¡Andá y completá Canto {0} primero!"
     },
     {
       "id": "miracle_stagebutton_normal",
@@ -10,7 +10,7 @@
     },
     {
       "id": "miracle_stagebutton_end_event",
-      "content": "¡Llegás tarde! ¡El evento acabó!"
+      "content": "¡Llegás tarde! ¡El evento ya terminó!"
     },
     {
       "id": "miracle_storybutton_before_start",
@@ -38,7 +38,7 @@
     },
     {
       "id": "miracle_scrap_counter_label",
-      "content": "Sacos de baratijas Coleccionado"
+      "content": "Sacos de baratijas Recolectados"
     },
     {
       "id": "miracle_chapter_map_difficulty_ui_9105",
@@ -46,11 +46,11 @@
     },
     {
       "id": "miracle_chapter_map_difficulty_ui_9112",
-      "content": "DíFiCIL"
+      "content": "DiFiCiL"
     },
     {
       "id": "miracle_chapter_map_difficulty_ui_hard_chapter_unlock_condition",
-      "content": "Completa {0}-{1} para Desbloquear el Modo Díficil"
+      "content": "Completa {0}-{1} para Desbloquear el Modo Dificil"
     },
     {
       "id": "miracle_chapter_map_difficulty_ui_event_date_format",

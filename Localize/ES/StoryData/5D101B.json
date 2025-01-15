@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "???",
+            "place": "¿¿??",
             "content": "La sensación inmediata al despertar fue que estaba en un lugar frio y húmedo, aunque extrañamente cálido en algunas zonas."
         },
         {
@@ -28,107 +28,107 @@
         {
             "id": 5,
             "model": "그레고르",
-            "content": "Is he...? I think that's just how that fella is with pretty much everything."
+            "content": "¿Lo está?... Creo que siempre ha sido así."
         },
         {
             "id": 6,
             "model": "싱클레어",
-            "content": "No... That's not what I'm..."
+            "content": "No... Eso no es lo que estoy..."
         },
         {
             "id": 7,
             "model": "싱클레어",
-            "content": "I mean, where do you guys think this is...?"
+            "content": "Quiero decir, ¿Dónde creen que estamos...?"
         },
         {
             "id": 8,
             "model": "싱클레어",
-            "content": "We just..."
+            "content": "Nosotros sólo..."
         },
         {
             "id": 9,
             "model": "오티스",
-            "content": "I am well aware."
+            "content": "Estoy al tanto."
         },
         {
             "id": 10,
             "model": "오티스",
-            "content": "We rowed into the maws of the beast. Of our own volition."
+            "content": "Remamos hacia las fauces de la bestia. Por nuestra propia voluntad."
         },
         {
             "id": 12,
-            "content": "Not long ago..."
+            "content": "Hace no mucho..."
         },
         {
             "id": 13,
-            "place": "Cabins of Mephistopheles",
+            "place": "Cabinas de Mefistófeles",
             "model": "이스마엘",
-            "content": "I'm proposing that we... enter the stomach of the Whale that devoured the Golden Bough."
+            "content": "Propongo que... entremos en el estómago de la Ballena que devoró la Rama Dorada."
         },
         {
             "id": 14,
             "model": "히스클리프",
-            "content": "... You're mad. All that thrashing's finally sent you off the deep end."
+            "content": "... Estás loca. La piña que te dieron te ha hecho perder la cabeza."
         },
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "I'm just going there for my mission. And the Golden Bough just happens to be in the way."
+            "content": "Solo voy allí por mi misión. Y resulta que la Rama Dorada está en medio."
         },
         {
             "id": 16,
             "model": "이스마엘",
-            "content": "I'll leave it up to you. Well, to the manager, since their decision matters the most."
+            "content": "Lo dejo a su discreción. O bueno, la del Gerente, su decisión es la que mas importa."
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "This Company, me... We're both just trying to find a way to reach our goals. That's all this is."
+            "content": "Esta Compañía, yo... Ambos estamos tratando de encontrar una manera de alcanzar nuestras metas. Eso es todo."
         },
         {
             "id": 18,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
+            "teller": "El Viejo índigo",
+            "title": "¿¿??",
             "content": "……."
         },
         {
             "id": 19,
             "model": "이스마엘",
-            "content": "Besides, does anyone have a better idea?"
+            "content": "Además, ¿alguien tiene una idea mejor?"
         },
         {
             "id": 20,
             "model": "이스마엘",
-            "content": "If that thing swallowed the Golden Bough... and if that Golden Bough really counteracts that damned Pallid Whale's Pallidification effects, then..."
+            "content": "Si esa cosa se trago la Rama Dorada... Y si la Rama Dorada realmente contrarresta los efectos de la palidificación de esa maldita Ballena Pálida, entonces..."
         },
         {
             "id": 21,
             "model": "이스마엘",
-            "content": "... We just might be able to survive without getting affected by it."
+            "content": "... Seremos capaces de sobrevivir sin que nos afecte."
         },
         {
             "id": 22,
             "model": "로쟈",
-            "content": "That's a gamble, Ishy. There's just..."
+            "content": "Eso es una apuesta, Ishy. Solo hay..."
         },
         {
             "id": 23,
             "model": "이스마엘",
-            "content": "Yeah. You should know. It's one of your favorite things."
+            "content": "Sí. Ya deberías saberlo. Es una de tus cosas favoritas."
         },
         {
             "id": 24,
             "model": "이스마엘",
-            "content": "What do you think, manager?"
+            "content": "¿Cuál es tu opinión, Gerente?"
         },
         {
             "id": 25,
-            "content": "Ishmael looked at me with expectant eyes as though she knew I had no choice but to agree to this plan."
+            "content": "Ishmael me miró con ojos expectantes, como si supiera que no tenía otra opción más que aceptar el plan."
         },
         {
             "id": 26,
-            "content": "Her eyes were telling me: 'You came this far for the Golden Bough. You're not going to go back empty-handed now, are you?'"
+            "content": "Sus ojos me decían: 'Has venido hasta aquí por la Rama Dorada. No vas a volver con las manos vacías, ¿verdad?'"
         },
         {
             "id": 27,
@@ -138,42 +138,42 @@
         {
             "id": 28,
             "model": "베르길리우스",
-            "content": "Six hours."
+            "content": "Seis Horas."
         },
         {
             "id": 29,
             "model": "베르길리우스",
-            "content": "If I don't hear anything from you in six hours, LCA will be taking over the rest of this mission."
+            "content": "Si no escucho nada de ustedes en seis horas, la LCA se hará cargo del resto de esta misión."
         },
         {
             "id": 30,
             "model": "그레고르",
-            "content": "Okay, LCA takes over the mission, then... what?"
+            "content": "Vale, la LCA se hará cargo de la misión, entonces... ¿qué?"
         },
         {
             "id": 31,
             "model": "베르길리우스",
-            "content": "Well. If they hear the very unfortunate news that all of you decided to row into the Whale's belly and got yourselves trapped..."
+            "content": "Bueno. Si ellos se enteran de la desafortunada noticia de que todos ustedes decidieron remar hacia el vientre de la ballena y que quedaron atrapados..."
         },
         {
             "id": 32,
             "model": "베르길리우스",
-            "content": "They'll be having a long internal discussion about how they could blow that Pallid Whale apart."
+            "content": "Tendrán una larga discusión interna sobre cómo podrían hacer explotar a esa Ballena Pálida."
         },
         {
             "id": 33,
             "model": "베르길리우스",
-            "content": "Then a very lengthy battle will ensue."
+            "content": "Entonces se producirá una batalla muy larga."
         },
         {
             "id": 34,
             "model": "단테",
-            "content": "<Okay, so let me get this straight... If we fail to find the Golden Bough stuck somewhere inside the Whale's stomach in six hours, you won't hesitate blowing us to smithereens along with the Whale? Did I get that right?>"
+            "content": "<Bien, a ver si me ha quedado claro... Si no encontramos la Rama Dorada dentro del estómago de la Ballena en seis horas, no dudarás en volarnos en pedazos junto con la Ballena. ¿Entendí bien?>"
         },
         {
             "id": 35,
             "model": "파우스트",
-            "content": "I will not relay that comment."
+            "content": "No transmitiré ese comentario."
         },
         {
             "id": 36,
@@ -183,70 +183,70 @@
         {
             "id": 37,
             "model": "단테",
-            "content": "<Faust, what do you think of our odds?>"
+            "content": "<Faust, ¿qué piensas de nuestras probabilidades?>"
         },
         {
             "id": 38,
             "model": "파우스트",
-            "content": "Our odds are non-zero. But it may as well be nil."
+            "content": "Nuestras probabilidades no son cero. Pero se acercan bastante."
         },
         {
             "id": 39,
             "model": "파우스트",
-            "content": "At least with the currently known variables."
+            "content": "Al menos con las variables actualmente conocidas."
         },
         {
             "id": 40,
             "model": "이스마엘",
-            "content": "So we *have* a chance."
+            "content": "Así que *tenemos* una posibilidad."
         },
         {
             "id": 41,
             "model": "단테",
-            "content": "<... Do you have any other ideas that might get us the Golden Bough?>"
+            "content": "<... ¿Tienes alguna otra idea que pueda conseguirnos la Rama Dorada?>"
         },
         {
             "id": 42,
             "model": "파우스트",
-            "content": "No, not at this moment."
+            "content": "No, no en este momento."
         },
         {
             "id": 43,
             "model": "파우스트",
-            "content": "What I can tell you, however, is that we have a history of dramatically completing missions with a veritably low chance of success."
+            "content": "Lo que puedo decirle, sin embargo, es que tenemos un historial de misiones completadas de forma espectacular con una probabilidad de éxito realmente baja."
         },
         {
             "id": 44,
             "model": "단테",
-            "content": "<Okay, then. Let's get this done.>"
+            "content": "<Bien, entonces. Hagamos esto.>"
         },
         {
             "id": 45,
-            "place": "Inside the Pallid Whale",
+            "place": "Dentro de la Ballena Pálida",
             "model": "파우스트",
-            "content": "... Indeed. The lack of plan becomes the plan itself."
+            "content": "... En efecto. La falta de plan se convierte en el propio plan."
         },
         {
             "id": 46,
             "model": "파우스트",
-            "content": "This solidifies the veracity of my new theory even further."
+            "content": "Esto consolida aún más la veracidad de mi nueva teoría."
         },
         {
             "id": 47,
-            "content": "Luckily, we didn't lose any Sinners on the way down. All 12 of them made it down here, just as we planned."
+            "content": "Por suerte, no perdimos a ningún Pecador en el camino. Los 12 llegaron hasta aquí, tal y como habíamos planeado."
         },
         {
             "id": 48,
-            "content": "But..."
+            "content": "Pero..."
         },
         {
             "id": 49,
             "model": "단테",
-            "content": "<Guys, where's-where's the boat?>"
+            "content": "<Chicos, ¿dónde... dónde está el bote?>"
         },
         {
             "id": 50,
-            "content": "The boat was nowhere to be seen."
+            "content": "El bote no se veía por ninguna lado."
         }
     ]
 }
