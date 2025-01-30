@@ -554,7 +554,7 @@
           "level": 1,
           "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "Selecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Gana 1 de [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "desc": "Prioriza al objetivo con el menor HP(Prioriza aliados)\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Gana 1 de [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -591,7 +591,7 @@
           "level": 3,
           "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "Selecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]<style=\"highlight\"></style>",
+          "desc": "Prioriza al objetivo con el menor HP(Prioriza aliados)\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -631,7 +631,7 @@
           "level": 4,
           "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "Selecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (Reson. más alta x 2) [BoseProjektil] instead (máx 7)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "desc": "Prioriza al objetivo con el menor HP(Prioriza aliados)\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (Reson. más alta x 2) [BoseProjektil] instead (máx 7)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -676,7 +676,7 @@
           "level": 1,
           "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nSelecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Deal +2% de daño por cada [BoseProjektil] (máx 14%)\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "desc": "[CantIdentify]\nPrioriza al objetivo con el menor HP(Prioriza aliados)\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Deal +2% de daño por cada [BoseProjektil] (máx 14%)\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -722,7 +722,7 @@
           "level": 3,
           "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nSelecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Deal <style=\"highlight\">+3% de daño por cada [BoseProjektil] (máx 21%)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "desc": "[CantIdentify]\nPrioriza al objetivo con el menor HP(Prioriza aliados)\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Deal <style=\"highlight\">+3% de daño por cada [BoseProjektil] (máx 21%)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -768,7 +768,7 @@
           "level": 4,
           "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nSelecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (Reson. más alta x 2) [BoseProjektil] instead (máx 7)</style>\n[BeforeAttack] Deal <style=\"highlight\">+4% de daño por cada [BoseProjektil] (máx 28%)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "desc": "[CantIdentify]\nPrioriza al objetivo con el menor HP(Prioriza aliados)\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (Reson. más alta x 2) [BoseProjektil] instead (máx 7)</style>\n[BeforeAttack] Deal <style=\"highlight\">+4% de daño por cada [BoseProjektil] (máx 28%)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [

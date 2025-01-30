@@ -3,65 +3,65 @@
         {
             "id": 0,
             "model": "뫼르소",
-            "content": "The weather there is quite hostile."
+            "content": "Hace muy mal tiempo."
         },
         {
             "id": 1,
-            "content": "Meursault was right. The Lake beyond the borders was nigh pitch-black. The waves crested tall, rising and crashing violently under the thundering rainstorm."
+            "content": "Como decía Meursault. El Lago más allá de los bordes era tan oscuro que se acercaba al negro absoluto. Las olas se elevaban más de lo habitual e impactaban violentamente bajo la tormenta."
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "Mm... The wild winds have begun to sway the boat..."
+            "content": "Mm... Los vientos empinan el barco ferozmente..."
         },
         {
             "id": 3,
-            "content": "Yi Sang's face was starting to grow pale."
+            "content": "El rostro de Yi Sang empezaba a volverse pálida."
         },
         {
             "id": 4,
             "model": "싱클레어",
-            "content": "I'm starting to wonder if we can... really do this."
+            "content": "Nosotros... ¿realmente vamos a lograrlo?"
         },
         {
             "id": 5,
             "model": "히스클리프",
-            "content": "Did we ever let that stop us from trying?"
+            "content": "¿Alguna vez dejamos que eso nos frenara?"
         },
         {
             "id": 6,
             "model": "로쟈",
-            "content": "Ha, I guess that's true~"
+            "content": "Je, supongo que tienes razón~"
         },
         {
             "id": 7,
             "model": "이스마엘",
-            "content": "... All right. Heading into the zone."
+            "content": "... Muy bien. Entrando."
         },
         {
             "id": 8,
             "model": "오티스",
-            "content": "Are there any laws of that Lake that we must be mindful of?"
+            "content": "¿No deberíamos preocuparnos de las reglas de este Lago?"
         },
         {
             "id": 9,
             "model": "이스마엘",
-            "content": "I don't know the laws of that Lake, nor its Waves."
+            "content": "No conozco las Olas ni las reglas de este Lago."
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "I remember the way the fog split open. I remember the obsidian sea and the endless tempest."
+            "content": "Recuerdo como la bruma se partía en dos. Recuerdo el oscuro mar como carbón."
         },
         {
             "id": 11,
             "model": "이스마엘",
-            "content": "But the rest of it... All I remember is that the Captain was excitedly delivering a speech at witnessing the legends come to life, and that we were all busy preparing for the Whale hunt."
+            "content": "Aparte de eso... Todo lo que recuerdo es a la Capitana dándonos un discurso con emoción mientras nos alistábamos para dar caza a la Ballena, contemplando como esas leyendas cobraban vida."
         },
         {
             "id": 12,
             "model": "이스마엘",
-            "content": "... So, what awaits us ahead is a real adventure. We'll be sailing blindly into the night."
+            "content": "... Así que lo que nos espera de aquí en adelante es una verdadera aventura."
         },
         {
             "id": 13,
@@ -71,65 +71,65 @@
         {
             "id": 14,
             "model": "오티스",
-            "content": "Then... we'll have to face everything head-on."
+            "content": "Bueno... supongo que no tenemos otra que afrontar lo que venga."
         },
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "Yes. If the Waves come to claim us, we will face them. Head-on."
+            "content": "Sí. Las Olas querrán reclamarnos, golpeándonos de frente."
         },
         {
             "id": 16,
             "model": "이스마엘",
-            "content": "... Even the Whale."
+            "content": "... Y también la Ballena."
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "... No signs of that Whale yet, though."
+            "content": "... No hay señales de la Ballena todavía."
         },
         {
             "id": 18,
             "model": "이스마엘",
-            "content": "Back then, it attacked us mere minutes after we entered the Lake."
+            "content": "Nos tomó solo unos minutos en ser atacados cuando entramos al Lago."
         },
         {
             "id": 19,
-            "content": "Everyone was as tense as they could ever be, looking around nervously..."
+            "content": "Todos estaban extremadamente tensos, mirando a sus alrededores en cada momento..."
         },
         {
             "id": 20,
             "model": "싱클레어",
-            "content": "Wait, what's... that? There's something there, something tall."
+            "content": "Espera, ¿qué es eso? Creo que hay algo gigante por ahí."
         },
         {
             "id": 21,
             "model": "뫼르소",
-            "content": "A close approach is recommended. I have a source of light to improve our visibility."
+            "content": "Se recomienda un acercamiento. Tengo una fuente de luz para aumentar nuestra visibilidad."
         },
         {
             "id": 22,
-            "content": "Meursault got up with a lantern and pointed the light toward where Sinclair indicated."
+            "content": "Meursault se levantó con una linterna y la apunto hacía donde Sinclair había indicado."
         },
         {
             "id": 23,
             "model": "싱클레어",
-            "content": "There's... several of them...?"
+            "content": "¿Hay... más de uno...?"
         },
         {
             "id": 24,
             "model": "그레고르",
-            "content": "What's that...? Hell, who put 'em there? What are they even for?"
+            "content": "¿Qué es eso? Diablos, ¿Es necesario que algo así este flotando en mitad del Lago?"
         },
         {
             "id": 25,
             "model": "로쟈",
-            "content": "Maybe they're like lighthouses...?"
+            "content": "¿Quizá actúan como un faro...?"
         },
         {
             "id": 26,
             "model": "싱클레어",
-            "content": "Lighthouses? Yeah, I can kinda see that..."
+            "content": "Faros. Claro, puede que así sea..."
         },
         {
             "id": 27,
@@ -139,12 +139,12 @@
         {
             "id": 28,
             "model": "단테2",
-            "content": "<Do you remember seeing anything like that, Ishmael?>"
+            "content": "<¿Recuerdas haber visto algo como esto antes, Ishmael?>"
         },
         {
             "id": 29,
             "model": "이스마엘",
-            "content": "No... I don't even have a hazy recollection of it. I've never seen it before in my..."
+            "content": "No... aunque sea un recuerdo borroso. No recuerdo haber visto algo de ese estilo..."
         },
         {
             "id": 30,
@@ -154,176 +154,176 @@
         {
             "id": 31,
             "model": "이상",
-            "content": "I-Ishmael. Has the nausea of the swaying sea gotten to you as well?"
+            "content": "I-Ishmael. ¿También esta nausea marítima le ha vapuleado?"
         },
         {
             "id": 32,
             "model": "이상",
-            "content": "Your face has grown rather pale..."
+            "content": "Tu cara ha adquirido un tono pálido..."
         },
         {
             "id": 33,
-            "content": "I knew that that can't be true."
+            "content": "Sabía que no podía ser verdad."
         },
         {
             "id": 34,
-            "content": "A seasick sailor only exists in jokes. Besides, Ishmael was doing just fine mere moments ago."
+            "content": "Un marinero mareado no es algo que exista fuera de una broma. Y más poco probable a Ishmael que hace un momento estaba bien."
         },
         {
             "id": 35,
-            "content": "Then... she must've had a sudden realization."
+            "content": "Entonces... debe haberse dado cuenta de algo."
         },
         {
             "id": 36,
             "model": "이스마엘",
-            "content": "I see... So that's what it looked like. Even a small part of it is..."
+            "content": "Ya veo... Conque así se veía. Aunque es una parte pequeña..."
         },
         {
             "id": 37,
-            "content": "A terrifying realization."
+            "content": "Se dio cuenta de algo terrible."
         },
         {
             "id": 38,
             "model": "싱클레어",
-            "content": "W-what is it?"
+            "content": "¿Q-qué sucede?"
         },
         {
             "id": 39,
             "model": "이스마엘",
-            "content": "You'll find out soon enough. Even if you don't want to."
+            "content": "Lo descubrirás pronto. Incluso si no quieres hacerlo."
         },
         {
             "id": 40,
             "model": "오티스",
-            "content": "There, a rogue wave ahead...!"
+            "content": "¡Allí, viene un Tsunami...!"
         },
         {
             "id": 41,
             "model": "오티스",
-            "content": "All hands, brace! Grab onto what you can!"
+            "content": "¡Tripulación, atentos! ¡Agárrense de lo que puedan!"
         },
         {
             "id": 42,
             "model": "싱클레어",
-            "content": "A-ah! Agh...!"
+            "content": "¡A-ah! ¡Agh...!"
         },
         {
             "id": 43,
-            "content": "Before we even had the chance to say anything, a leviathan of a wave rose to its crest, then crashed onto us from above..."
+            "content": "Antes de tener la oportunidad de decir algo, una ola de un tamaño colosal se alzó en las nubes, impactándonos desde arriba..."
         },
         {
             "id": 44,
-            "content": "And sucked us deep into the Lake before throwing us back to the surface."
+            "content": "Hundiéndonos profundamente en el Lago antes de ser expulsados devuelta a la superficie."
         },
         {
             "id": 45,
             "model": "파우스트",
-            "content": "Pah...!"
+            "content": "¡Pah...!"
         },
         {
             "id": 46,
             "model": "파우스트",
-            "content": "... We were lucky. There was a high chance that the following vortex would have dragged the vessel deep underwater."
+            "content": "... Hemos tenido suerte. La probabilidad de una siguiente oleada estrellando contra el esquife y hundiéndolo indefinidamente era muy alta."
         },
         {
             "id": 47,
             "model": "히스클리프",
-            "content": "L-lucky? You saw what was down there, that was..."
+            "content": "¿S-suerte? Vos viste lo que había ahí abajo, eso fue..."
         },
         {
             "id": 48,
             "model": "단테2",
-            "content": "<... Everyone okay?>"
+            "content": "<... ¿Todos están bien?>"
         },
         {
             "id": 49,
-            "content": "Everyone was soaking wet, nearly hyperventilating, but... mostly awestruck by what we've just witnessed."
+            "content": "Todos estábamos empapados, hiperventilados... pero mayormente hipnotizados por lo presenciado al salir."
         },
         {
             "id": 50,
             "model": "오티스",
-            "content": "We have everyone, but..."
+            "content": "Sin perdidas, pero..."
         },
         {
             "id": 51,
             "model": "싱클레어",
-            "content": "Huh? Huh...? What we just saw down there... were..."
+            "content": "¿Eh? ¿Eh..? Lo que vimos ahí abajo... era... era..."
         },
         {
             "id": 52,
             "model": "홍루",
-            "content": "They weren't lighthouses... They were..."
+            "content": "No eran faros... eran..."
         },
         {
             "id": 53,
             "model": "홍루",
-            "content": "Tails of colossal Whales...!"
+            "content": "¡Eran las colas de una enorme Ballena...!"
         },
         {
             "id": 54,
             "model": "로쟈",
-            "content": "Wow... Okay... I really wanna give up now, ha ha."
+            "content": "Guau... Okay... ¿todavía es tiempo para darme de baja? Jaja."
         },
         {
             "id": 55,
             "model": "로쟈",
-            "content": "I wanna go back to the time when I didn't know what the Whales really looked like..."
+            "content": "Quiero volver a la época en donde no sabía que las Ballenas se veían así..."
         },
         {
             "id": 56,
             "model": "이스마엘",
-            "content": "So this is the Lake where the Whales come to sleep..."
+            "content": "Conque este es el Lago donde las Ballenas vienen a dormir..."
         },
         {
             "id": 57,
             "model": "이스마엘",
-            "content": "Yeah. If they're deep in the water with their necks bent like that... I could see their tails rising tall over the surface."
+            "content": "Claro. Si están con sus cuellos doblados de esa manera... sus colas podrían verse desde la superficie."
         },
         {
             "id": 58,
             "model": "이스마엘",
-            "content": "But... There's no way they missed this commotion."
+            "content": "Pero... no hay manera de perderse este alboroto."
         },
         {
             "id": 59,
             "model": "싱클레어",
-            "content": "T-t-t-the ship is... We're... we're keeling over!"
+            "content": "¡L-l-l-la nave... se está inclinando!"
         },
         {
             "id": 60,
             "model": "이스마엘",
-            "content": "... The Whales are waking up."
+            "content": "... Las Ballenas están despertando."
         },
         {
             "id": 61,
-            "content": "'We're finally here.'"
+            "content": "'Finalmente estamos aquí.'"
         },
         {
             "id": 62,
-            "content": "... I think that's what Ishmael whispered. But the storm, the waves buried her voice deep into the Lake."
+            "content": "... Es lo que creo que Ishmael susurró. Pero en la tormenta, las olas se llevaban sus palabras, enterrándolas en lo profundo del Lago."
         },
         {
             "id": 63,
             "model": "파우스트",
-            "content": "If the Indigo Elder made it here as we planned..."
+            "content": "Si el Viejo Índigo ha llegado hasta aquí según lo planeado..."
         },
         {
             "id": 64,
             "model": "돈키호테",
-            "content": "WOAAAAAAHHHHH!"
+            "content": "¡WOAAAAAAHHHHH!"
         },
         {
             "id": 65,
             "model": "돈키호테",
-            "content": "OVER YONDER, I-IS THAT THE WHALE?!"
+            "content": "¡MIRAD EN LA LEJANÏA!, ¡¿E-ES ESA LA BALLENA?!"
         },
         {
             "id": 66,
-            "content": "We didn't have to wonder even for a second about what Don Quixote was screaming at."
+            "content": "No había necesidad de preguntar a que le estaba gritando Don Quixote."
         },
         {
             "id": 67,
-            "content": "An entire herd of entities, each dwarfing every single Whale we've weathered throughout this journey, emerged from the waters all at once. In unison, they began migrating in a singular direction. To witness something like that was..."
+            "content": "Una manada de criaturas de tamaño tan inmenso que ninguna Ballena vista en nuestra expedición podría competir contra ellas, emergió desde las aguas al unísono. Migrando hacía la misma dirección..."
         },
         {
             "id": 68,
@@ -332,340 +332,340 @@
         },
         {
             "id": 69,
-            "content": "... enough to make even Meursault gape with plain bewilderment."
+            "content": "... ver algo así era suficiente para asombrar hasta a Meursault."
         },
         {
             "id": 70,
             "model": "파우스트",
-            "content": "Looks like things are going according to plan."
+            "content": "Al parecer todo va de acuerdo al plan."
         },
         {
             "id": 71,
             "model": "오티스",
-            "content": "Then we'll have to do our part."
+            "content": "Entonces es hora de que hagamos nuestra parte."
         },
         {
             "id": 72,
             "model": "이스마엘",
-            "content": "Ah!"
+            "content": "¡Ah!"
         },
         {
             "id": 73,
             "model": "이스마엘",
-            "content": "There, there!"
+            "content": "¡Allí, Allí está!"
         },
         {
             "id": 74,
-            "content": "There was a Whale that stood out even among the herd of ineffably immense Whales."
+            "content": "Ishmael señaló a una Ballena destacablemente descomunal entre las inmensas Ballenas."
         },
         {
             "id": 75,
-            "content": "Pallid as the pale death... Its hide, thick with scar tissue."
+            "content": "Un color pálido como la muerte misma... ocultado tras gruesas cicatrices."
         },
         {
             "id": 76,
             "model": "오티스",
-            "content": "That one's particularly scarred."
+            "content": "Esa tiene muchas cicatrices."
         },
         {
             "id": 77,
             "model": "이스마엘",
-            "content": "Ha, ha ha ha... I've found it!"
+            "content": "Ja, ja ja ja... ¡Te encontré!"
         },
         {
             "id": 78,
             "model": "이스마엘",
-            "content": "Yes... He was right. The wounds, the scars that we... the Pequod made... they're all still there."
+            "content": "Sí... Él tenía razón. Las cicatrice... las heridas dejadas por el Pequod... aún siguen ahí."
         },
         {
             "id": 79,
             "model": "베르길리우스",
-            "content": "I assume that you have finally located the Whale?"
+            "content": "Parece que por fin has encontrado a la Ballena, ¿eh?"
         },
         {
             "id": 80,
             "model": "파우스트",
-            "content": "I believe so, yes."
+            "content": "También lo creo que es así."
         },
         {
             "id": 81,
             "model": "베르길리우스",
-            "content": "As always... the chance of success must be miniscule."
+            "content": "Como siempre... la probabilidad de éxito debe se minúscula."
         },
         {
             "id": 82,
             "model": "파우스트",
-            "content": "Indeed it is."
+            "content": "Ciertamente."
         },
         {
             "id": 83,
             "model": "이스마엘",
-            "content": "OARSMEN!!!!!!!"
+            "content": "¡ ¡ ¡ ¡REMEN! ! ! !"
         },
         {
             "id": 84,
-            "content": "Ishmael thundered."
+            "content": "Ishmael rugió."
         },
         {
             "id": 85,
             "model": "단테2",
-            "content": "<Ishmael...?>"
+            "content": "<¿Ishmael...?>"
         },
         {
             "id": 86,
-            "content": "No, louder than the thunder itself. As though her personality itself had suddenly shifted. Her voice seemed to overwhelm the very storm itself."
+            "content": "Su voz era más fuerte que la de un trueno. Como si de un momento a otro su personalidad hubiera cambiado y su voz convertido en la de la misma tormenta."
         },
         {
             "id": 87,
             "model": "이스마엘",
-            "content": "ANSWERS, YOU DOGS!!!!! OARSMEN!!!!"
+            "content": "¡ ¡ ¡ CONTESTEN, DESGRACIADOS ! ! !  ¡ ¡ ¡ REMEN"
         },
         {
             "id": 88,
             "model": "히스클리프",
-            "content": "Huh?! A-aye!"
+            "content": "¡¿Eh?! ¡S-sí!"
         },
         {
             "id": 89,
             "model": "이스마엘",
-            "content": "Set route to that pallid thing! FULL SPEED AHEAD!!!! ROW!"
+            "content": "¡Marquen la ruta hacía esa cosa pálida! ¡¡¡A TODA MARCHA!!! ¡A REMAR!"
         },
         {
             "id": 90,
             "model": "오티스",
-            "content": "... Full speed ahead! Row!"
+            "content": "... ¡A toda marcha! ¡Remen!"
         },
         {
             "id": 91,
-            "content": "Even Outis was swept up in this sudden turn of events, repeating after Ishmael's bellowing commands."
+            "content": "Incluso Outis quien estaba mandando a todos empezó a remar ante el rugido de Ishmael, repitiendo sus órdenes."
         },
         {
             "id": 92,
-            "content": "Is this what Ishmael was like when she sailed the Lakes? Or..."
+            "content": "¿Esta es la Ishmael que navegaba por los Lagos? o es solo..."
         },
         {
             "id": 93,
             "model": "이스마엘",
-            "content": "Ha... HA HA...!"
+            "content": "¡Ja... JA JA...!"
         },
         {
             "id": 94,
-            "content": "... Or is this the Captain?"
+            "content": "... ¿O es solo su Capitán?"
         },
         {
             "id": 95,
             "model": "파우스트",
-            "content": "I see light. ... It's the Indigo Elder."
+            "content": "Veo luz... Es el Viejo Índigo."
         },
         {
             "id": 96,
-            "content": "The old man and his skiff was sliding across the waters toward the Whale."
+            "content": "El anciano y su esquife se deslizaban por las aguas suavemente hacía la Ballena."
         },
         {
             "id": 97,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Listen well!"
+            "content": "¡Escúchenme bien!"
         },
         {
             "id": 98,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "The rest of the awakened Whales have gone after the bait I've laid for them!"
+            "content": "¡Las demás Ballenas que se han despertado y han ido por el cebo que les he dejado!"
         },
         {
             "id": 99,
             "model": "오티스",
-            "content": "Then the plan worked! Now... Ah...!"
+            "content": "¡La operación fue un éxito! Ahora...  ¡Ah...!"
         },
         {
             "id": 100,
-            "content": "It wasn't clear whether it was the thunder or the old man's bellow that awakened the Pallid Whale. Its eyelids began to lift."
+            "content": "No tenía claro si fue el trueno o los gritos del viejo lo que despertó a la Ballena Pálida. Pero sus ojos empezaron a abrirse."
         },
         {
             "id": 101,
             "model": "오티스",
-            "content": "... It's been so long since I've witnessed anything like this up close."
+            "content": "... Ha pasado tiempo desde que vi algo así tan de cerca."
         },
         {
             "id": 102,
-            "content": "It was an eye of astronomical proportions, so immense that it no longer resembled an eye-but a reflective mirror of the world."
+            "content": "Era un ojo de proporciones astronómicas, tan inmenso que parecía más un espejo que reflejaba el mundo en vez de un simple ojo."
         },
         {
             "id": 103,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Oh, how I wished to see you eye-to-eye."
+            "content": "Oh, cuanto he deseado verte de ojo a ojo."
         },
         {
             "id": 104,
-            "content": "The old man, harpoon in hand, draws closer to the whale with a grim, stony expression. Ishmael also aims her harpoon at the great Whale, her face nearly tearing with uncontainable joy. Some sinners tremble with fear, while others prepare themselves."
+            "content": "El Viejo Índigo con su arpón en mano acercándose a la Ballena sin expresión alguna. Ishmael apuntando su propio arpón también en contra de ella, con un rostro que rebosaba una alegría incontrolable. Mientras que algunos Pecadores temblaban de miedo y otros se preparan a lo que esta por venir."
         },
         {
             "id": 105,
-            "content": "All of it, the world... contained in a single reflective eye that stretched even beyond our peripheral visions."
+            "content": "El mundo condensado en su reluciente ojo podía observar todo lo que estaba sucediendo sin necesidad de su vista periférica."
         },
         {
             "id": 106,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "... Now here's your bait, fish. Bite on it."
+            "content": "... Vamos, tu también. Muerde el anzuelo."
         },
         {
             "id": 107,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I know you have no other choice. Biting, devouring's all you've ever known."
+            "content": "Sé que no tienes otra alternativa. Mastícalo, devorar es todo lo que siempre has sabido hacer"
         },
         {
             "id": 108,
             "model": "이스마엘",
-            "content": "OARSMEN!!!!! SPLIT THE SEA WITH YOUR OARS!!!!!"
+            "content": "¡ ¡ ¡ REMEROS ! ! ! ¡ ¡ ¡ AUMENTEN EL RITMO ! ! !"
         },
         {
             "id": 109,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I respect you, Pallid Whale. I respect that you have lived years in numbers that I cannot even begin to imagine. I respect that you hail from a place beyond my ken."
+            "content": "Te tengo respeto, Ballena Pálida. Respeto que hayas vivido tantos años que no puedo imaginar. Respeto que hayas venido de un lugar tan distante y más allá de mi comprensión."
         },
         {
             "id": 110,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "But..."
+            "content": "Pero..."
         },
         {
             "id": 111,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I will take this chance to stand before you, to challenge you. And with this challenge, to the edge of understanding I will row."
+            "content": "Tomaré esta oportunidad para enfrentarme ante ti y desafiarte. Y con este desafío, remaré yo mismo hacía los límites del entendimiento."
         },
         {
             "id": 112,
-            "content": "The giant harpoon soars across the black sky like a bolt of levin and strikes the Pallid Whale."
+            "content": "Un enorme arpón voló por los aires como un relámpago, golpeando a la Ballena Pálida."
         },
         {
             "id": 113,
             "model": "오티스",
-            "content": "Now is our chance! Row on, row on!"
+            "content": "¡Ahora es nuestro momento! ¡Remen, remen!"
         },
         {
             "id": 114,
-            "content": "Ishmael rose tall and alone, looking straight out beyond the speeding boat's swaying bow, harpoon in her hand."
+            "content": "Ishmael se mantenía firme sosteniendo su arpón con fuerza mientras el barco se agitaba gradualmente por su aceleración."
         },
         {
             "id": 115,
             "model": "이스마엘",
-            "content": "I've been thinking... ever since then... about what feelings you might dig up from my heart if I saw you again."
+            "content": "A menudo he pensado... me he preguntado... como me sentiría una vez te vuelva a encontrar."
         },
         {
             "id": 116,
             "model": "이스마엘",
-            "content": "Ha... But this feeling is much more straightforward than I expected."
+            "content": "Ja... pero la respuesta no era tan complicada como esperaba."
         },
         {
             "id": 117,
             "model": "이스마엘",
-            "content": "... Nice meeting you again, you FUCKING WHALE!"
+            "content": "... ¡Una alegría verte otra vez... PUTA BALLENA DE MIERDA!"
         },
         {
             "id": 118,
             "model": "창백한 고래",
-            "teller": "The Pallid Whale",
-            "title": "The Outskirts",
-            "content": "…! ……!"
+            "teller": "La Ballena Pálida",
+            "title": "Las Afueras",
+            "content": "¡…! ¡……!"
         },
         {
             "id": 119,
-            "content": "Compared to the old man's harpoon, the harpoon Ishmael hurled was like a needle."
+            "content": "Comparado al arpón del Viejo Índigo, el de Ishmael era solo un mondadientes."
         },
         {
             "id": 120,
-            "content": "But once struck, as though its body was wracked by an immense, unbearable pain, the Pallid Whale's maw opened-and the air itself began to vibrate."
+            "content": "A pesar de su tamaño, la Ballena Pálida lanzó un grito de dolor inmenso, como si estuviese afligido por un dolor insoportable, abriendo lentamente su mandíbula mientras el aire vibraba por el estruendo."
         },
         {
             "id": 121,
             "model": "오티스",
-            "content": "Its maw opens!"
+            "content": "¡Su mandíbula se abrió!!"
         },
         {
             "id": 122,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
             "content": "......"
         },
         {
             "id": 123,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Go. I will now fish this beast."
+            "content": "Adelante. Empezaré con mi pesca."
         },
         {
             "id": 124,
-            "content": "Every Sinner heard the old man's voice."
+            "content": "Cada uno de los Pecadores escucharon la voz del viejo."
         },
         {
             "id": 125,
-            "content": "Every Sinner begins rowing with all their might."
+            "content": "Y todos empezaron a remar con todas sus fuerzas."
         },
         {
             "id": 126,
-            "content": "In desperation. As though death itself was in our pursuit."
+            "content": "Con un ímpetu desesperado, pues era una carrera contra la muerte."
         },
         {
             "id": 127,
-            "content": "As though it was our fate, our destiny to row."
+            "content": "Ese era nuestro destino, remar o morir."
         },
         {
             "id": 128,
-            "content": "We were sucked into an endless abyss..."
+            "content": "El abismo sin fin nos absorbía con fuerza..."
         },
         {
             "id": 129,
-            "content": "... and a rapid vortex pulled us into the maws of the beast, tenebrous as a well under a moonless sky."
+            "content": "... Y con un rápido torrente cual flecha, fuimos arrastrados a las fauces de esa bestia hasta caer en una especie de pozo total y carente de luz."
         },
         {
             "id": 130,
             "model": "단테2",
-            "content": "<…!>"
+            "content": "<¡…!>"
         },
         {
             "id": 131,
-            "content": "There was a deep noise."
+            "content": "Se escuchó un fuerte golpe."
         },
         {
             "id": 132,
-            "content": "And like a droplet in sea, we melted into the fathomless dark."
+            "content": "Y como una gota en el mar, fuimos consumidos por una interminable oscuridad."
         },
         {
             "id": 133,
             "model": "베르길리우스",
-            "content": "Acknowledge. Acknowledge. How goes the plan?"
+            "content": "Cambio... Cambio... ¿Cómo va el plan?"
         },
         {
             "id": 134,
             "model": "베르길리우스",
-            "content": "Acknowledge. Hey!"
+            "content": "Cambio. ¡Oigan!"
         },
         {
             "id": 135,
             "model": "베르길리우스",
-            "content": "... Looks like the radio's broken for good."
+            "content": "... Parece que la radio se ha estropeado."
         },
         {
             "id": 136,
             "model": "카론",
-            "content": "Mhm. Worrying."
+            "content": "Mhm. Preocupante."
         }
     ]
 }

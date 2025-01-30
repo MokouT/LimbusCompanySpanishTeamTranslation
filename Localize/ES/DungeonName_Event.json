@@ -2,19 +2,23 @@
   "dataList": [
     {
       "id": 910301,
-      "name": "Cp. 3.5 Mazmorra de Evento (Suave)"
+      "name": "Cp. 3.5 Mazmorra Normal (Suave)"
     },
     {
       "id": 910302,
-      "name": "Cp. 3.5 Mazmorra de Evento (Picante)"
+      "name": "Cp. 3.5 Mazmorra Difícil (Picante)"
     },
     {
       "id": 910701,
-      "name": "Cp. 5.5 Mazmorra de Evento"
+      "name": "Cp. 5.5 Mazmorra Normal"
     },
     {
       "id": 910901,
-      "name": "Ch. 6.5 Mazmorra de Evento"
+      "name": "Ch. 6.5 Mazmorra Difícil"
+    },
+    {
+      "id": 911401,
+      "name": "Ch. 7.5 Mazmorra"
     }
   ]
 }

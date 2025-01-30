@@ -888,6 +888,20 @@
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff 11va Identidad"
+    },
+    {
+      "id": 10211,
+      "title": "E.G.O LCE::\nEstrella De Pétalo\nArdiente",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 11th Identity"
+    },
+    {
+      "id": 10111,
+      "title": "E.G.O LCE::\nLinterna",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 11th Identity"
     }
   ]
 }

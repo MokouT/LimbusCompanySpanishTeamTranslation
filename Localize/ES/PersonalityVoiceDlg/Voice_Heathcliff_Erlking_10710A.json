@@ -86,6 +86,11 @@
             "dlg": "... ¡Prepárate para tu ejecución...!"
         },
         {
+            "id": "battle_s2_10710_ride_1",
+            "desc": "Skill 2 Dullahan",
+            "dlg": "Tear it apart, Dullahan!"
+        },
+        {
             "id": "battle_enemy_break_10710_1",
             "desc": "Enemigo Aturdido",
             "dlg": "En la tempestad..."

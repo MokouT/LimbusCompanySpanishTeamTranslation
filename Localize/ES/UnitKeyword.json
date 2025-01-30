@@ -179,6 +179,22 @@
     {
       "id": "UnitKeyword_DEVYAT",
       "content": "Association Devyat'"
+    },
+    {
+      "id": "UnitKeyword_LA_MANCHA_LAND",
+      "content": "La Manchaland"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCE",
+      "content": "LCE"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCC",
+      "content": "LCC"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCB",
+      "content": "LCB"
     }
   ]
 }

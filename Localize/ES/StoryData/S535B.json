@@ -2,42 +2,42 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Mephistopheles' Skiff",
-            "content": "As we discussed earlier, we took a different route from the Indigo Elder. We were to first arrive at separate destinations for our plan."
+            "place": "Esquife de Mefistófeles",
+            "content": "Nos separamos momentáneamente del Viejo Índigo tal como lo habíamos planeado, dirigiéndonos a nuestra posición."
         },
         {
             "id": 1,
             "model": "단테2",
-            "content": "<... Something's floating over there.>"
+            "content": "<... Parece que algo está flotando por ahí.>"
         },
         {
             "id": 2,
-            "content": "Not long after we crossed the line where the lake water turned dark grey, we noticed something pale peeking out from the lake."
+            "content": "Notamos algo pálido flotar poco después de pasar el límite donde el color del lago cambió a un tono grisáceo."
         },
         {
             "id": 3,
             "model": "싱클레어",
-            "content": "Are those... Islands? There's a lot of them..."
+            "content": "¿Esas son... islas? Parecen haber muchas..."
         },
         {
             "id": 4,
             "model": "오티스",
-            "content": "They may be reefs. Perhaps that is this Lake's challenge... To navigate it while avoiding them to the best of our abilities."
+            "content": "Podrían ser arrecifes. Quizás las reglas de este Lago indican que tenemos que navegar con cautela para evitar sus obstáculos."
         },
         {
             "id": 5,
             "model": "싱클레어",
-            "content": "Well, they sure do look rocky. But... They're too big to be called reefs."
+            "content": "Bueno, sus formas se ven un tanto irregulares... pero son muy grandes para ser arrecifes."
         },
         {
             "id": 6,
             "model": "이상",
-            "content": "Do you sense aught, Dante?"
+            "content": "¿Percibes algo, Dante?"
         },
         {
             "id": 7,
             "model": "이상",
-            "content": "We may attempt to discover a path that does not lead into an area cluttered with such obstacles, yet that would require us to hazard a path unknown. It may lead to this plan's ruin."
+            "content": "Podríamos navegar hacia un camino donde no estén tan conglomerados esos obstáculos, no obstante, tal desvió nos puede hacer llegar a un camino distinto y comprometiendo el plan."
         },
         {
             "id": 8,
@@ -47,12 +47,12 @@
         {
             "id": 9,
             "model": "파우스트",
-            "content": "If you can sense even the most general direction of the Golden Bough, please relay it to me. I can use that to approximate its location."
+            "content": "Si percibe algún indicio de la Rama Dorada, por favor, indíqueme en cual dirección se encuentra para aproximar su ubicación."
         },
         {
             "id": 10,
             "model": "파우스트",
-            "content": "I can assure you a degree of accuracy, now that we have with us additional data provided by the Indigo Elder."
+            "content": "Con la información provista por el Viejo Índigo le puedo asegurar un cierto grado de precisión en mi predicción."
         },
         {
             "id": 11,
@@ -62,12 +62,12 @@
         {
             "id": 12,
             "model": "파우스트",
-            "content": "They are able to do this only under the peculiar conditions of the Great Lake, which has very few in the way of obstacles."
+            "content": "Es un método que es capaz de realizarse gracias a las condiciones especiales del Gran Lago."
         },
         {
             "id": 13,
             "model": "파우스트",
-            "content": "The urban areas of the City are dense with structures, both high and low, and into the underground. The higher population density also complicates matters. Considering that Dante can detect the Golden Bough only in close proximities, considering that there may be insurmountable obstacles in our way, their sense will not be of much help there."
+            "content": "Las áreas urbanas de la Ciudad están llenas de todo tipo de estructuras, tanto en tierra firme como bajo tierra. La densidad de la población también complica las cosas por lo que es lógico que solo pueda percibir las Ramas Doradas cuando estén cerca. Añadiendo también que el camino hacia la Rama Dorada no es un trayecto lineal."
         },
         {
             "id": 14,
@@ -77,118 +77,118 @@
         {
             "id": 15,
             "model": "단테2",
-            "content": "<Huh, so that's why... that's why I could feel the Golden Bough here, even when it was so far away...>"
+            "content": "<Ah, entiendo. Entonces es por eso de que puedo sentir la presencia de la Rama Dorada aunque esté lejos...>"
         },
         {
             "id": 16,
-            "content": "I raised my finger and pointed toward the general direction of this vague feeling."
+            "content": "Levanté mi mano y apunté hacia la dirección donde sentía una vaga sensación de energía."
         },
         {
             "id": 17,
             "model": "파우스트",
-            "content": "Confirmed. We will turn the ship around in that direction."
+            "content": "Afirmativo. Cambiemos el rumbo hacía esa dirección."
         },
         {
             "id": 18,
-            "content": "Ishmael wordlessly steered the ship according to Faust's words."
+            "content": "Siguiendo las palabras de Faust, Ishmael, sin decir alguna palabra, cambió la dirección del bote."
         },
         {
             "id": 19,
-            "content": "We grew ever nearer to the island... or a reef. A heavy silence descended upon the Sinners."
+            "content": "El aire se hacía cada vez más y más pesado mientras nos acercábamos en silencio poco a poco a lo que parecía ser una isla o un arrecife."
         },
         {
             "id": 20,
             "model": "이스마엘",
-            "content": "... Oh."
+            "content": "... Ah."
         },
         {
             "id": 21,
-            "content": "Until Ishmael gasped with a sudden realization."
+            "content": "Hasta que Ishmael suspiró, como si ella hubiera comprendido algo."
         },
         {
             "id": 22,
             "model": "이스마엘",
-            "content": "It's this Lake."
+            "content": "Es este Lago."
         },
         {
             "id": 23,
-            "content": "There was an incomprehensible look on Ishmael's face."
+            "content": "Hay algo en su expresión que me es difícil de analizar."
         },
         {
             "id": 24,
-            "content": "Maybe I saw unrestrained joy. The joy of finding something she's been searching for so long. Such an overwhelming, all-consuming happiness that her facial muscles began to twitch on their own."
+            "content": "Parecía una sonrisa imposible de ocultar. Una felicidad de haber encontrado algo que había estado buscando con tanto esmero, imposible de controlar su éxtasis."
         },
         {
             "id": 25,
-            "content": "Maybe I saw extreme fear. The fear in the face of destined, unavoidable horror. The Lake's splashing waves hit her trembling face and rolled down her cheeks. Or, maybe, she was sweating from dread."
+            "content": "Tal vez era terror absoluto. Sus cejas temblaban y no sabría decir si era por el agua fría del Lago que salpicó contra su cara o por la tensión que ella experimentaba, como si estuviera apunto de enfrentarse a un miedo terrible."
         },
         {
             "id": 26,
             "model": "파우스트",
-            "content": "Ishmael, do you have any new information to share with us?"
+            "content": "¿Tiene alguna información que quiera compartir con nosotros, Ishmael?"
         },
         {
             "id": 27,
             "model": "이스마엘",
-            "content": "... Yeah. Here... I know what to do from here. I know exactly what to do."
+            "content": "... Claro. Sé lo que debo hacer. Sé claramente lo que debo hacer desde aquí."
         },
         {
             "id": 28,
             "model": "이스마엘",
-            "content": "Outis, I can't clearly see what's in front of us from back here. Tell me precisely what you see. Their numbers, their sizes, all of it."
+            "content": "Desde la parte trasera no puedo ver lo que hay delante de nosotros. Outis, descríbame con exactitud cada obstáculo que vea, por favor. Su cantidad, su tamaño, todo."
         },
         {
             "id": 29,
             "model": "오티스",
-            "content": "... Trying to avoid the wild currents and find a safe path around these rocks? Understood."
+            "content": "... Entendido. Describiré para evitar las corrientes marítimas y para encontrar un camino seguro entre estas rocas."
         },
         {
             "id": 30,
-            "content": "Outis nodded emphatically before rising from her seat to gaze at the path ahead. She balanced herself as the ship rocked."
+            "content": "Outis asintió y se levantó de su asiento para observar el trayecto delante de nosotros, manteniendo el equilibrio mientras el barco se balanceaba."
         },
         {
             "id": 31,
             "model": "오티스",
-            "content": "About 350 meters ahead. Miniscule, plain patterned, glistening rock. About 500 meters ahead of that is a medium-sized rock. It has a bump on top of it that stands out."
+            "content": "A 350 metros. Roca minúscula, brillante y de aspecto simple. A 500 metros tras de esa roca. Roca de tamaño mediano con un bulto que sobresale encima de la misma."
         },
         {
             "id": 32,
             "model": "이스마엘",
-            "content": "Continue."
+            "content": "Continua."
         },
         {
             "id": 33,
             "model": "오티스",
-            "content": "Hm. And not so far ahead from there is a large island with a rough, porous surface... Oh, upon closer inspection, it's like an archipelago of three... four similar islands."
+            "content": "Hmm, cerca de nosotros hay una gran isla de aspecto áspero y con superficie porosa... Ah, mirando más de cerca hay a su alrededor tres o cuatro islas de aspecto similar."
         },
         {
             "id": 34,
             "model": "이스마엘",
-            "content": "Good."
+            "content": "Bien."
         },
         {
             "id": 35,
-            "content": "Ishmael began fiddling with the steering gear and the engine's output levers as though something had clicked in her mind."
+            "content": "Ishmael comprendió de inmediato y ajustó la dirección del barco y la potencia del motor."
         },
         {
             "id": 36,
             "model": "오티스",
-            "content": "... Good. We've made it past the first rock."
+            "content": "... Bien, hemos pasado con éxito la primera roca."
         },
         {
             "id": 37,
             "model": "홍루",
-            "content": "Its texture was a bit... different from that of a normal rock, wasn't it?"
+            "content": "Esa textura... Es muy diferente al de una roca normal, ¿verdad?"
         },
         {
             "id": 38,
             "model": "료슈",
-            "content": "G.E. That's not the texture of a rock. Or even soil."
+            "content": "B.V. No tiene la textura rocosa ni terrosa."
         },
         {
             "id": 39,
             "model": "오티스",
-            "content": "We just passed the second one."
+            "content": "Hemos dejado atrás la segunda roca."
         },
         {
             "id": 40,
@@ -198,46 +198,46 @@
         {
             "id": 41,
             "model": "료슈",
-            "content": "Hmph. That there... is a living, breathing thing."
+            "content": "Hmph. Esa de ahí la he visto respirar, esa cosa está viva."
         },
         {
             "id": 42,
             "model": "히스클리프",
-            "content": "What?"
+            "content": "¿Qué?"
         },
         {
             "id": 43,
             "model": "오티스",
-            "content": "... Wait... Swabbie! Watch where you're steering this ship! We're going to crash into that third rock at this rate!"
+            "content": "¡...Espera, grumete! ¡¿Hacia donde crees que estas dirigiendo el barco?! ¡Nos vamos a estrellar contra el tercer arrecife!"
         },
         {
             "id": 44,
             "model": "이스마엘",
-            "content": "And that's what I'm going to do, Outis. That's where we get off."
+            "content": "Eso es lo que trato de hacer, Outis. Aquí vamos a desembarcar."
         },
         {
             "id": 45,
             "model": "히스클리프",
-            "content": "That rock? That creepy, porous rock over there?"
+            "content": "Pará, ¿a esa roca llena de agujeros? ¿Te referís a esa?"
         },
         {
             "id": 46,
             "model": "히스클리프",
-            "content": "Oi, feel free to crash into a rock on your free time, but don't take all of us with you! There's not even a single tree up there, let alone a person. What the bloody hell are we anchoring there for?"
+            "content": "Escuchame una cosa, piba. ¡Si querés estrellarte contra una roca, hacélo sin nosotros!. Aparte, ni hay nada encima, ¿para qué querés que nos bajemos?"
         },
         {
             "id": 47,
             "model": "이스마엘",
-            "content": "You gotta screw your head on in a different direction in the Great Lake, Heathcliff."
+            "content": "Tu forma de pensar está equivocada, muy equivocada."
         },
         {
             "id": 48,
             "model": "히스클리프",
-            "content": "What are you talking abou-"
+            "content": "¿Equivocado yo?, ¿Explica— ¡¿Ahh?!"
         },
         {
             "id": 49,
-            "content": "A loud shock and an ear-splitting sound of the skiff scratching and sliding against something cut Heathcliff off."
+            "content": "El fuerte impacto entre la roca y el costado del esquife junto con el chirrido de estos dos haciendo fricción interrumpieron a Heathcliff."
         },
         {
             "id": 50,
@@ -247,30 +247,30 @@
         {
             "id": 51,
             "model": "료슈",
-            "content": "... Oh yes, she knows. Huhu."
+            "content": "... Oh, ella sabe lo que hace. Juju."
         },
         {
             "id": 52,
             "model": "싱클레어",
-            "content": "Wait, that white color... Ishmael?"
+            "content": "Espera, este color blanco... Ishmael, ¿no será?"
         },
         {
             "id": 53,
             "model": "이스마엘",
-            "content": "Yeah. Those aren't islands or rocks."
+            "content": "Si. Esas no son rocas ni arrecifes."
         },
         {
             "id": 54,
-            "content": "What we thought were islands suddenly rumbled, vibrating, as ground tremors from an earthquake."
+            "content": "De pronto, lo que pensábamos que eran solo rocas comenzaron a temblar al lado del barco, como si fuera un terremoto."
         },
         {
             "id": 55,
             "model": "이스마엘",
-            "content": "They're... all part of a Whale."
+            "content": "Todo esto... es parte de una Ballena."
         },
         {
             "id": 56,
-            "content": "A colossal creature shudders as it wakes from a long slumber."
+            "content": "La criatura colosal tiembla y se levanta de su largo sueño."
         }
     ]
 }

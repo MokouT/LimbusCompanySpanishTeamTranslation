@@ -444,6 +444,11 @@
       "id": 2120811,
       "name": "Noche de Insomnio",
       "desc": "Inicio del Combate: inflige 1 [AttackDown] o 1 [DefenseDown] a todos los enemigos un total de (# de enemigos Aturdidos,con Baja Moral, o en estado de Pánico) veces. (2 veces por turno)\n- Este efecto no se acumula con Regalos E.G.O. con efectos identicos."
+    },
+    {
+      "id": 2040811,
+      "name": "Respirar",
+      "desc": "Al Inicio del Siguiente Turno después de usar esta Habilidad E.G.O: gana 1 [NebulizerInhale] (una vez por turno)\n- Si esta Habilidad derrotó algún enemigo, gana [NebulizerInhale] adicionalmente según el número de enemigos derrotados\n- Si esta Habilidad derrotó algún aliado, gana (objetivos derrotados x 2) de [NebulizerInhale] adicionales\n- Este valor no se Acúmula durante este Encuentro"
     }
   ]
 }

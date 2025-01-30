@@ -61,6 +61,14 @@
     {
       "id": 9111,
       "openCondition": "Completar La 4ta Noche del Walpurgis"
+    },
+    {
+      "id": 9113,
+      "openCondition": "Completar La 5ta Noche del Walpurgis"
+    },
+    {
+      "id": 9114,
+      "openCondition": "Completar LCB Chequeo Médico"
     }
   ]
 }

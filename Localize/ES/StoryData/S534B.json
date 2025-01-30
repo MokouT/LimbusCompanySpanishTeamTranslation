@@ -2,24 +2,24 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Cabins of Mephistopheles",
+            "place": "Cabinas de Mefistófeles",
             "model": "베르길리우스",
-            "content": "This was unexpected of you, Faust."
+            "content": "Qué inesperado de tu parte, Señorita Faust."
         },
         {
             "id": 1,
             "model": "베르길리우스",
-            "content": "For you of all Sinners to be the one to bring aboard a 'big shot' to our humble abode."
+            "content": "Quién diría que tu de entre todos los Pecadores traería a un 'pez gordo' a esta embarcación de mala muerte."
         },
         {
             "id": 2,
             "model": "히스클리프",
-            "content": "Tsk, do you have any idea how many times that prick killed us? The least you could do is-"
+            "content": "Bue, ¿tenés idea de cuantas veces nos mató ese forro? Lo mínimo que podrías hacer es-"
         },
         {
             "id": 3,
             "model": "베르길리우스",
-            "content": "Yes... that reminds me. I'll have to re-open my personal consultation hours for a certain kleptomaniac among us."
+            "content": "Sí... casi lo olvido. tendré que volver a abrir mis asesorías privadas para aquellos con cierto hábito cleptómano."
         },
         {
             "id": 4,
@@ -28,119 +28,119 @@
         },
         {
             "id": 5,
-            "content": "Vergilius' obvious discontent at the involvement of an outsider didn't seem to bother Faust."
+            "content": "Vergilius no estaba para nada contento con Faust por traer a un desconocido, pero a ella no parecía importarle."
         },
         {
             "id": 6,
             "model": "파우스트",
-            "content": "I considered him indispensable to the completion of this mission."
+            "content": "Le considero indispensable para ultimar esta misión."
         },
         {
             "id": 7,
             "model": "베르길리우스",
-            "content": "And why is that?"
+            "content": "¿Y es por?"
         },
         {
             "id": 8,
             "model": "쪽빛노인",
             "teller": "¿¿??",
             "title": "¿¿??",
-            "content": "Because I am the only one who can hunt that Pallid Whale."
+            "content": "Es porque soy el único que puede dar caza a esa Ballena Pálida."
         },
         {
             "id": 9,
             "model": "베르길리우스",
-            "content": "... Of course you are."
+            "content": "... ... Desde luego que sí."
         },
         {
             "id": 10,
             "model": "베르길리우스",
-            "content": "The Indigo Elder."
+            "content": "Viejo Indigo."
         },
         {
             "id": 11,
             "model": "돈키호테",
-            "content": "Indigo? He is a Color?! Thou meanest to say that I at this very moment am sharing a space with not one but TWO COLOR FIXERS...?"
+            "content": "¿Indigo? ¿Es un pregonado Fixer de Color? ¿Me estáis diciendo que estoy ante la presencia de no solo uno pero en su lugar de DOS COLOR FIXERS...?"
         },
         {
             "id": 12,
             "model": "베르길리우스",
-            "content": "I heard that you were wandering the Great Lake to hunt its Whales."
+            "content": "Escuché que estabas cazando Ballenas en alguna parte del Gran Lago."
         },
         {
             "id": 13,
             "model": "베르길리우스",
-            "content": "And last I heard, you hunted one of the five Calamities, the All-impaling Marlin Whale."
+            "content": "Lo último que supe de ti, es que le diste caza a una de las cinco Calamidades, la Ballena Marlin, que todo atraviesa."
         },
         {
             "id": 14,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
             "content": "... Hrm."
         },
         {
             "id": 15,
-            "content": "The old man grunted. It was neither a confirmation nor a denial, but that was the way the old man was. Everyone understood that."
+            "content": "El viejo soltó un gruñido que no era ni una afirmación ni negación, si no la forma que tenía para responder. Y todos entendieron eso."
         },
         {
             "id": 16,
             "model": "파우스트",
-            "content": "All circumstantial evidence suggests that the Golden Bough was devoured by the Whale stranded at the Great Lake."
+            "content": "Según las circunstancias, la Rama Dorada fue devorada por una Ballena que se encontraba encallada en el Gran Lago."
         },
         {
             "id": 17,
             "model": "파우스트",
-            "content": "Yes, that very same Pallid Whale of the Five Calamities, normally observed in the Outskirts."
+            "content": "Sí, la misma Ballena Pálida de las Cinco Calamidades, que normalmente es observada en las Afueras de la Ciudad."
         },
         {
             "id": 18,
             "model": "베르길리우스",
-            "content": "... Hm. Of course. That's how these things always tend to flow."
+            "content": "... Hm. Como se esperaba.  Así tienden a fluir las cosas después de todo."
         },
         {
             "id": 19,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "We've wasted much time, so I'll be blunt. I wish to hunt the Pallid Whale."
+            "content": "Hemos perdido mucho tiempo, así que iré al grano. Quiero cazar a la Ballena Pálida."
         },
         {
             "id": 20,
             "model": "베르길리우스",
-            "content": "Yes. And time's all we have."
+            "content": "Tiempo es lo único que tenemos."
         },
         {
             "id": 21,
             "model": "파우스트",
-            "content": "Moreover, we know where the Whale is headed."
+            "content": "Y por lo demás, sabemos donde se dirige esa Ballena."
         },
         {
             "id": 22,
             "model": "파우스트",
-            "content": "And I am certain that you have spent a significant amount of time observing and learning that Whale to hunt it."
+            "content": "Tengo la certeza que has observado una cantidad significativa de tiempo a la Ballena para desarrollar su propio método para cazarla."
         },
         {
             "id": 23,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
             "content": "……."
         },
         {
             "id": 24,
             "model": "이스마엘",
-            "content": "I've got a plan."
+            "content": "Tengo un plan."
         },
         {
             "id": 25,
             "model": "이스마엘",
-            "content": "And I'll do anything to make it work. Even if you want me there only as bait."
+            "content": "Y estoy dispuesta a hacer lo necesario para que funcione. Incluso si yo misma hago de cebo."
         },
         {
             "id": 26,
             "model": "이스마엘",
-            "content": "And this is how we'll do it."
+            "content": "Esto es lo que haremos..."
         },
         {
             "id": 27,
@@ -149,69 +149,69 @@
         },
         {
             "id": 28,
-            "content": "The crowd fell silent when Ishmael finished explaining her plan."
+            "content": "Todos guardaron silencio mientras Ishmael explicaba su plan."
         },
         {
             "id": 29,
             "model": "히스클리프",
-            "content": "... You're mad. All that thrashing's finally sent you off the deep end."
+            "content": "... ... Estás loca. Tanto sacudón finalmente te hizo perder la chaveta."
         },
         {
             "id": 30,
             "model": "이스마엘",
-            "content": "I'm just going there for my mission. And the Golden Bough just happens to be in the same direction."
+            "content": "Estoy aquí solo por mis propios motivos. Sucede que de casualidad la Rama Dorada está por el mismo camino."
         },
         {
             "id": 31,
             "model": "이스마엘",
-            "content": "I'll leave it up to you. Well, to the manager, since their decision matters the most."
+            "content": "A ustedes les toca decidir. Oh bueno, pueden dejarle la decisión del gerente que es la más importante."
         },
         {
             "id": 32,
             "model": "이스마엘",
-            "content": "This Company, me... We're both just trying to find a way to reach our goals. That's all this is."
+            "content": "Al fin y al cabo, tanto esta Compañía como yo, estamos buscando una manera de alcanzar nuestros objetivos."
         },
         {
             "id": 33,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
             "content": "……."
         },
         {
             "id": 34,
             "model": "이스마엘",
-            "content": "Besides, does anyone have a better idea?"
+            "content": "¿Acaso alguien tiene una mejor idea?"
         },
         {
             "id": 35,
             "model": "히스클리프",
-            "content": "No. Can't agree to that. We're making a mistake by even entertaining that barmy idea."
+            "content": "No. Ni en pedo acepto eso. Ya estamos metiendo la pata siquiera considerando esa idea delirante."
         },
         {
             "id": 36,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
             "content": "……"
         },
         {
             "id": 37,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I must ask you one last thing."
+            "content": "Solo haré una pregunta."
         },
         {
             "id": 38,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Will you join us to fish, Red?"
+            "content": "Mirada... ¿Vendrás a pescar con nosotros?"
         },
         {
             "id": 39,
-            "content": "The Indigo Elder suddenly broke his silence with a question."
+            "content": "Tras un largo descanso, el Viejo Indigo hizo su pregunta."
         },
         {
             "id": 40,
@@ -221,223 +221,223 @@
         {
             "id": 41,
             "model": "베르길리우스",
-            "content": "I'm not experienced or particularly skilled at hunting marine life, but..."
+            "content": "No tengo afición ni aptitudes para cazar la vida marina que yace bajo las aguas..."
         },
         {
             "id": 42,
             "model": "베르길리우스",
-            "content": "... I have other, more important concerns that prevent me from joining."
+            "content": "... Tengo otros asuntos más importantes que previenen mi adherencia."
         },
         {
             "id": 43,
             "model": "베르길리우스",
-            "content": "So, no. Unless the worst comes to pass, I will not take part."
+            "content": "A menos que lo peor ocurra tendré que dejarlo pasar."
         },
         {
             "id": 44,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
             "content": "……."
         },
         {
             "id": 45,
-            "content": "The old man rose from his seat and walked off as though he was about to leave."
+            "content": "Al oír eso, el Viejo Índigo se levantó de su asiento y se alejó como si estuviera por irse."
         },
         {
             "id": 46,
             "model": "오티스",
-            "content": "Wait... Wait a moment."
+            "content": "Espere... Aguarde un momento."
         },
         {
             "id": 47,
             "model": "오티스",
-            "content": "We don't need the guide. With a proper plan, we are more than capable of completing this mission."
+            "content": "Incluso sin el Guía. Con un plan apropiado tenemos una probabilidad de completar esta misión."
         },
         {
             "id": 48,
             "model": "오티스",
-            "content": "To give up so quickly is-"
+            "content": "Renunciar tan pronto es-"
         },
         {
             "id": 49,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I never said I am."
+            "content": "Nunca dije que no."
         },
         {
             "id": 50,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "This loud, screaming ship won't do in our hunt for the Pallid Whale."
+            "content": "Será difícil atrapar a la Ballena con un barco ruidoso, y que grita."
         },
         {
             "id": 51,
             "model": "단테2",
-            "content": "<Screaming? I didn't think Mephistopheles was that loud.>"
+            "content": "<¿Qué grita? No creía que Mefistófeles fuera tan ruidoso.>"
         },
         {
             "id": 52,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "To hunt it, the boat must remain near and covert. A narrow and sturdy boat is what we need."
+            "content": "Si quieres darle caza, debes acercarte con un barco estrecho y resistente. De este modo nos podremos acercar sigilosamente."
         },
         {
             "id": 53,
             "model": "그레고르",
-            "content": "... Huh? So all you needed to hear was that Vergilius wasn't going to help out? Why?"
+            "content": "... ... ¿Eh? ¿Por qué accediste a ayudarnos después de escuchar a Vergilius decir que no nos iba a ayudar?"
         },
         {
             "id": 54,
             "model": "로쟈",
-            "content": "Right? This could go much smoother if Vergie was with us."
+            "content": "Greg tiene razón. Esto sería mucho más fácil con Vergi a nuestro lado."
         },
         {
             "id": 55,
             "model": "파우스트",
-            "content": "We can prepare a boat that fits your specifications, should you request it."
+            "content": "Podemos preparar una embarcación según su especificación, de ser necesario podemos brindarle uno propio para usted."
         },
         {
             "id": 56,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "That's all right. I'll sail on my own skiff."
+            "content": "No lo será, mi esquife es suficiente para mí."
         },
         {
             "id": 57,
             "model": "히스클리프",
-            "content": "That old dinghy? That Whale could split it in two with a light wag of its tail."
+            "content": "¿Ese bote viejo? Esa Ballena lo haría mierda de un coletazo."
         },
         {
             "id": 58,
             "model": "오티스",
-            "content": "... No. That skiff... It may not look like much, but it is extremely durable."
+            "content": "... No, Este esquife... puede que no lo parezca pero es de lo más resistente."
         },
         {
             "id": 59,
             "model": "이상",
-            "content": "I see that X Corp.'s alloys have been used in its construction. That could not have been an easy ingredient to come by."
+            "content": "Puedo notar que has usado una aleación de X Corp. para su construcción. No debe haber sido nada fácil hacerse con un ingrediente de tal magnitud."
         },
         {
             "id": 60,
             "model": "돈키호테",
-            "content": "Ooh... another benefit of having a Color bestowed upon thee, then?! I have heard tale of-"
+            "content": "¡Ohh...! ¡¿Es uno de los tantos prestigios que un Color puede recaba?! Por lo que he escuchado-"
         },
         {
             "id": 61,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
             "content": "Hrm..."
         },
         {
             "id": 62,
-            "content": "Instead of entertaining that bombardment of questions..."
+            "content": "En vez de responder el aluvión de preguntas..."
         },
         {
             "id": 63,
-            "content": "... he approached me."
+            "content": "... se acercó a mi."
         },
         {
             "id": 64,
             "model": "단테2",
-            "content": "<…?>"
+            "content": "<¿…?>"
         },
         {
             "id": 65,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I noticed it in the earlier scuffle. That clock seems to have been you and your crew's lifeline."
+            "content": "Me he dado cuenta que ese reloj tuyo ha mantenido con vida a ti y a tus marineros a bordo del Gran Lago por ahora."
         },
         {
             "id": 66,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I know not how it works, but I presume it is a Singularity of sorts."
+            "content": "No tengo idea de como funcione, pero asumiré que es una de esas... Singularidades."
         },
         {
             "id": 67,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "It will not work against the Whale."
+            "content": "Aunque haya ayudado, no servirá contra la Ballena."
         },
         {
             "id": 68,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "So start now. Get used to the idea that not everything can be brought back."
+            "content": "Así que acostúmbrate a la idea de no poder traer todo devuelta a como fue."
         },
         {
             "id": 69,
             "model": "단테2",
-            "content": "<Why...>"
+            "content": "<¿Por qué...?>"
         },
         {
             "id": 70,
             "model": "단테2",
-            "content": "<Why did you accept? Even after Vergilius opted out?>"
+            "content": "<¿Por qué aceptaste ayudarnos? ¿Incluso después de que Vergilius diera un paso atrás?>"
         },
         {
             "id": 71,
-            "content": "It was a question I've been unable to let go."
+            "content": "Le hice una pregunta que no podía sacarme de la cabeza."
         },
         {
             "id": 72,
             "model": "파우스트",
-            "content": "Dante asks why you accepted our request, even after Vergilius opted out of it."
+            "content": "Dante le pregunta el por qué aceptó nuestra solicitud, aunque Vergilius diese un paso atrás."
         },
         {
             "id": 73,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "You ask me the wrong question. I would have denied your request, had Red agreed to take part."
+            "content": "La pregunta está mal. Me hubiera negado a esto si la Mirada hubiera aceptado unirse."
         },
         {
             "id": 74,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Let's say that Red joined us. We would together battle the Whale in a long and arduous struggle. In the end, the Whale would surely go down-taking one of us with it."
+            "content": "Digamos que la Mirada se nos unía. Libraríamos una batalla contra la Ballena y de seguro la cazaríamos aunque nos llevase tiempo ponerle fin a su vida. La Ballena de seguro acabaría con uno de los dos."
         },
         {
             "id": 75,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "That is why I would have opted out if Red chose to join us."
+            "content": "Es por eso que decidí rechazar la oferta si la Mirada se nos unía."
         },
         {
             "id": 76,
             "model": "단테2",
-            "content": "<…?>"
+            "content": "<¿…?>"
         },
         {
             "id": 77,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Because the hunt would no longer be mine."
+            "content": "Entonces no contaría como mi propia pesca."
         },
         {
             "id": 78,
             "model": "돈키호테",
-            "content": "Whatever doth thou mean? Thy intentions elude me..."
+            "content": "¿A qué os referís? Vuestras intenciones me aturullan..."
         },
         {
             "id": 79,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I mean that I would not be able to test the limits."
+            "content": "Quiero decir que ya no sería capaz de probar mis límites."
         },
         {
             "id": 80,
@@ -447,71 +447,71 @@
         {
             "id": 81,
             "model": "이스마엘",
-            "content": "The limits? What are you even talking about?"
+            "content": "¿Límites? ¿Qué estás diciendo?"
         },
         {
             "id": 82,
             "model": "이스마엘",
-            "content": "Look, to hunt that Whale, we have to prepare with everything we have. And..."
+            "content": "Para cazar a esa Ballena, necesitamos preparar todos los medios posibles y..."
         },
         {
             "id": 83,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Out of fear, humans drew borders even to the Outskirts that lie beyond the City limits."
+            "content": "Tanto la Ciudad dibujada en el mapa como los límites exteriores de las Afueras han sido trazados por el miedo de la gente."
         },
         {
             "id": 84,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Beyond it are stars that lie beyond the edge of understanding, beyond even the concept of fear itself."
+            "content": "Más allá hay un lugar donde yacen las estrellas, más allá del miedo, y más allá de la comprensión."
         },
         {
             "id": 85,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I am but a fisherman seeking to cross the borders and challenge that very understanding."
+            "content": "No soy nada más que un pescador buscando cruzar esas fronteras y desafiar ese mismo entendimiento."
         },
         {
             "id": 86,
             "model": "오티스",
-            "content": "... Are you talking about what lies beyond the Outskirts? Its outreaches?"
+            "content": "... ¿Hablas de lo que está mucho más allá en las Afueras?"
         },
         {
             "id": 87,
             "model": "이스마엘",
-            "content": "That Whale... devours everything. It brings nothing but calamity... How could you.."
+            "content": "Esa Ballena... lo devora todo... No trae más que destrucción y ruina a su paso... ¿Cómo es que puedes..."
         },
         {
             "id": 88,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Ah, so you have been a prey once, sailor."
+            "content": "Ah, así que eres una marinera que ya ha sido la presa antes."
         },
         {
             "id": 89,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Countless Lakes here also devour. Summon calamities."
+            "content": "Los innumerables Lagos de aquí también devoran, evocando destrucción y ruina."
         },
         {
             "id": 90,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "If you find yourself at a crossroads, if you find that your life is worth nothing in the face of what lies before you..."
+            "content": "If Si un día te encuentras con una encrucijada, si un día crees que tu vida no vale absolutamente nada..."
         },
         {
             "id": 91,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Recall this conversation."
+            "content": "Recuerda esta conversación."
         },
         {
             "id": 92,
@@ -521,90 +521,90 @@
         {
             "id": 93,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "I'm no good with advice. Never was."
+            "content": "No soy bueno dando consejos. Ni lo he sido."
         },
         {
             "id": 94,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "Still, I thought I'd part a few words..."
+            "content": "Aún así, no está mal decir algunas palabras..."
         },
         {
             "id": 95,
             "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
+            "teller": "El Viejo Índigo",
             "title": "¿¿??",
-            "content": "... as a fellow seafarer. Suppose I felt a bit of kinship."
+            "content": "... considérenlo como una muestra de simpatía de parte marinero a marinero."
         },
         {
             "id": 96,
-            "content": "As per the old man's directions, we rode on the skiff prepared on Mephistopheles."
+            "content": "Siguiendo las direcciones del Viejo Índigo, nos montamos en el esquife de Mefistófeles que se había preparado."
         },
         {
             "id": 97,
-            "place": "Aboard Mephistopheles's Deck",
-            "content": "I saw Ishmael, moments before boarding the skiff on Mephistopheles."
+            "place": "Abordo de la Cubierta de Mefistófeles",
+            "content": "Vi a Ishmael momentos antes de abordarnos al esquife de Mefistófeles."
         },
         {
             "id": 98,
-            "content": "This was Ishmael's plan, but... I had no way of knowing what she was really thinking."
+            "content": "Este era el plan de Ishmael... pero no estábamos seguros de sus verdaderas intenciones."
         },
         {
             "id": 99,
-            "content": "I had an inkling, yes. And so far, I've been going along with those vague guesses. Vague guesses that led to disasters."
+            "content": "Puede que tenga una vaga idea. Pero a lo largo del camino esta misma presunción me ha guiado a distintos desastres."
         },
         {
             "id": 100,
-            "content": "So I had to ask her myself."
+            "content": "Así que decidí preguntarle directamente."
         },
         {
             "id": 101,
             "model": "단테2",
-            "content": "<Ishmael. What do you really want?>"
+            "content": "<Ishmael. ¿Qué es lo que realmente quieres?>"
         },
         {
             "id": 102,
             "model": "이스마엘",
-            "content": "What I really want..."
+            "content": "Lo que realmente quiero..."
         },
         {
             "id": 103,
             "model": "단테2",
-            "content": "<…!>"
+            "content": "<¡…!>"
         },
         {
             "id": 104,
-            "content": "I see another vision of Ishmael."
+            "content": "Por un momento, tuve otra visión de Ishmael."
         },
         {
             "id": 105,
-            "content": "She was hiding it well from the other Sinners and Vergilius. But I could clearly see what she really wanted. Her true desire."
+            "content": "Lo disimulaba muy bien entre los demás Pecadores y el mismo Vergilius. Pero podía ver claramente lo que ella quería. Su verdadero anhelo."
         },
         {
             "id": 106,
             "model": "단테2",
-            "content": "<Ishmael, you...!>"
+            "content": "<¡Ishmael, tú...!>"
         },
         {
             "id": 107,
-            "content": "She was lifting a body from the waters."
+            "content": "Ishmael estaba recogiendo pedazos de un cadáver ahogado en las aguas."
         },
         {
             "id": 108,
-            "content": "A body that was torn asunder. Shattered bones, strips of muscle tissue, flesh... Ishmael trembled with elation before what looked like the Captain's mutilated corpse."
+            "content": "Ishmael temblaba de satisfacción ante los huesos, músculos y la carne destrozada que resemblaban el inconsciente cadáver mutilado de su Capitán."
         },
         {
             "id": 109,
             "model": "이스마엘",
-            "content": "What?"
+            "content": "¿Qué?"
         },
         {
             "id": 110,
             "model": "이스마엘",
-            "content": "Come on, let's get going."
+            "content": "Vamos, rápido."
         }
     ]
 }

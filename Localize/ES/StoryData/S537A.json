@@ -2,42 +2,42 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Mephistopheles' Skiff",
+            "place": "Esquife de Mefistófeles",
             "model": "히스클리프",
-            "content": "Right... I get it. I get it now. All of these 'rocks' were actually Whales. And I get that Mermaids pop out of those pores."
+            "content": "Ya... lo entiendo. Ya lo entiendo. Todas estas 'rocas' en realidad eran Ballenas. Y entiendo que las Sirenas salen de esos poros."
         },
         {
             "id": 1,
             "model": "히스클리프",
-            "content": "But I think it's a loony thing that... Why are we even drawing their ire, huh? We could've just gone around them!"
+            "content": "Pero me parece una cosa de locos que... ¿Para qué las estamos provocando, eh? ¡Tranquilamente las pudimos haber rodeado!"
         },
         {
             "id": 2,
             "model": "히스클리프",
-            "content": "Looking to let off some steam? Hankerin' for a game of whack-a-mole all of a sudden? Is that it?"
+            "content": "¿Necesitabas descargarte con algo? ¿Andabas con ganas de jugar a pegarle al topo? ¿Es por eso?"
         },
         {
             "id": 3,
             "model": "이스마엘",
-            "content": "Of course not."
+            "content": "Claro que no."
         },
         {
             "id": 4,
             "model": "이스마엘",
-            "content": "This is just the only method I know."
+            "content": "Este es el único método que conozco."
         },
         {
             "id": 5,
             "model": "히스클리프",
-            "content": "... You better be ready to explain what you're talking about."
+            "content": "... Será mejor que estés lista para explicar a qué te referís."
         },
         {
             "id": 6,
-            "content": "Heathcliff, furious... wasn't the only Sinner looking at Ishmael with expectant eyes."
+            "content": "Heathcliff, furioso... no era el único Pecador mirando a Ishmael con ojos expectantes."
         },
         {
             "id": 7,
-            "content": "There were Outis and the other Sinners who all looked to her for some answers."
+            "content": "Varios Pecadores, Outis incluida, miraban a Ishmael esperando su respuesta."
         },
         {
             "id": 8,
@@ -46,77 +46,77 @@
         },
         {
             "id": 9,
-            "content": "And I was too, of course."
+            "content": "Y yo también esperaba."
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "Haah... I also didn't think I'd actually be doing this..."
+            "content": "Haah... Yo tampoco pensaba que tendría que hacer esto..."
         },
         {
             "id": 11,
             "model": "이스마엘",
-            "content": "Well... so there's this legend-like tale."
+            "content": "Bueno... existe una historia que se cuenta como leyenda."
         },
         {
             "id": 12,
             "model": "싱클레어",
-            "content": "Legend...?"
+            "content": "¿Leyenda...?"
         },
         {
             "id": 13,
             "model": "이스마엘",
-            "content": "Each Lake of the Great Lake has its own culture, with many wandering and choosing to call those places their homes. So, naturally, there are as many tales as there are Lakes."
+            "content": "Cada Lago del Gran Lago tiene su propia cultura, con tanta gente deambulando y eligiendo alguno de ellos como su hogar. Naturalmente, hay tantas historias como hay Lagos."
         },
         {
             "id": 14,
             "model": "이스마엘",
-            "content": "But there's that one tale of a certain Lake that is passed down orally from sailor to sailor. Just like the legends of old."
+            "content": "En el caso de los marineros, estas historias se cuentan oralmente y así se vuelven legendarias."
         },
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "The legend of the 'Gloomy Grey Lake of Wafting and Rumbling'. Sailors sang the legend of that Lake, passing it down for years upon years."
+            "content": "Este... 'Melancólico Lago Gris del Flotar y Retumbar'. Tiene su propia leyenda, cantada al son de una canción."
         },
         {
             "id": 16,
             "model": "이스마엘",
-            "content": "Doom, and hew thy veiled path to misty seas."
+            "content": "'Golpea para abrir el espacio escondido en la niebla del mar'."
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "Begloom, and let Whales draw their pearls in search of pallid hue."
+            "content": "'Haz llorar a las ballenas, para hacer salir a las perlas que reposan en ese pálido color.'"
         },
         {
             "id": 18,
             "model": "이스마엘",
-            "content": "Toom, shall be thy mist-path, heeding the weeping Whales."
+            "content": "'Revelarás así el camino, al incitar el llanto de las ballenas.'"
         },
         {
             "id": 19,
             "model": "돈키호테",
-            "content": "... Whatever does that mean?"
+            "content": "... ¿Qué quiere decir eso?"
         },
         {
             "id": 20,
             "model": "이스마엘",
-            "content": "It's simple. Hit the Porous Whales to wake them, draw out and hunt their Mermaids, and the path to the Pallid Whale should clear of the mist."
+            "content": "Es simple. Golpear a las Ballenas Porosas para despertarlas, hacer salir a las Sirenas para cazarlas, se disipará la neblina y se nos mostrará el camino hacia la Ballena Pálida."
         },
         {
             "id": 21,
             "model": "히스클리프",
-            "content": "Do you really believe that? You expect us to just... believe that hogwash?"
+            "content": "¿De verdad crees en esa boludez? ¿Y esperás que nosotros también?"
         },
         {
             "id": 22,
             "model": "히스클리프",
-            "content": "Blimey, didn't think I'd ever get to say these words before my deathbed, but..."
+            "content": "Mierda, no creí que tendría que decir esto antes de morirme, pero..."
         },
         {
             "id": 23,
             "model": "히스클리프",
-            "content": "Are you stupid?"
+            "content": "¿Sos estúpida?"
         },
         {
             "id": 24,
@@ -126,52 +126,52 @@
         {
             "id": 25,
             "model": "히스클리프",
-            "content": "Haah... Listen. What does waking these Whales up have anything to do with getting rid of that thick fog? It's got to make even a little bit of sense, no?"
+            "content": "Haah... Escucháme, che. ¿Qué carajo tiene que ver hacer llorar a una ballena con quitar esta neblina? ¿No debería de tener al menos un poquito de sentido?"
         },
         {
             "id": 26,
             "model": "파우스트",
-            "content": "Heathcliff discusses the correlation between actions and consequences. This truly is a rare experience indeed."
+            "content": "Heathcliff cuestionando la relación entre acciones y consecuencias. Esta verdaderamente es una experiencia poco común."
         },
         {
             "id": 27,
             "model": "히스클리프",
-            "content": "Shut up, smartarse... I'm serious."
+            "content": "Calláte la boca, cerebrito... Que hablo en serio."
         },
         {
             "id": 28,
             "model": "이스마엘",
-            "content": "... And you think the law that sends Waves after us if we don't cross the borders at the exact right moment makes sense?"
+            "content": "... ¿Y tú piensas que la ley que envía Olas tras nosotros si no cruzamos los límites de una zona en el momento exacto tiene sentido?"
         },
         {
             "id": 29,
             "model": "히스클리프",
-            "content": "Huh?"
+            "content": "¿Eh?"
         },
         {
             "id": 30,
             "model": "이스마엘",
-            "content": "You think the law that makes us go in circles before reaching our destination, the law that doesn't let us go back the way we came from, makes any sense?"
+            "content": "¿Piensas que la ley que nos hace ir en círculos antes de alcanzar nuestro destino, la ley que no nos deja volver por donde venimos, tiene algún tipo de sentido?"
         },
         {
             "id": 31,
             "model": "이스마엘",
-            "content": "I've been telling you this whole time. Common sense has no place in the Great Lake."
+            "content": "Te lo he estado diciendo desde el inicio. El sentido común no tiene lugar en el Gran Lago."
         },
         {
             "id": 32,
             "model": "이스마엘",
-            "content": "That's just the way this place works, okay? Just... You just have to accept that."
+            "content": "Así es como funciona este lugar. Es así de simple."
         },
         {
             "id": 33,
             "model": "히스클리프",
-            "content": "... Fine. I'll give you that. But they're like the laws of the City. As outlandish as they are, they're still strict laws that can be calculated into those variable coordinates or whatnot. What you're blathering here is some vague old song. Am I supposed to believe something so absurd?"
+            "content": "... Está bien, en eso tenés razón. Pero deberían funcionar como las leyes de la ciudad, Por más raras que sean, pueden ser calculadas con coordenadas variables o boludeces así. Vos solo me estás hablando de una canción inentendible. ¿Se supone que tengo que creer en algo tan absurdo?"
         },
         {
             "id": 34,
             "model": "이스마엘",
-            "content": "Yes. Because I've seen it myself."
+            "content": "Sí. Porque ya lo he visto por mi misma."
         },
         {
             "id": 35,
@@ -181,31 +181,31 @@
         {
             "id": 36,
             "model": "이스마엘",
-            "content": "Years ago, when a young, stupid, but motivated sailor boarded the ship, she had the most unfortunate opportunity of witnessing this very legend with her own eyes."
+            "content": "Hace varios años, cuando una joven, estúpida, pero motivada marinera abordó el barco, tuvo la desafortunada oportunidad de presenciar esta misma leyenda con sus propios ojos."
         },
         {
             "id": 37,
             "model": "이스마엘",
-            "content": "Because that's how she saw the Pallid Whale."
+            "content": "¡Así mismo es como encontramos a la Ballena Pálida!"
         },
         {
             "id": 38,
-            "content": "Heathcliff fell silent, scratching his head. The rest of the Sinners also nodded and began whispering."
+            "content": "Heathcliff se mantuvo en silencio, rascándose la cabeza. El resto de los Pecadores asintieron con la cabeza y empezaron a susurrar."
         },
         {
             "id": 39,
             "model": "히스클리프",
-            "content": "... I really don't like you."
+            "content": "... No me agradás en absoluto."
         },
         {
             "id": 40,
             "model": "이스마엘",
-            "content": "Took the words right out of my mouth."
+            "content": "El sentimiento es mutuo."
         },
         {
             "id": 41,
             "model": "히스클리프",
-            "content": "I don't like... any of this. But I know that you're not the kind of lass to lie or tell tall tales just to get the upper hand in a petty squabble."
+            "content": "No me gusta... nada de esto. Pero sé que no sos el tipo de mina que miente o inventa historias solo para ganar una discusión."
         },
         {
             "id": 42,
@@ -215,51 +215,51 @@
         {
             "id": 43,
             "model": "히스클리프",
-            "content": "Fine, let's go all the way to the end. I'll keep whacking those mole-like things with this club."
+            "content": "Bueno, sigamos esto hasta el final. Igual, partirle la cabeza con mi bate a esos giles parecidos a topos hace que esto sea bastante entretenido."
         },
         {
             "id": 44,
             "model": "오티스",
-            "content": "I can also accept your explanation. But... from now on, I would appreciate it if you could share your knowledge with us first before doing anything."
+            "content": "Yo también puedo aceptar tu explicación. Pero... de ahora en adelante apreciaría si compartes la información relevante antes de actuar."
         },
         {
             "id": 45,
             "model": "이스마엘",
-            "content": "... I'll try."
+            "content": "... Lo intentaré."
         },
         {
             "id": 46,
             "model": "파우스트",
-            "content": "In a way, I am relieved that we now have a definite path forward."
+            "content": "En cierto modo, me alivia que ahora tengamos un camino bien definido."
         },
         {
             "id": 47,
             "model": "단테2",
-            "content": "<... Yeah. Well, let's go find our next Whale.>"
+            "content": "<... Sí. Bueno, vayamos a encontrar a nuestra próxima Ballena.>"
         },
         {
             "id": 48,
             "model": "오티스",
-            "content": "Yes, Executive Manager."
+            "content": "Como usted diga."
         },
         {
             "id": 49,
             "model": "오티스",
-            "content": "All aboard, men!"
+            "content": "¡Todos a bordo!"
         },
         {
             "id": 50,
             "model": "이상",
-            "content": "... Truly, the ocean mist is splitting as though a blade has hewn it in half."
+            "content": "... Ciertamente, la neblina oceánica se disipa como si una hoja afilada la hubiera dividido en dos."
         },
         {
             "id": 51,
-            "content": "Once we eliminated the Mermaids of the last Whale singled out by Ishmael, the fog slowly began to fade. Behind it was a different Lake, beyond the grey sea."
+            "content": "Al eliminar a las Sirenas restantes que Ishmael había dicho que serían las últimas, la niebla comenzó a desaparecer lentamente, y un lago diferente al otro lado del mar grisáceo empezó a hacerse visible."
         },
         {
             "id": 52,
             "model": "이스마엘",
-            "content": "Haah... Finally."
+            "content": "Haah... Finalmente."
         }
     ]
 }

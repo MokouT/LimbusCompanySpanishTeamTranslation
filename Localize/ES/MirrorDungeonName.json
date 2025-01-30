@@ -46,15 +46,19 @@
     },
     {
       "id": "mirrordungeon_name_5",
-      "content": "Espejo de lo Soñador"
+      "content": "Espejo del Ensueño"
     },
     {
       "id": "mirrordungeon_name_5_0",
-      "content": "Espejo de lo Soñador [NORMAL]"
+      "content": "Espejo del Ensueño [NORMAL]"
     },
     {
       "id": "mirrordungeon_name_5_1",
-      "content": "Espejo de lo Soñador [DIFÍCIL]"
+      "content": "Espejo del Ensueño [DIFÍCIL]"
+    },
+    {
+      "id": 1115,
+      "name": "Chequeo Médico de LCB"
     }
   ]
 }
