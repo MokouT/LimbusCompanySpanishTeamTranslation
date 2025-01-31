@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Plunge In",
+          "name": "Puñalada",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Combustion] y +2 Contador de [Combustion]"
                 }
               ]
             }
@@ -24,13 +24,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tail Whisk",
-          "desc": "[WinDuel] If target has [Combustion], Base Power +2",
+          "name": "Coletazo",
+          "desc": "[WinDuel] Si el objetivo tiene [Combustion], Poder Base +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Combustion] y +2 Contador de [Combustion]"
                 }
               ]
             }
@@ -43,26 +43,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blow in Breath",
-          "desc": "[WhenUse] If target has 5+ [Combustion], Coin Power +1",
+          "name": "Exhalar Aliento",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Combustion], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [CrimsonTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [CrimsonTakeDamageUp] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [CrimsonTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [CrimsonTakeDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -75,13 +75,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "[WhenUse] If target has 5+ [Combustion], Coin Power +2",
+          "name": "Contrataque",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Combustion], Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackDmgUp] el siguiente turno"
                 }
               ]
             }
@@ -94,20 +94,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leap In",
+          "name": "Saltar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] y +2 Contador de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] y +2 Contador de [Sinking]"
                 }
               ]
             }
@@ -120,13 +120,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Snap At",
-          "desc": "[WhenUse] If target has [Sinking], Base Power +2",
+          "name": "Salpicar",
+          "desc": "[WhenUse] Si el objetivo tiene [Sinking], Poder Base +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking] and +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking] y +3 Contador de [Sinking]"
                 }
               ]
             }
@@ -139,16 +139,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Water Bomb",
-          "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1",
+          "name": "Bomba de Agua",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [AzureTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [AzureTakeDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -161,8 +161,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
-          "desc": "[OnSucceedEvade] Inflict 2 [Sinking]",
+          "name": "Evadir",
+          "desc": "[OnSucceedEvade] Inflige 2 de [Sinking]",
           "coinlist": [
             {
               "coindescs": [
@@ -180,20 +180,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
-          "desc": "[WhenUse] Gain 2 [Breath]",
+          "name": "Desenvainar la Espada",
+          "desc": "[WhenUse] Gana 2 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
                 }
               ]
             }
@@ -206,36 +206,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paralyzer",
-          "desc": "[WhenUse] Gain 2 [Breath]",
+          "name": "Paralizador",
+          "desc": "[WhenUse] Gana 2 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackDmgUp] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
                 }
               ]
             }
@@ -248,26 +248,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slay",
-          "desc": "[WinDuel] Gain +1 [Breath] Count",
+          "name": "Asesinar",
+          "desc": "[WinDuel] Gana +1 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 Contador de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 de [SlashDamageUp] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [SlashResistDown] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [SlashResistDown] el siguiente turno"
                 }
               ]
             }
@@ -280,39 +280,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overthrow",
-          "desc": "[WinDuel] Gain +3 [Breath] Count",
+          "name": "Derrocar",
+          "desc": "[WinDuel] Gana +3 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath] y +1 Contador de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [SlashDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 de [SlashDamageUp] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [SlashResistDown]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [SlashResistDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 Contador de [Laceration]"
                 }
               ]
             }
@@ -325,30 +325,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[StartBattle] Gain 50 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5",
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "[StartBattle] Gana 50 de Escudo\n[WhenUse] Si el Escudo no fue gastado por completo, Poder de Choque +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [SlashResistDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "+100% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Laceration] y +2 Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                  "desc": "[OnSucceedAttack] Si el Escudo no fue gastado por completo, divide el valor de [Grudge] por el Alcance de Atq e inflige el valor resultante como daño fijo."
                 }
               ]
             }
@@ -361,8 +361,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
-          "desc": "[OnSucceedEvade] Gain 4 [Breath]",
+          "name": "Evadir",
+          "desc": "[OnSucceedEvade] Gana 4 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -380,8 +380,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Yield My Flesh",
-          "desc": "Gain X [Grudge] next turn (X = Damage dealt by the Skill that activated the Counter Skill)",
+          "name": "Ceder Mi Carne",
+          "desc": "Gana X de [Grudge] el siguiente turno (X = Daño infligido por la Habilidad que activó la Habilidad de Contrataque)",
           "coinlist": [
             {
               "coindescs": [
@@ -399,33 +399,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[StartBattle] Gain 200 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10",
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "[StartBattle] Gana 200 de Escudo\n[WhenUse] Gana +3 Contador de [Breath]\n[WhenUse] Si el Escudo no fue gastado por completo, Poder de Choque +10",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [SlashResistDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "+100% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Paralysis] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Laceration] y +2 Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                  "desc": "[OnSucceedAttack] Si el Escudo no fue gastado por completo, divide el valor de [Grudge] por el Alcance de Atq e inflige el valor resultante como daño fijo."
                 }
               ]
             }
@@ -438,8 +438,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blade Dance",
-          "desc": "[EnemyKill] Gain 3 [AttackUp] and 3 [DefenseUp] next turn",
+          "name": "Danza de Espadas",
+          "desc": "[EnemyKill] Gana 3 de [AttackUp] y 3 de [DefenseUp] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -457,15 +457,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value",
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "[CantChangeTarget]\nPrioriza la unidad con el menor HP\n[EnemyKill] Douplica el valor de [Grudge].\n[EnemyKill] Cura HP igual al valor de [Grudge]",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to [Grudge] value."
+                  "desc": "[OnSucceedAttack] Inflige daño fijo igual al valor de [Grudge]."
                 }
               ]
             }

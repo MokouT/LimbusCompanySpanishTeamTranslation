@@ -2,253 +2,253 @@
   "dataList": [
     {
       "id": 810001,
-      "name": "The All-Illuminating Light",
-      "desc": "If every Candle is snuffed and at full HP, gain resistance until all Candles are lit again.\nWhen all Candles are lit, lose resistance."
+      "name": "La Luz Que Todo lo Ilumina",
+      "desc": "Si todas las Velas están apagadas y están a máxima HP, gana resistencias hasta que todas las Velas estén encendidas otra vez.\nCuando todas las Velas estén encendidas, pierde las resistencias."
     },
     {
       "id": 810002,
-      "name": "Darkness Deterred",
-      "desc": "Light all Candles every 4 turns after a Candle is snuffed. All Candles' HP is reduced to 1."
+      "name": "Oscuridad Inhibida",
+      "desc": "Enciende todas las Velas cada 4 turnos después de que una Vela sea apagada. La HP de todas las Velas es reducida a 1."
     },
     {
       "id": 810701,
-      "name": "Burning Embers",
-      "desc": "HP does not drop below 1.\nAt 1 HP, light the Candles and uses an Attack Skill."
+      "name": "Ascuas Ardientes",
+      "desc": "La HP no cae por debajo de 1.\nA 1 de HP, enciende las Velas y usa una Habilidad de Ataque."
     },
     {
       "id": 810702,
-      "name": "Sinking Darkness",
-      "desc": "When all Candles are lit, use a Defensive Skill.\nSnuff out the Candles next turn when out of Shield."
+      "name": "Oscuridad Ahogante",
+      "desc": "Cuando todas las Velas estén encendidas, usa una Habilidad Defensiva.\nApaga todas las Velas el siguiente turno al quedarse sin Escudo."
     },
     {
       "id": 810101,
-      "name": "Exposed Pearl",
-      "desc": "Turn Start: If at 0 Green Slime, become Staggered. Pearl loses all Affinity Resistances by 0.5.\nGain 10 Green Slime when recovering from Stagger."
+      "name": "Perla Expuesta",
+      "desc": "Inicio del turno: Si a 0 de Baba Verde, queda Aturdido. La Perla pierde 0.5 de Resistencia a todas las Afinidades.\nGana 10 de Baba Verde al recuperarse de Aturdimiento."
     },
     {
       "id": 810102,
-      "name": "Cracked Shell",
-      "desc": "At 10% Core HP, gains a new pattern."
+      "name": "Concha Rota",
+      "desc": "a 10% HP del Núcleo, gana un nuevo patrón."
     },
     {
       "id": 810103,
-      "name": "Solid Shell",
-      "desc": "The Shell Part retains its resistances even during Staggered state."
+      "name": "Concha Solida",
+      "desc": "La Concha retiene sus resistencias incluso durante el estado de Aturdido."
     },
     {
       "id": 810104,
-      "name": "Gathering Slime",
-      "desc": "Fix this Part's speed to 1 for a turn when using Devouring Fluid."
+      "name": "Acumulación de Baba",
+      "desc": "Fija la Velocidad de esta Parte a 1 por el turno al usar Fluido Cáustico."
     },
     {
       "id": 810901,
-      "name": "Green Slime",
-      "desc": "Apply 3 Green Slime to Perla Deambulante when defeated by Perla Deambulante."
+      "name": "Baba Verde",
+      "desc": "Aplica 3 de Baba Verde a la Perla Deambulante al ser derrotado por Perla Deambulante."
     },
     {
       "id": 810902,
-      "name": "Contaminating Slime",
-      "desc": "Turn End: Apply (2 + Surviving Green Slime) Veneno to all enemies."
+      "name": "Baba Contaminante",
+      "desc": "Fin del Turno: Aplica (2 + Baba Verde sobrevivientes) Veneno a todos los enemigos."
     },
     {
       "id": 810201,
-      "name": "Expanding Oxygen",
-      "desc": "When the Fluorescence Part is broken, inflict [AaCePcBb] on all enemies.\nFluorescence Part regenerates after 2 turns."
+      "name": "Expansión de Oxígeno",
+      "desc": "Cuando la Parte Fluorescencia es rota, inflige [AaCePcBb] a todos los enemigos.\nLa Parte de la Fluorescencia se regenera luego de 2 turnos."
     },
     {
       "id": 810202,
-      "name": "Underwater Breathing",
-      "desc": "Starting from turn 2, gain 8 Poise this turn if the Fluorescence Part isn't broken.\nGain +3 Poise Count. Starting from turn 2, gain 2 Paralyze and 2 Damage Down this turn if the Fluorescence Part is broken."
+      "name": "Respiración Bajo el Agua",
+      "desc": "Iniciando desde el turno 2, gana 8 de Temple este turno si la Parte Fluorescencia no  está rota.\nGana +3 Contador de Temple. Iniciando desde el turno 2, gana 2 de Parálisis y 2 de Daño Reducido este turno si la Parte Fluorescencia está rota."
     },
     {
       "id": 810203,
-      "name": "Siltcurrent",
-      "desc": "Starting from turn 2, all Identities without [AaCePcBb] are inflicted with 1 Bind and 1 Paralyze; Identities without [AaCePcBb] lose 3 SP."
+      "name": "Torrente Silencioso",
+      "desc": "Iniciando desde el turno 2, a todas las Identidades sin [AaCePcBb] son infligidas con 1 de Atadura y 1 de Parálisis; Identidades sin [AaCePcBb] pierden 3 PC."
     },
     {
       "id": 810801,
-      "name": "Harden",
-      "desc": "Can be damaged only with damages equal to or higher than 12.\nAll damage under 12 is nullified."
+      "name": "Endurecerse",
+      "desc": "Solo puede ser dañado con ataques que infligen daño equivalente a 12 o más.\nTodo daño por debajo de 12 es anulado."
     },
     {
       "id": 810802,
-      "name": "Rolling Flotsam",
-      "desc": "After the Dream-devouring Siltcurrent uses Blind Obsession, and if this unit is not destroyed at Turn End, deal 20 damage to a random Identity."
+      "name": "Pecios a la Deriva",
+      "desc": "Tras que el Silencioso Torrente Devora Sueños use Obsesión Ciega, y si esta unidad no es destruida al Fin del Turno, inflige 20 de daño a una Identidad aleatoria."
     },
     {
       "id": 810803,
-      "name": "Destroyed Flotsam",
-      "desc": "HP does not drop below 1 upon defeat.\nTurns into a Destroyed Flotsam."
+      "name": "Pecio Destruido",
+      "desc": "la HP no cae por debajo de 1 al ser derrotado.\nSe convierte en un Pecio Destruido."
     },
     {
       "id": 810301,
-      "name": "Captain's Orders",
-      "desc": "Turn Start: If not at -45 SP, heal (# of surviving other allies x 5) SP.\nTurn Start: If at -45 SP, recover from panic at Turn End and reset SP to 0."
+      "name": "Órdenes de la Capitán",
+      "desc": "Inicio de Turno: Si no a -45 PC, curar (# de Aliados sobrevivientes x 5) PC.\nInicio de Turno: Si a -45 PC, recuperarse del Pánico al Finalizar Turno y reestablecer PC a 0."
     },
     {
       "id": 810302,
-      "name": "Mutilated Tattoos",
-      "desc": "Every time a Pequod Town faction ally is defeated, lose 1 Poise Count and 10 SP."
+      "name": "Tatuajes Mutilados",
+      "desc": "EvCada vez que un Aliado de la facción del Pueblo Pequod sea derrotado, pierde 1 Contador de Temple y 10 PC."
     },
     {
       "id": 810303,
-      "name": "The Indomitable Harpooneer",
-      "desc": "The lower this unit's HP gets, the more damage this unit's Skills deal."
+      "name": "La Arponera Indomable",
+      "desc": "Mientras más baje el HP de esta unidad, más daño harán sus Habilidades."
     },
     {
       "id": 810304,
-      "name": "Injected Hatred and Animosity",
-      "desc": "Turn End: If 50%- of max HP, move on to Phase 2.\nThis unit's HP does not drop below 1 before Phase 2 start.\nPhase 2 Start: Heal HP to 50% of max HP and summon 4 allies. Inflict [AaCePcBj] against 1 enemy with the lowest HP percentage at the start of every turn."
+      "name": "Odio y Hostilidad Inyectados",
+      "desc": "Fin del Turno: si a -50% HP Máx, continua a la Fase 2.\nEl HP de esta unidad no cae por debajo de 1 antes de que inicie la Fase 2.\nInicio de la Fase 2: Cura HP a 50% de la HP Máx e invoca 4 aliados. Inflige [AaCePcBj] contra 1 enemigo con los HP menores al inicio de cada turno."
     },
     {
       "id": 810305,
-      "name": "Engraved Hatred and Animosity",
-      "desc": "At 1 HP, heal up to 50% of max HP and gain 2 Attack Power Up next turn. (Once per encounter)"
+      "name": "Odio y Hostilidad Grabados",
+      "desc": "A 1 HP, cura hasta 50% de la HP Máx y gana 2 Poder de Ataque Aumentado el siguiente turno. (Una vez por encuentro)"
     },
     {
       "id": 810306,
-      "name": "Clouded Mind",
-      "desc": "Resets SP to 0 when Staggered."
+      "name": "Mente Nublada",
+      "desc": "Al quedar Aturdido y tener PC menores a 0 al Fin del Turno, restablece los PC a 0."
     },
     {
       "id": 810401,
-      "name": "Engraved Hatred and Animosity",
-      "desc": "Turn End: At 50- HP, gain 2 Haste and 2 Attack Power Up next turn. (once per encounter)"
+      "name": "Odio y Hostilidad Grabados",
+      "desc": "Fin del Turno: A -50% HP, gana 2 de Rapidez y 2 Poder de Ataque Aumentado. (una vez por encuentro)"
     },
     {
       "id": 810402,
-      "name": "Puncturing Harpoon",
-      "desc": "On Critical Hit, Inflige 1 additional negative effect with Skill effects."
+      "name": "Arpón Punzante",
+      "desc": "Tras Golpe Crítico, inflige 1 efecto negativo adicional con efectos de Habilidad."
     },
     {
       "id": 810501,
-      "name": "Captain of the Pequod",
-      "desc": "Turn Start: If not at -45 SP, heal 15 SP.\nTurn End: If panicked, recover from panic. Reset SP to 0."
+      "name": "Capitán del Pequod",
+      "desc": "Inicio del Turno: Si no a -45 PC, cura 15 PC.\nFin del Turno: Si en Pánico, se recupera del pánico. Restablece los PC a 0."
     },
     {
       "id": 810503,
-      "name": "Muddled Orders",
-      "desc": "When this unit is Staggered, reset all other allies' SP to 0."
+      "name": "Órdenes Enredadas",
+      "desc": "Cuando esta unidad queda Aturdida, y cuando todos los otros aliados están por debajo de 0 PC al Fin del Turno, restablece sus PC a 0."
     },
     {
       "id": 810504,
-      "name": "Coldhearted Decision",
-      "desc": "Phase 2 Start: Fully heal HP; Queequeg and Starbuck no longer activate Captain's Orders Passive"
+      "name": "Decisión Despiadada",
+      "desc": "Inicio de Fase 2: Cura HP por completo; Queequeg y Starbuck ya no activan la pasiva Órdenes de la Capitán. También, Queequeg ya no puede quedar Aturdida incluso cuando el Escudo de su Defensa Asistida llega a 0."
     },
     {
       "id": 810601,
       "name": "Ahab",
-      "desc": "Turn Start: If not at -45 SP, heal 15 SP.\nTurn End: If panicked, recover from panic. Reset SP to 0 and gain 2 Attack Power Up and 2 Poder Defensivo Aumentado."
+      "desc": "Inicio del turno: Si no a -45 PC, cura 15 PC.\nFin del Turno: Si en Pánico, se recupera del pánico. Restablece PC a 0 y gana 2 Poder de Ataque Aumentado y 2 de Poder Defensivo Aumentado."
     },
     {
       "id": 810602,
-      "name": "Pip's Sin and Innocence",
-      "desc": "Phase Start: Gain 20 Pip's Ego.\nTurn End: Heal 3 SP for every Pip's Ego.\nTurn End: If [AaCePcBo] is at 0, get Staggered next turn."
+      "name": "La Inocencia y Pecado de Pip",
+      "desc": "Inicio de Fase: Gana 20 Ego de Pip.\nFin del Turno: Cura 3 PC por cada Ego de Pip.\nFin del Turno: Si [AaCePcBo] está a 0, queda Aturdido el siguiente turno."
     },
     {
       "id": 810603,
-      "name": "Starbuck's Fears",
-      "desc": "Phase Start: Gain 20 Starbuck's Ego.\nLose 1 [AaCePcBp] for every Coin destroyed in Clash against targets with [AaCePcBj].\nTurn Start: Gain 1 Protection for every 5 Starbuck's Ego.\nTurn End: If [AaCePcBp] is at 0, get Staggered next turn."
+      "name": "Los Miedos de Starbuck",
+      "desc": "Inicio de Fase: Gana 20 Ego de Starbuck.\nPierde 1 [AaCePcBp] por cada Moneda destruida en un Choque contra objetivos con [AaCePcBj].\nInicio del turno: Gana 1 de Protección por cada 5 Ego de Starbuck.\nFin del Turno: Si [AaCePcBp] está a 0, queda Aturdido el siguiente turno."
     },
     {
       "id": 810604,
-      "name": "Puncturing Harpoon",
-      "desc": "During this Phase, on Critical Hit, Inflige 1 additional negative effect with Skill effects."
+      "name": "Arpón Punzante",
+      "desc": "Por la duración de esta Fase, tras Golpe Crítico, inflige 1 efecto negativo adicional con efectos de Habilidad."
     },
     {
       "id": 810605,
-      "name": "Queequeg's Atonement",
-      "desc": "Phase Start: Gain 30 Queequeg's Ego.\nTurn End: If this unit still has remaining Shield, regain 5 Queequeg's Ego. If this unit does not have remaining Shield, lose 10 [AaCePcBq].\nTurn End: If [AaCePcBq] is at 0, get Staggered next turn."
+      "name": "La Penitencia de Queequeg",
+      "desc": "Inicio de Fase: Gana 30 Ego de Queequeg.\nFin del Turno: Si esta unidad tiene Escudo restante, gana 5 Ego de Queequeg. Si la unidad no tiene Escudo restante, pierde 10 [AaCePcBq].\nFin del Turno: Si [AaCePcBq] está a 0, queda Aturdido el siguiente turno."
     },
     {
       "id": 810606,
-      "name": "The Indomitable Harpooneer",
-      "desc": "The lower this unit's HP gets, the more damage this unit deals with its Skills.\nDeal 1% more HP for every 0.75% missing HP on self\n(Max 100%. Maxes out when this unit is at 25% HP)"
+      "name": "La Arponera Indomable",
+      "desc": "Mientras más baje el HP de esta unidad, inflige daño adicional con sus Habilidades.\nInflige 1% más de daño por cada 0.75% HP faltante en sí\n(Máx 100%. Máximo Valor cuando esta unidad está a 25% de HP)"
     },
     {
       "id": 810607,
-      "name": "Price of Nobility",
-      "desc": "Gain 'Offense Level' and 'Defense Level' every time this unit gains other characters' Ego\nLose SP when losing certain Skill Clashes"
+      "name": "El Precio de la Nobleza",
+      "desc": "Gana 'Nivel Ofensivo' y 'Nivel Defensivo' cada vez que esta unidad gana Ego de otros personajes\nPierde PC al perder ciertos Choques"
     },
     {
       "id": 814101,
-      "name": "The All-Illuminating Light",
-      "desc": "If every Candle is snuffed and at full HP, gain resistance until all Candles are lit again.\nWhen all Candles are lit, lose resistance."
+      "name": "La Luz Que Todo lo Ilumina",
+      "desc": "Si todas las Velas están apagadas y a máxima HP, gana resistencias hasta que todas las Velas sean encendidas otra vez.\nCuando todas las Velas son encendidas, pierde resistencias."
     },
     {
       "id": 814102,
-      "name": "Darkness Deterred",
-      "desc": "Light all Candles every 4 turns after a Candle is snuffed. All Candles' HP is reduced to 1."
+      "name": "Oscuridad Inhibida",
+      "desc": "Enciende todas las Velas cada 4 turnos después de que una Vela sea apagada. El HP de todas las Velas es reducido a 1."
     },
     {
       "id": 813601,
-      "name": "Burning Embers",
-      "desc": "HP does not drop below 1.\nAt 1 HP, light the Candles and uses an Attack Skill."
+      "name": "Ascuas Ardientes",
+      "desc": "La HP no cae por debajo de 1.\nA 1 de HP, enciende las Velas y usa una Habilidad de Ataque."
     },
     {
       "id": 813602,
-      "name": "Sinking Darkness",
-      "desc": "When all Candles are lit, use a Defensive Skill.\nSnuff out the Candles next turn when out of Shield."
+      "name": "Oscuridad Ahogante",
+      "desc": "Cuando todas las Velas estén encendidas, usa una Habilidad Defensiva.\nApaga todas las Velas el siguiente turno al quedarse sin Escudo."
     },
     {
       "id": 813701,
-      "name": "Exposed Pearl",
-      "desc": "Turn Start: If at 0 Green Slime, become Staggered. Pearl loses all Affinity Resistances by 0.5.\nGain 10 Green Slime when recovering from Stagger."
+      "name": "Perla Expuesta",
+      "desc": "Inicio del turno: Si a 0 de Baba Verde, queda Aturdido. La Perla pierde 0.5 de Resistencia a todas las Afinidades.\nGana 10 de Baba Verde al recuperarse de Aturdimiento."
     },
     {
       "id": 813702,
-      "name": "Cracked Shell",
-      "desc": "At 10% Core HP, gains a new pattern."
+      "name": "Concha Rota",
+      "desc": "a 10% HP del Núcleo, gana un nuevo patrón."
     },
     {
       "id": 813703,
-      "name": "Solid Shell",
-      "desc": "The Shell Part retains its resistances even during Staggered state."
+      "name": "Concha Solida",
+      "desc": "La Concha retiene sus resistencias incluso durante el estado de Aturdido."
     },
     {
       "id": 813704,
-      "name": "Gathering Slime",
-      "desc": "Fix this Part's speed to 1 for a turn when using Devouring Fluid."
+      "name": "Acumulación de Baba ",
+      "desc": "Fija la Velocidad de esta Parte a 1 por el turno al usar Fluido Cáustico."
     },
     {
       "id": 813801,
-      "name": "Green Slime",
-      "desc": "Apply 3 Green Slime to Perla Deambulante when defeated by Perla Deambulante."
+      "name": "Baba Verde",
+      "desc": "Aplica 3 de Baba Verde a la Perla Deambulante al ser derrotado por Perla Deambulante."
     },
     {
       "id": 813802,
-      "name": "Contaminating Slime",
-      "desc": "Turn End: Apply (2 + Surviving Green Slime) Veneno to all enemies."
+      "name": "Baba Contaminante",
+      "desc": "Fin del Turno: Aplica (2 + Baba Verde sobrevivientes) Veneno a todos los enemigos."
     },
     {
       "id": 813901,
-      "name": "Expanding Oxygen",
-      "desc": "When the Fluorescence Part is broken, inflict [AaCePcBb] on all enemies.\nFluorescence Part regenerates after 2 turns."
+      "name": "Expansión de Oxígeno",
+      "desc": "Cuando la Parte Fluorescencia es rota, inflige [AaCePcBb] a todos los enemigos.\nLa Parte de la Fluorescencia se regenera luego de 2 turnos."
     },
     {
       "id": 813902,
-      "name": "Underwater Breathing",
-      "desc": "Starting from turn 2, gain 8 Poise this turn if the Fluorescence Part isn't broken.\nGain +3 Poise Count. Starting from turn 2, gain 2 Paralyze and 2 Damage Down this turn if the Fluorescence Part is broken."
+      "name": "Respiración Bajo el Agua",
+      "desc": "Iniciando desde el turno 2, gana 8 de Temple este turno si la Parte Fluorescencia no  está rota.\nGana +3 Contador de Temple. Iniciando desde el turno 2, gana 2 de Parálisis y 2 de Daño Reducido este turno si la Parte Fluorescencia está rota."
     },
     {
       "id": 813903,
-      "name": "Siltcurrent",
-      "desc": "Starting from turn 2, all Identities without [AaCePcBb] are inflicted with 1 Bind and 1 Paralyze; Identities without [AaCePcBb] lose 3 SP."
+      "name": "Torrente Silencioso",
+      "desc": "Iniciando desde el turno 2, a todas las Identidades sin [AaCePcBb] son infligidas con 1 de Atadura y 1 de Parálisis; Identidades sin [AaCePcBb] pierden 3 PC."
     },
     {
       "id": 814001,
-      "name": "Harden",
-      "desc": "Can be damaged only with damages equal to or higher than 12.\nAll damage under 12 is nullified."
+      "name": "Endurecerse",
+      "desc": "Solo puede ser dañado con ataques que infligen daño equivalente a 12 o más.\nTodo daño por debajo de 12 es anulado."
     },
     {
       "id": 814002,
-      "name": "Rolling Flotsam",
-      "desc": "After the Dream-devouring Siltcurrent uses Blind Obsession, and if this unit is not destroyed at Turn End, deal 20 damage to a random Identity."
+      "name": "Pecios a la Deriva",
+      "desc": "Tras que el Silencioso Torrente Devora Sueños use Obsesión Ciega, y si esta unidad no es destruida al Fin del Turno, inflige 20 de daño a una Identidad aleatoria."
     },
     {
       "id": 814003,
-      "name": "Destroyed Flotsam",
-      "desc": "HP does not drop below 1 upon defeat.\nTurns into a Destroyed Flotsam."
+      "name": "Pecio Destruido",
+      "desc": "la HP no cae por debajo de 1 al ser derrotado.\nSe convierte en un Pecio Destruido."
     }
   ]
 }

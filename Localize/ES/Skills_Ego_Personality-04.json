@@ -738,13 +738,13 @@
           "level": 1,
           "name": "Toracalgia",
           "abName": "Saco de Dormir de Antaño",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 4)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 4)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain 1 [HoldingBreath] next turn (2 times per turn)",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) de [Breath] (máx 4)\n- Con 15+ de [Breath], gana Poder Final +(Reson. más alta) en su lugar (máx 4)\n[BeforeAttack] Gana (Reson. más alta / 2) Contador de [Breath] (máx 2)\n- Con 5+ Contador de [Breath], gana Poder de Moneda +(Reson. más alta / 2) en su lugar (máx 2)\n[TargetKill] Gana 1 de [HoldingBreath] el siguiente turno (2 veces por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] Gana 2 de [HoldingBreath] (una vez por turno)"
                 }
               ]
             }
@@ -754,16 +754,16 @@
           "level": 3,
           "name": "Toracalgia",
           "abName": "Saco de Dormir de Antaño",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max <style=\"highlight\">6</style>)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain <style=\"highlight\">2</style> [HoldingBreath] next turn (<style=\"highlight\">4</style> times per turn)",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) de [Breath] (máx <style=\"highlight\">6</style>)\n- Con 15+ de [Breath], gana Poder Final +(Reson. más alta) en su lugar (máx <style=\"highlight\">6</style>)\n[BeforeAttack] Gana (Reson. más alta / 2) Contador de [Breath] (máx 2)\n- Con 5+ Contador de [Breath], gana Poder de Moneda +(Reson. más alta / 2) en su lugar (máx 2)\n[TargetKill] Gana <style=\"highlight\">2</style> de [HoldingBreath] el siguiente turno (<style=\"highlight\">4</style> veces por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damage on Critical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 2 de [HoldingBreath] (una vez por turno)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -773,16 +773,16 @@
           "level": 4,
           "name": "Toracalgia",
           "abName": "Saco de Dormir de Antaño",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 6)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 6)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max <style=\"highlight\">3</style>)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max <style=\"highlight\">3</style>)\n[TargetKill] Gain 2 [HoldingBreath] next turn (<style=\"highlight\">6</style> times per turn)",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) de [Breath] (máx 6)\n- Con 15+ de [Breath], gana Poder Final +(Reson. más alta) en su lugar (máx 6)\n[BeforeAttack] Gana (Reson. más alta / 2) Contador de [Breath] (máx <style=\"highlight\">3</style>)\n- Con 5+ Contador de [Breath], gana Poder de Moneda +(Reson. más alta / 2) en su lugar (máx <style=\"highlight\">3</style>)\n[TargetKill] Gana 2 de [HoldingBreath] el siguiente turno (<style=\"highlight\">6</style> veces por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + Count)% more damage on Critical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">4</style> [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">4</style> de [HoldingBreath] (una vez por turno)"
                 }
               ]
             }
@@ -797,13 +797,13 @@
           "level": 1,
           "name": "Toracalgia",
           "abName": "Saco de Dormir de Antaño",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% more damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n\n[EndSkill] If the target is defeated, gain 2 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain 2 [Breath] and +2 [Breath] Count",
+          "desc": "[CantIdentify]\nPrioriza objetivos con el menor HP (prioriza aliados)\nSi uno aliado es uno de los objetivos de esta Habilidad, inflige +30% de daño\n\n[BeforeAttack] Con menos de 15 [Breath], consume 10% de HP para ganar 5 de [Breath] y +5 Contador de [Breath]\n- No puede ser Aturdida o derrotada debido a este efecto\n\n[EndSkill] Si el objetivo es derrotado, gana 2 de [HoldingBreath] el siguiente turno. (una vez por turno) Si dicho objetivo es un aliado, activa el siguiente efecto también:\n- Aliados que participan o son Sustituidos en este Encuentro debido a aliados derrotados gana 2 de [Breath] and +2 Contador de [Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] Gana 4 de [HoldingBreath] (una vez por turno)"
                 }
               ]
             }
@@ -813,16 +813,16 @@
           "level": 3,
           "name": "Toracalgia",
           "abName": "Saco de Dormir de Antaño",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% more damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n<style=\"highlight\">- Gain 1 [Breath] for every ally targeted by this Skill (max 2)</style>\n\n[EndSkill] If the target is defeated, gain 2 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain <style=\"highlight\">4</style> [Breath] and +2 [Breath] Count\n<style=\"highlight\">- Recover half of SP used by this Skill</style>",
+          "desc": "[CantIdentify]\nPrioriza objetivos con el menor HP (prioriza aliados)\nSi uno aliado es uno de los objetivos de esta Habilidad, inflige +30% de daño\n\n[BeforeAttack] Con menos de 15 [Breath], consume 10% de HP para ganar 5 de [Breath] y +5 Contador de [Breath]\n- No puede ser Aturdida o derrotada debido a este efecto\n<style=\"highlight\">- Gana 1 de [Breath] por cada aliado seleccionado por esta Habilidad (máx 2)</style>\n\n[EndSkill] Si el objetivo es derrotado, gana 2 de [HoldingBreath] el siguiente turno. (una vez por turno) Si dicho objetivo es un aliado, activa el siguiente efecto también:\n- Aliados que participan o son Sustituidos en este Encuentro debido a aliados derrotados gana <style=\"highlight\">4</style> de [Breath] y +2 Contador de [Breath]\n<style=\"highlight\">- Recupera la mitad de los PC usados por esta Habilidad</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damage on Critical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 4 de [HoldingBreath] (una vez por turno)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -832,16 +832,16 @@
           "level": 4,
           "name": "Toracalgia",
           "abName": "Saco de Dormir de Antaño",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% more damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n- Gain <style=\"highlight\">2</style> [Breath] for every ally targeted by this Skill (max <style=\"highlight\">4</style>)\n\n[EndSkill] If the target is defeated, gain 3 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain 4 [Breath] and +<style=\"highlight\">4</style> [Breath] Count\n<style=\"highlight\">- Recover SP used by this Skill and regain 1 of each E.G.O resources consumed</style>",
+          "desc": "[CantIdentify]\nPrioriza objetivos con el menor HP (prioriza aliados)\nSi uno aliado es uno de los objetivos de esta Habilidad, inflige +30% de daño\n\n[BeforeAttack] Con menos de 15 [Breath], consume 10% de HP para ganar 5 de [Breath] y +5 Contador de [Breath]\n- No puede ser Aturdida o derrotada debido a este efecto\n- Gana <style=\"highlight\">2</style> [Breath] por cada aliado seleccionado por esta Habilidad (máx <style=\"highlight\">4</style>)\n\n[EndSkill] Si el objetivo es derrotado, gana 3 de [HoldingBreath] el siguiente turno. (una vez por turno) Si dicho objetivo es un aliado, activa el siguiente efecto también:\n- Aliados que participan o son Sustituidos en este Encuentro debido a aliados derrotados gana 4 de [Breath] y +<style=\"highlight\">4</style> Contador de [Breath]\n<style=\"highlight\">- Recupera los PC usados por esta Habilidad y 1 de cada recurso E.G.O consumido</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + Count)% more damage on Critical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">7</style> [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">7</style> de [HoldingBreath] (una vez por turno)"
                 }
               ]
             }

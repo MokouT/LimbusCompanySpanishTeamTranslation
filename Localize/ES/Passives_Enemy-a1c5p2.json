@@ -2,118 +2,118 @@
     "dataList": [
         {
             "id": 9008801,
-            "name": "Ineffable Shape",
-            "desc": "When killed in combat, deal 10 SP damage to the unit that attacked it last"
+            "name": "Forma Indescriptible",
+            "desc": "Al ser asesinado en combate, inflige 10 de daño a los PC a la última unidad que lo atacó"
         },
         {
             "id": 9008901,
-            "name": "Pallidification",
-            "desc": "Gana 2 Offense Level and Defense Level for every living Pallidified ally (not counting this unit)"
+            "name": "Palidificación",
+            "desc": "Gana 2 de Nivel Ofensivo y Nivel Defensivo por cada aliado Palidecido vivo (sin contar a esta unidad)"
         },
         {
             "id": 9008902,
-            "name": "Crashing Filth",
-            "desc": "At 10% of Max HP, Inflige 20 SP damage On Hit, Inflige 1 Pallid Noise next turn, then dies."
+            "name": "Inmundicia Aplastante",
+            "desc": "A 10% de la HP Máx, inflige 20 de daño a los PC Tras Golpear, inflige 1 de Ruido Pálido, luego muere."
         },
         {
             "id": 9008903,
-            "name": "Spreading Flames",
-            "desc": "If there are surviving Pallidified allies at Turn End, all enemies with 20 or more SP lose 1 SP for every surviving Pallidified ally (not counting this unit)"
+            "name": "Propagando Inmundicia",
+            "desc": "Si hay unidades Palidecidas sobrevivientes al Fin del Turno, todos los enemigos con 20 o más PC pierden 1 PC por cada aliado Palidecido sobreviviente (sin contar a esta unidad)"
         },
         {
             "id": 9009001,
-            "name": "Spreading Flames",
-            "desc": "If there are surviving Pallidified allies at Turn End, all enemies with 20 or more SP lose 1 SP for every surviving Pallidified ally (not counting this unit)"
+            "name": "Propagando Inmundicia",
+            "desc": "Si hay unidades Palidecidas sobrevivientes al Fin del Turno, todos los enemigos con 20 o más PC pierden 1 PC por cada aliado Palidecido sobreviviente (sin contar a esta unidad)"
         },
         {
             "id": 9009101,
-            "name": "Healing Resentment",
-            "desc": "If there are surviving Pallidified allies at Turn End, all other Pallidified allies heal (# of other Pallidified allies * 3) HP"
+            "name": "Resentimiento Curativo",
+            "desc": "Si hay aliados Palidecidos sobrevivientes al Final del Turno, todos los otros aliados Palidecidos se curan (# de otros aliados Palidecidos * 3) HP"
         },
         {
             "id": 9009201,
-            "name": "Cumulating Organic Material",
-            "desc": "Defense Level +1 for every surviving ally (not counting this unit)"
+            "name": "Acumulando Material Orgánico",
+            "desc": "Nivel Defensivo +1 por cada aliados sobreviviente (sin contar a esta unidad)"
         },
         {
             "id": 9009202,
-            "name": "Disintegrating Inorganic Material",
-            "desc": "Gana 1 Fragile next turn if an ally dies"
+            "name": "Desintegrando Material Inorgánico",
+            "desc": "Gana 1 de Frágil el siguiente turno si un aliado muere"
         },
         {
             "id": 9009301,
-            "name": "Intertwined Organic Material",
-            "desc": "Offense Level +1 for every surviving ally (not counting this unit)"
+            "name": "Material Orgánico Entrelazado",
+            "desc": "Nivel Ofensivo +1 por cada aliado sobreviviente (sin contar a esta unidad)"
         },
         {
             "id": 9009302,
-            "name": "Scattered Inorganic Material",
-            "desc": "Gana 1 Attack Power Down next turn if an ally dies"
+            "name": "Material Orgánico Dispersado",
+            "desc": "Gana 1 Poder de Ataque Reducido el siguiente turno si un aliado muere"
         },
         {
             "id": 9009401,
-            "name": "Organic Breathing",
-            "desc": "If this unit dealt the final blow, apply 5 Poise to all Pallidified allies. Apply 1 de Contador de Temple"
+            "name": "Respiración Orgánica",
+            "desc": "Si esta unidad realizó el último golpe, aplica 5 de Temple a todos los aliados Palidecidos. Aplica 1 Contador de Temple"
         },
         {
             "id": 9009501,
-            "name": "Organic Hardening",
-            "desc": "If this unit dealt the final blow, apply 1 Protection and 2 Defense Level Up to all allies."
+            "name": "Endurecimiento Orgánico",
+            "desc": "Si esta unidad realizó el último golpe, aplica 1 de Protección y 2 de Nivel Defensivo Aumentado a todos los aliados.."
         },
         {
             "id": 9009601,
-            "name": "Vengeance Tattoo",
-            "desc": "Every time a Middle ally is killed in this encounter, gana 1 Nivel Ofensivo Aumentado (Max 5)"
+            "name": "Tatuaje de la Venganza",
+            "desc": "Cada vez que un aliado del Medio es asesinado en este encuentro, gana 1 de Nivel Ofensivo Aumentado (Máx 5)"
         },
         {
             "id": 9009602,
-            "name": "Little Vengeance",
-            "desc": "Upon Clash Lose, gana 1 Minus Coin Boost next turn (2 times per turn)"
+            "name": "Pequeña Venganza",
+            "desc": "Tras Choque Perdido, gana 1 Mejora de Moneda Negativa el siguiente turno (2 veces por turno)"
         },
         {
             "id": 9009603,
-            "name": "Multifold Retribution",
-            "desc": "Use \"Multifold Retribution' at 20% or less HP. (Once per wave)"
+            "name": "Retribución Múltiple",
+            "desc": "Usa \"Retribución Múltiple\" a 20% o menos de HP. (Una vez por Oleada)"
         },
         {
             "id": 9009604,
-            "name": "Chains of Loyalty",
-            "desc": "When a Middle ally is killed, gana 1 Plus Coin Boost next turn."
+            "name": "Cadenas de Lealtad",
+            "desc": "Cuando un aliado del Medio es asesinado, gana 1 Mejora de Moneda Positiva el siguiente turno.."
         },
         {
             "id": 809901,
-            "name": "The Big Brother",
-            "desc": "All allies heal 10 SP at Turn Start",
+            "name": "El Hermano Mayor",
+            "desc": "Todos los aliados se curan 10 PC al Inicio del Turno",
             "summary": ""
         },
         {
             "id": 809902,
-            "name": "Chains of Loyalty",
-            "desc": "When an ally from the Middle is killed, gana 1 Plus Coin Boost next turn. (Max 2)",
+            "name": "Cadenas de Lealtad",
+            "desc": "Cuando un aliado del Medio es asesinado, gana 1 Mejora de Moneda Positiva el siguiente turno. (Máx 2)",
             "summary": ""
         },
         {
             "id": 809903,
             "name": "Domineer",
-            "desc": "If an enemy that attacked this unit fails to deal more than 12 HP damage with their Skill, the enemy loses 10 SP",
+            "desc": "Si un enemigo que atacó a esta unidad falló en hacer más de 12 HP de daño con su Habilidad, el enemigo pierde 10 PC",
             "summary": ""
         },
         {
             "id": 809904,
-            "name": "Brush it Off",
-            "desc": "When in panic, recover from panic at the start of the next turn and reset SP to 0.",
+            "name": "Una Peinada y Ya",
+            "desc": "Cuando entra pánico, se recupera del pánico al inicio del siguiente turno y reinicia los PC a 0.",
             "summary": ""
         },
         {
             "id": 809905,
-            "name": "In the World of Bristly",
-            "desc": "Gana 6 Defense Level Down next turn after losing a Clash 3 times",
+            "name": "Melena Despeinada",
+            "desc": "Gana 6 de Nivel Defensivo Reducido el siguiente turno luego de perder un Choque 3 veces",
             "summary": ""
         },
         {
             "id": 9008904,
             "name": "",
-            "desc": "Begins encounter with -20 SP.",
+            "desc": "Inicia el combate con -20 PC.",
             "summary": ""
         }
     ]

@@ -1885,26 +1885,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count",
+          "name": "Ignición",
+          "desc": "[WhenUse] Con 10+ de [Combustion], inflige +10% de daño\n[WhenUse] Gana 7 de [Combustion] y +1 Contador de [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Combustion]"
                 }
               ]
             }
@@ -1912,29 +1912,29 @@
         },
         {
           "level": 2,
-          "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on the target), Coin Power +1",
+          "name": "Ignición",
+          "desc": "[WhenUse] Con 10+ de [Combustion], inflige +10% de daño\n[WhenUse] Gana 7 de [Combustion] y +1 Contador de [Combustion]\n[WhenUse] Con 10+ de ([Combustion] en sí + [Combustion] en el objetivo), Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ [Combustion], inflict additional 1 [Combustion]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Con 10+ de [Combustion], inflige 1 de [Combustion] adicional</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1942,29 +1942,29 @@
         },
         {
           "level": 4,
-          "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] Coin Power +1 for every 10 ([Combustion] on self + [Combustion] on the target) (max 2)",
+          "name": "Ignición",
+          "desc": "[WhenUse] Con 10+ de [Combustion], inflige +10% de daño\n[WhenUse] Gana 7 de [Combustion] y +1 Contador de [Combustion]\n[WhenUse] Poder de Moneda +1 por cada 10 de ([Combustion] en sí + [Combustion] en el objetivo) (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [Combustion], inflict additional <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Con 10+ de [Combustion], inflige <style=\"highlight\">3</style> de [Combustion] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1977,20 +1977,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain +4 [Combustion] Count",
+          "name": "Activación E.G.O - E.P.A",
+          "desc": "[WhenUse] Con 10+ de [Combustion], inflige +10% de daño\n[WhenUse] Gana +4 Contador de [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             },
@@ -2000,7 +2000,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Combustion]"
                 }
               ]
             }
@@ -2008,20 +2008,20 @@
         },
         {
           "level": 2,
-          "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] At 4+ ([Combustion] on self + [Combustion] on the target), Coin Power +1",
+          "name": "Activación E.G.O - E.P.A",
+          "desc": "[WhenUse] Inflige +10% de daño por cada 10 de [Combustion] en sí (máx 20%)\n[WhenUse] Gana +4 Contador de [Combustion]\n[WhenUse] Con 4+ de ([Combustion] en sí + [Combustion] en el objetivo), Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             },
@@ -2031,7 +2031,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             }
@@ -2039,20 +2039,20 @@
         },
         {
           "level": 4,
-          "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] Coin Power +1 for every 4 ([Combustion] on self + [Combustion] on the target) (max 2)",
+          "name": "Activación E.G.O - E.P.A",
+          "desc": "[WhenUse] Inflige +10% de daño por cada 10 [Combustion] en sí (máx 20%)\n[WhenUse] Gana +4 Contador de [Combustion]\n[WhenUse] Poder de Moneda +1 por cada 4 de ([Combustion] en sí + [Combustion] en el objetivo) (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             },
@@ -2062,10 +2062,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 15+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 15+ de [Combustion], inflige +2 Contador de [Combustion] en el objetivo"
                 }
               ]
             }
@@ -2078,20 +2078,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Drawn by Flame",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on the target), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1",
+          "name": "Atraído por la Llama",
+          "desc": "[StartBattle] Gana 7 de [Combustion] y +1 Contador de [Combustion]\n[BeforeUse] Con 30+ de [Combustion], activa 'E.P.A Sintonización Máxima 【Corrosión Degradada】’ en su lugar\n[WhenUse] Inflige +7.5% de daño por cada 5 de [Combustion] en sí (máx 30%)\n[WhenUse] Con 10+ de ([Combustion] en sí + [Combustion] en el objetivo), Poder Base +1\n[WhenUse] Si a esta unidad le falta 30%+ de HP, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
@@ -2100,20 +2100,20 @@
         },
         {
           "level": 4,
-          "name": "Drawn by Flame",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on the target) (max 2)\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1 (max 2)",
+          "name": "Atraído por la Llama",
+          "desc": "[StartBattle] Gana 7 de [Combustion] y +1 Contador de [Combustion]\n[BeforeUse] Con 30+ de [Combustion], activa 'E.P.A Sintonización Máxima 【Corrosión Degradada】’ en su lugar\n[WhenUse] Inflige +12.5% de daño por cada 5 de [Combustion] en sí (máx 50%)\n[WhenUse] Poder Base +1 por cada 10 de ([Combustion] en sí + [Combustion] en el objetivo) (máx 2)\n[WhenUse] Si a esta unidad le falta 30%+ de HP, Poder de Moneda +1 (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
@@ -2127,16 +2127,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Resonating by raising A.B.S Attunement.",
-          "desc": "[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)",
+          "name": "Resonando al aumentar la Sintonización con E.P.A",
+          "desc": "[WhenUse]Pierde 5 de [Combustion] (una vez por turno)\n[OnSucceedEvade] Pierde 5 de [Combustion] (una vez por turno)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Resonating by raising A.B.S Attunement.",
-          "desc": "[WhenUse] At 10+ [Combustion], Coin Power +3\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)",
+          "name": "Resonando al aumentar la Sintonización con E.P.A",
+          "desc": "[WhenUse] Con 10+ de [Combustion], Poder de Moneda +3\n[WhenUse] Pierde 5 de [Combustion] (una vez por turno)\n[OnSucceedEvade] Pierde 5 de [Combustion] (una vez por turno)",
           "coinlist": [
             {}
           ]
@@ -2148,8 +2148,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "A.B.S Max Attunement 【Degraded Corrosion】",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on the target), Base Power +1\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 2)",
+          "name": "E.P.A Sintonización Máxima 【Corrosión Degradada】",
+          "desc": "Tras usar esta Habilidad, muere.\n- Si el HP cae a 1 mientras se usa esta Habilidad, mantiene el HP en 1 por la duración de esta Habilidad.\n[WhenUse] Inflige +7.5% de daño por cada 5 de [Combustion] en sí (máx 30%)\n[WhenUse] Con 10+ de ([Combustion] en sí + [Combustion] en el objetivo), Poder Base +1\n[WhenUse] Poder de Moneda +1 por cada 30% de HP faltante en sí (máx 2)\n[BeforeAttack] Alcance de Atq +1 por cada 20% de HP faltante en sí (máx 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -2157,7 +2157,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
@@ -2167,7 +2167,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
@@ -2177,7 +2177,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HP on self (max 30%)"
+                  "desc": "[OnSucceedAttack] Inflige +10% de daño por cada 20% de HP faltante en sí (máx 30%)"
                 }
               ]
             }
@@ -2185,8 +2185,8 @@
         },
         {
           "level": 4,
-          "name": "A.B.S Max Attunement 【Degraded Corrosion】",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on the target) (max 2)\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 4)",
+          "name": "E.P.A Sintonización Máxima 【Corrosión Degradada】",
+          "desc": "Tras usar esta Habilidad, muere.\n- Si el HP cae a 1 mientras se usa esta Habilidad, mantiene el HP en 1 por la duración de esta Habilidad.\n[WhenUse] Inflige +12.5% de daño por cada 5 de [Combustion] en sí (máx 50%)\n[WhenUse] Poder Base +1 por cada 10 de ([Combustion] en sí + [Combustion] en el objetivo) (máx 2)\n[WhenUse] Poder de Moneda +1 por cada 30% de HP faltante en sí (máx 3)\n[BeforeAttack] Alcance de Atq +1 por cada 20% de HP faltante en sí (máx 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -2194,7 +2194,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 }
               ]
             },
@@ -2204,7 +2204,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 }
               ]
             },
@@ -2214,7 +2214,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HP on self (max 30%)"
+                  "desc": "[OnSucceedAttack] Inflige +10% de daño por cada 20% de HP faltante en sí (máx 30%)"
                 }
               ]
             }

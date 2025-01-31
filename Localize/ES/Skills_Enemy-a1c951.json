@@ -5,26 +5,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Human-omes!",
+                    "name": "¡Humano-mos!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 4 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 4 de [Breath]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Inflige 2 [Paralysis]"
+                                    "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Paralysis]"
                                 }
                             ]
                         }
@@ -37,19 +37,19 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Capture them-ome",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "Capturenlos-omo",
+                    "desc": "[WinDuel] Cura 5 PC",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 4 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 4 de [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "+40% Damage on Critical Hit"
+                                    "desc": "+40% de daño en Golpe Crítico"
                                 }
                             ]
                         }
@@ -62,26 +62,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Ome, Ome!!",
+                    "name": "¡¡Omo, Omo!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+30% Damage on Critical Hit"
+                                    "desc": "+30% de daño en Golpe Crítico"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+30% Damage on Critical Hit"
+                                    "desc": "+30% de daño en Golpe Crítico"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                                 }
                             ]
                         }
@@ -94,26 +94,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Fresh Meat-omes",
+                    "name": "Carne Fresca-mos",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 2 [Breath] and +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Breath] y +2 Contador de [Breath]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Gana 3 [Binding] next turn"
+                                    "desc": "[CriticalOnSucceedAttack] Gana 3 de [Binding] el siguiente turno"
                                 }
                             ]
                         }
@@ -126,16 +126,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Lookin' Lively-ome!",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "¡Te Ves Animado-omo!",
+                    "desc": "[WinDuel] Cura 5 PC",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 2 [Breath] and +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Breath] y +2 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "+40% Damage on Critical Hit"
+                                    "desc": "+40% de daño en Golpe Crítico"
                                 }
                             ]
                         }
@@ -148,8 +148,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "No Use-ome!",
-                    "desc": "[EndBattle] If this unit has Shield, gana 1 [Enhancement] next turn.",
+                    "name": "¡En Vano-omo!",
+                    "desc": "[EndBattle] Si esta unidad tiene Escudo, gana 1 de [Enhancement] el siguiente turno.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -167,26 +167,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Turn Ya Into Furniture-omes!",
+                    "name": "¡Convertirlos En Muebles-mos!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana +3 Contador de [Breath]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Inflige 2 [Paralysis]"
+                                    "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Paralysis]"
                                 }
                             ]
                         }
@@ -199,19 +199,19 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Let's Get It Moving-ome",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "A Moverse-omo",
+                    "desc": "[WinDuel] Cura 5 PC",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                                 },
                                 {
-                                    "desc": "+40% Damage on Critical Hit"
+                                    "desc": "+40% de daño en Golpe Crítico"
                                 }
                             ]
                         }
@@ -224,8 +224,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hoom Hoom~",
-                    "desc": "[OnSucceedEvade] Gana 5 [Breath] and +2 [Breath] Count.\n[OnDefeatEvade] Raise Stagger Threshold by 10",
+                    "name": "Jum Jum~",
+                    "desc": "[OnSucceedEvade] Gana 5 de [Breath] y +2 Contador de [Breath].\n[OnDefeatEvade] Aumenta Umbral de Aturdimiento por 10",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -243,16 +243,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "I'll Get You-ome",
+                    "name": "Te Atraparé-omo",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Inflige 2 [Binding] next turn"
+                                    "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
                                 }
                             ]
                         }
@@ -265,26 +265,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "We Struck Gold-ome!",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "¡Pillamos oro-omo!",
+                    "desc": "[WinDuel] Cura 5 PC",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 2 [Breath] and +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Breath] y +3 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "+50% Damage on Critical Hit"
+                                    "desc": "+50% de daño en Golpe Crítico"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath] and +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath] y +1 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "+50% Damage on Critical Hit"
+                                    "desc": "+50% de daño en Golpe Crítico"
                                 }
                             ]
                         }
@@ -297,33 +297,33 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Local Raw Material-omes!",
-                    "desc": "[WinDuel] Gana 3 [Breath]",
+                    "name": "¡Materia Prima Local-mos!",
+                    "desc": "[WinDuel] Gana 3 de [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Damage +20% for the last Coin"
+                                    "desc": "[CriticalOnSucceedAttack] Daño +20% para la última Moneda"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gana 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Damage +20% for the last Coin"
+                                    "desc": "[CriticalOnSucceedAttack] Daño +20% para la última Moneda"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Does not consume [Breath] Count. Deal bonus Blunt damage equal to [Breath]"
+                                    "desc": "[CriticalOnSucceedAttack] No gasta Contador de [Breath]. Inflige daño Contundente igual a [Breath]"
                                 }
                             ]
                         }
@@ -336,8 +336,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "No Use-ome!",
-                    "desc": "[EndBattle] If this unit has Shield, gana 2 [Enhancement] next turn.",
+                    "name": "¡En Vano-omo!",
+                    "desc": "[EndBattle] Si esta unidad tiene Escudo, gana 2 de [Enhancement] el siguiente turno.",
                     "coinlist": [
                         {
                             "coindescs": [

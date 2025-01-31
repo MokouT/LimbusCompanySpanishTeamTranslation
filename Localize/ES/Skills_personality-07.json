@@ -2095,27 +2095,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Return Fire",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Devolver Fuego",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "Gasta 1 [Bullet]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "Gasta 1 [Bullet]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "Gasta 1 [Bullet]"
                 }
               ]
             }
@@ -2123,30 +2123,30 @@
         },
         {
           "level": 2,
-          "name": "Return Fire",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n<style=\"highlight\">[WhenUse] Gain 1 [Agility] next turn (once per turn)</style>",
+          "name": "Devolver Fuego",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]\n<style=\"highlight\">[WhenUse] Gana 1 de [Agility] el siguiente turno (una vez por turno)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +1 [Breath] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gana +1 Contador de [Breath]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2154,30 +2154,30 @@
         },
         {
           "level": 4,
-          "name": "Return Fire",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WhenUse] Gain <style=\"highlight\">2</style> [Agility] next turn (once per turn)",
+          "name": "Devolver Fuego",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]\n[WhenUse] Gana <style=\"highlight\">2</style> de [Agility] el siguiente turno (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2190,16 +2190,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Headshot",
-          "desc": "[WhenUse] Gain 3 [Breath] and +1 [Breath] Count",
+          "name": "Disparo a la Cabeza",
+          "desc": "[WhenUse] Gana 3 de [Breath] y +1 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "Gasta 1 [Bullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [PenetrateTakeDamageUp] (2 veces por turno)"
                 }
               ]
             }
@@ -2207,22 +2207,22 @@
         },
         {
           "level": 2,
-          "name": "Headshot",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 30%)</style>\n[WhenUse] Gain 3 [Breath] and +1 [Breath] Count\n<style=\"highlight\">[WhenUse] Gain 2 [Agility] next turn (once per turn)</style>",
+          "name": "Disparo a la Cabeza",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +10% de daño por cada 1 diferencia de Velocidad (máx 30%)</style>\n[WhenUse] Gana 3 de [Breath] y +1 Contador de [Breath]\n<style=\"highlight\">[WhenUse] Gana 2 de [Agility] el siguiente turno (una vez por turno)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+30% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">+30% de daño en Golpe Crítico</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [PenetrateTakeDamageUp] (2 veces por turno)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflige 1 de [PenetrateTakeDamageUp] el siguiente turno (una vez por turno)</style>"
                 }
               ]
             }
@@ -2230,22 +2230,22 @@
         },
         {
           "level": 4,
-          "name": "Headshot",
-          "desc": "If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference <style=\"highlight\">(max 50%)</style>\n[WhenUse] Gain 3 [Breath] and +<style=\"highlight\">2</style> [Breath] Count\n[WhenUse] Gain 2 [Agility] next turn (once per turn)",
+          "name": "Disparo a la Cabeza",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +10% de daño por cada 1 diferencia de Velocidad <style=\"highlight\">(máx 50%)</style>\n[WhenUse] Gana 3 de [Breath] y +<style=\"highlight\">2</style> Contador de [Breath]\n[WhenUse] Gana 2 de [Agility] el siguiente turno (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+50%</style> Damage on Critical Hit"
+                  "desc": "<style=\"highlight\">+50%</style> de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [PenetrateTakeDamageUp] (2 veces por turno)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [PenetrateTakeDamageUp] el siguiente turno (una vez por turno)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2258,19 +2258,19 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Goin' for the Bullseye",
-          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% more damage",
+          "name": "Tiro al Blanco",
+          "desc": "[BeforeUse] Si esta unidad tiene [Bullet_LogicAtelier], activa 'AL - Munición Pulverizadora de Alta Velocidad' en su lugar\nSi la Velocidad de esta unidad es mayor que la del objetivo, inflige +10% de daño por cada 1 diferencia de Velocidad (máx 50%)\n[WhenUse] Gana 5 de [Breath]\n[WhenUse] Gasta toda la [LogicAtelierAM] en sí, gana (valor gastado x 2) Potencia de [Breath], e inflige +(valor gastado x 12.5)% de daño0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "Gasta 1 [Bullet]"
                 },
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage"
+                  "desc": "[CriticalOnSucceedAttack] Con más de 30 Potencia de [Breath], gasta hasta 10 Potencia de [Breath] sobre 30 para infligir +(Potencia de [Breath] gastada x 10)% de daño"
                 }
               ]
             }
@@ -2278,22 +2278,22 @@
         },
         {
           "level": 4,
-          "name": "Goin' for the Bullseye",
-          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% more damage\n<style=\"highlight\">[EndSkill] Gain +2 [Breath] Count</style>",
+          "name": "Tiro al Blanco",
+          "desc": "[BeforeUse] Si esta unidad tiene [Bullet_LogicAtelier], activa 'AL - Munición Pulverizadora de Alta Velocidad' en su lugar\nSi la Velocidad de esta unidad es mayor que la del objetivo, inflige +10% de daño por cada 1 diferencia de Velocidad (máx 50%)\n[WhenUse] Gana 5 de [Breath]\n[WhenUse] Gasta toda la [LogicAtelierAM] en sí, gana (valor gastado x 2) Potencia de [Breath], e inflige +(valor gastado x 12.5)% de daño\n<style=\"highlight\">[EndSkill] Gana +2 Contador de [Breath]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+80%</style> Damage on Critical Hit"
+                  "desc": "<style=\"highlight\">+80%</style> de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "<style=\"highlight\">+(the target's Pierce Res. x 50)% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">+(Res. a lo Perforante del objetivo x 50)% de daño en Golpe Crítico</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Con más de 30 Potencia de [Breath], gasta hasta 10 Potencia de [Breath] sobre 30 para infligir +(Potencia de [Breath] gastada x 10)% de daño<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2306,8 +2306,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Combat Poise",
-          "desc": "Turn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "name": "Temple de Combate",
+          "desc": "Inicio de Turno: Con 0 Ammo, esta Habilidad se activa como 'Tomando Cubierta' en su lugar\n[WhenUse] Si Rep. de la Oficina Punto Final Hong Lu está en el campo, solicita [MeleeCover] de dicha unidad (una vez por turno)\n[EndBattle] Gana 1 de [LogicAtelierAM] el siguiente turno (una vez por turno)",
           "coinlist": [
             {
               "coindescs": []
@@ -2316,8 +2316,8 @@
         },
         {
           "level": 4,
-          "name": "Combat Poise",
-          "desc": "Turn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[OnSucceedEvade] Gain 3 [Breath] (3 times per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "name": "Temple de Combate",
+          "desc": "Inicio de Turno: Con 0 Ammo, esta Habilidad se activa como 'Tomando Cubierta' en su lugar\n[WhenUse] Si Rep. de la Oficina Punto Final Hong Lu está en el campo, solicita [MeleeCover] de dicha unidad (una vez por turno)\n<style=\"highlight\">[OnSucceedEvade] Gana 3 [Breath] (3 veces por turno)</style>\n[EndBattle] Gana 1 de [LogicAtelierAM] el siguiente turno (una vez por turno)",
           "coinlist": [
             {
               "coindescs": []
@@ -2331,19 +2331,19 @@
       "levelList": [
         {
           "level": 3,
-          "name": "AL-HV Pulverisation Round",
-          "desc": "If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 25)% more damage",
+          "name": "AL - Munición Pulverizadora de Alta Velocidad",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +10% de daño por cada 1 diferencia de Velocidad (máx 50%)\n[WhenUse] Gana 5 de [Breath]\n[WhenUse] Consume toda la [LogicAtelierAM] en sí, gana (valor gastado x 2) Potencia de [Breath], e inflige +(valor gastado x 25)% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet_LogicAtelier]"
+                  "desc": "Gasta 1 [Bullet_LogicAtelier]"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "+100% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage"
+                  "desc": "[CriticalOnSucceedAttack] Con más de 30 Potencia de [Breath], gasta hasta 10 Potencia de [Breath] sobre 30 para infligir +(Potencia de Breath] gastada x 10)% de daño"
                 }
               ]
             }
@@ -2351,22 +2351,22 @@
         },
         {
           "level": 4,
-          "name": "AL-HV Pulverisation Round",
-          "desc": "If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 25)% more damage\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>",
+          "name": "AL - Munición Pulverizadora de Alta Velocidad",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +10% de daño por cada 1 diferencia de Velocidad (máx 50%)\n[WhenUse] Gana 5 [Breath]\n[WhenUse] Consume toda la [LogicAtelierAM] en sí, gana (valor gastado x 2) Potencia de [Breath], e inflige +(valor gastado x 25)% de daño\n<style=\"highlight\">[EndSkill] Gana +5 Contador de [Breath]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet_LogicAtelier]<style=\"highlight\"></style>"
+                  "desc": "Gasta 1 [Bullet_LogicAtelier]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+130%</style> Damage on Critical Hit"
+                  "desc": "<style=\"highlight\">+130%</style> de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "<style=\"highlight\">+(the target's Pierce Res. x 50)% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">+(Res. a lo Perforante del objetivo x 50)% de daño en Golpe Crítico</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Con más de 30 Potencia de [Breath], gasta hasta 10 Potencia de [Breath] sobre 30 para infligir +(Potencia de [Breath] gastada x 10)% de daño<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2379,8 +2379,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Taking Cover",
-          "desc": "[CanDuelGuard]\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "name": "Tomando Cubierta",
+          "desc": "[CanDuelGuard]\n[WhenUse] Si Rep. de la Oficina Punto Final Hong Lu está en el campo, solicita [MeleeCover] de dicha unidad (una vez por turno)\n[EndBattle] Gana 1 de [LogicAtelierAM] el siguiente turno (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -2393,8 +2393,8 @@
         },
         {
           "level": 4,
-          "name": "Taking Cover",
-          "desc": "[CanDuelGuard]\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[WinDuel] Inflict 1 [PenetrateResistDown] (once per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "name": "Tomando Cubierta",
+          "desc": "[CanDuelGuard]\n[WhenUse] Si Rep. de la Oficina Punto Final Hong Lu está en el campo, solicita [MeleeCover] de dicha unidad (una vez por turno)\n<style=\"highlight\">[WinDuel] Inflige 1 de [PenetrateResistDown] (una vez por turno)</style>\n[EndBattle] Gana 1 de [LogicAtelierAM] el siguiente turno (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [

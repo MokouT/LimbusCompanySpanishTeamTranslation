@@ -5,27 +5,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Punching",
+                    "name": "Golpeando",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                    "desc": "[OnSucceedAttack] Daño Contundente +3"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                    "desc": "[OnSucceedAttack] Daño Contundente +3"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 3 Paralyze"
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
                                 }
                             ]
                         }
@@ -38,27 +38,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Kicking",
+                    "name": "Pateando",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                    "desc": "[OnSucceedAttack] Daño Contundente +5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                    "desc": "[OnSucceedAttack] Daño Contundente +5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
                                 }
                             ]
                         }
@@ -71,14 +71,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Payback",
+                    "name": "Venganza",
                     "desc": "",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses 5 SP"
+                                    "desc": "[OnSucceedAttack] El objetivo pierde 5 de PC"
                                 }
                             ]
                         }
@@ -91,8 +91,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Domineer",
-                    "desc": "[StartBattle] Apply 1 Attack Power Up to all allies\n[StartBattle] Inflige 2 Attack Power Down to 2 enemies with the least SP",
+                    "name": "Dominar",
+                    "desc": "[StartBattle] Aplica 1 Poder de Ataque Aumentado a todos los aliados\n[StartBattle] Inflige 2 Poder de Ataque Reducido a 2 enemigos con los menores PC",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -110,8 +110,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Make this Memorable",
-                    "desc": "[StartBattle] Gana 2 Test of the Big Brother. Gana 5 Bind next turn.",
+                    "name": "Haz que sea Memorable",
+                    "desc": "[StartBattle] Gana 2 Prueba del Hermano Mayor. Gana 5 de [Binding] el siguiente turno.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -129,23 +129,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Watch Your Back!",
-                    "desc": "If target has less than 0 SP, Coin Power +3",
+                    "name": "¡Vigila Tu Espalda!",
+                    "desc": "Si el objetivo tiene menos de 0 PC, Poder de Moneda +3",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 10 SP on self"
+                                    "desc": "[OnSucceedAttack] Cura 10 de PC en sí mismo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 2 Bind and 2 Attack Power Down next turn"
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] y 2 Poder de Ataque Reducido el siguiente turno"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses 20 SP"
+                                    "desc": "[OnSucceedAttack] El objetivo pierde 20 de PC"
                                 }
                             ]
                         }
@@ -158,8 +158,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Assemble",
-                    "desc": "[StartBattle] Summon 2 allies next turn",
+                    "name": "Reúnanse",
+                    "desc": "[StartBattle] Convoca a 2 aliados el siguiente turno",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -177,8 +177,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Swear Vengeance",
-                    "desc": "[StartBattle] Gana 2 Test of the Big Brother. Gana 5 Bind and 5 Damage Up next turn.",
+                    "name": "Jurar Venganza",
+                    "desc": "[StartBattle] Gana 2 Prueba del Hermano Mayor. Gana 5 de [Binding] y 5 de Daño Aumentado el siguiente turno.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -196,16 +196,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "MY HAIR COUPOOOOOOOOOOONS!!!",
-                    "desc": "If the main target has less than 0 SP, Final Power +5",
+                    "name": "¡¡¡MIS CUPONES PARA EL CABELLOOOOOOOOOOO!!!",
+                    "desc": "Si el objetivo principal tiene menos de 0 PC, Poder Final +5",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
+                                    "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
                                 }
                             ]
                         }

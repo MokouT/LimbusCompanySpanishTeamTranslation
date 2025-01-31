@@ -522,7 +522,7 @@
     },
     {
       "id": 1120401,
-      "name": "Pies Empaquetados",
+      "name": "Tartas Empaquetadas",
       "desc": "Cura 8 HP al inicio de la fase de combate."
     },
     {
@@ -622,12 +622,12 @@
     },
     {
       "id": 1100601,
-      "name": "Marca de Talismanes",
+      "name": "Desprender Talismanes",
       "desc": "Tras golpear, si el objetivo tenía [Burst], gana 1 de Talismán."
     },
     {
       "id": 1100621,
-      "name": "Deseo de Talismanes",
+      "name": "Talismán de los Deseos",
       "desc": "Al inicio de la fase de combate, da (Reson. más Alta * 2) de Talismán al aliado con los mayor HP."
     },
     {
@@ -727,23 +727,23 @@
     },
     {
       "id": 1060601,
-      "name": "Limpieza Maestra",
+      "name": "Maestría en Limpieza",
       "desc": "Si tiene 5+ Contador de [Charge] al inicio de la fase de combate, gana 2 [Agility] el siguiente turno."
     },
     {
       "id": 1060621,
-      "name": "Manual de Limpieza de Tren",
+      "name": "Manual de Limpieza del Tren",
       "desc": "Un aliado con la menor Velocidad gana 2 [Agility] el siguiente turno si tiene 5+ Contador de [Charge] al inicio de la fase de combate."
     },
     {
       "id": 1070601,
-      "name": "Lectura Instintiva",
+      "name": "Intuición Instintiva",
       "desc": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5), inflige +1 de [Burst] con efectos de Habilidad.",
       "summary": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\", inflige +1 de [Burst] con efectos de Habilidad."
     },
     {
       "id": 1070611,
-      "name": "Lectura Instintiva",
+      "name": "Intuición Instintiva",
       "desc": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5), inflige +1 de [Burst] con efectos de Habilidad.\n<style=\"highlight\">Si 4 o más unidades sobrevivientes, incluida esta unidad, son Fixers de la Asociación Seven, +1 de [Burst] adicional</style>. ",
       "summary": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\", inflige +1 de [Burst] con efectos de Habilidad.\nCon 4 o más aliados Fixers de la Asociación Seven, +1 de [Burst] adicional."
     },
@@ -973,12 +973,12 @@
     },
     {
       "id": 1100801,
-      "name": "Sed de Sangre Adormecida",
+      "name": "Sed de Sangre Latente",
       "desc": "Fin de Turno: Gana +2 de Velocidad Máx el siguiente turno por cada 5 Contador de [Breath] (Máx 6)"
     },
     {
       "id": 1100811,
-      "name": "Sed de Sangre Adormecida",
+      "name": "Sed de Sangre Latente",
       "desc": "Fin de Turno: Gana +2 Velocidad Máx el siguiente turno por cada 5 Contador de [Breath] (Máx 6)\nInicio de Combate: Si la Velocidad de todos los aliados es mayor que la Velocidad de todos los enemigos, gana 1 Daño Perforante Aumentado"
     },
     {
@@ -1078,12 +1078,12 @@
     },
     {
       "id": 1080821,
-      "name": "Ordenes del Capitán",
+      "name": "Órdenes de la Capitán",
       "desc": "1 aliado con los mayores PC gana 2 de [Breath] cuando el objetivo es derrotado tras el ataque de esa unidad (2 veces por turno)"
     },
     {
       "id": 1080831,
-      "name": "Ordenes del Capitán",
+      "name": "Órdenes de la Capitán",
       "desc": "Tras Atacar: 1 aliado con los mayores PC gana 2 de [Breath] y <style=\"highlight\">+2 de Contador de [Breath]</style> cuando el objetivo es derrotado tras el ataque de esa unidad (2 veces por turno)"
     },
     {
@@ -1494,7 +1494,7 @@
     },
     {
       "id": 1060921,
-      "name": "¿Si Yo Fuese el Cupable...?",
+      "name": "¿Si Yo Fuese el Culpable...?",
       "desc": "Cuando la Identidad #1 Desplegada provoca [VibrationExplosion] con efectos de Habilidad o Moneda, 25% de probabilidad de provocar un [VibrationExplosion] adicional (una vez por turno)"
     },
     {
@@ -1872,78 +1872,78 @@
     },
     {
       "id": 1061101,
-      "name": "Concentration",
-      "desc": "When flipping a Coin that consumes [Bullet]: even when this unit is out of [Bullet], the attack does not get canceled. However, the affected Coins' On Hit effects do not activate in such cases."
+      "name": "Concentración",
+      "desc": "Al lanzar una moneda que consume [Bullet]: incluso cuando esta unidad ya no dispone de [Bullet], el ataque no es cancelado. Sin embargo, los efectos Tras Golpear de las monedas afectadas no se activarán en dichos casos."
     },
     {
       "id": 1061102,
-      "name": "Tactical Firearm Support",
-      "desc": "If the Full-Stop Office Fixer Heathcliff is in [Retreat_FullStop] state, or has been Deployed as a Backup unit, empower Full-Stop Office Rep. Hong Lu's Skill 2 and Skill 3"
+      "name": "Apoyo de Fuego Táctico",
+      "desc": "Si Oficina Punto Final Fixer Heathcliff está en estado de [Retreat_FullStop], o ha sido Desplegado como unidad de Respaldo, mejora la Habilidad 2 y Habilidad 3 de Oficina Punto Final Representante Hong Lu"
     },
     {
       "id": 1061111,
-      "name": "Tactical Fire Support",
-      "desc": "If the Full-Stop Office Fixer Heathcliff is in [Retreat_FullStop] state, or has been Deployed as a Backup unit, empower Full-Stop Office Rep. Hong Lu's Skill 2 and Skill 3\n\nCombat Start: at 20+ [Breath] Potency, gain +1 [Breath] Count"
+      "name": "Apoyo de Fuego Táctico",
+      "desc": "Si Oficina Punto Final Fixer Heathcliff está en estado de [Retreat_FullStop], o ha sido Desplegado como unidad de Respaldo, mejora la Habilidad 2 y Habilidad 3 de Oficina Punto Final Representante Hong Lu\n\nInicio de Combate: a 20+ de Potencia de [Breath], gana +1 Contador de [Breath]"
     },
     {
       "id": 1061121,
-      "name": "Suppressing Fire",
-      "desc": "Ally Identity with the most [Bullet] deals +10% more damage with Skills that spend [Bullet]\n(Does not activate when out of [Bullet])"
+      "name": "Fuego de Supresión",
+      "desc": "Identidad Aliada con la mayor [Bullet] inflige +10% de daño con Habilidades que gastan [Bullet]\n(No se activa al estar agotado de [Bullet])"
     },
     {
       "id": 1071101,
-      "name": "Snipe",
-      "desc": "Encounter Start: gain 3 [PenetrateResultUp]\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload] (except [Bullet_LogicAtelier]; once per Encounter)"
+      "name": "Fuego de Francotirador",
+      "desc": "Inicio del Encuentro: gana 3 [PenetrateResultUp]\n\nFin del Turno: Si esta unidad no cuenta con [Bullet] restante de algún tipo, activa [Retreat_FullStop] (una vez por Encuentro )\n\nSi esta unidad Substituye a otra, o se vuelve a unir a la batalla luego de [Retreat_FullStop], gana  [LogicAtelierAM] máx, 3 [PenetrateResultUp] y [FullReload] (excepto [Bullet_LogicAtelier]; una vez por Encuentro)"
     },
     {
       "id": 1071102,
-      "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: if this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn."
+      "name": "Apuntado de Precisión",
+      "desc": "Fin del Turno: gana 1 [Agility] el siguiente turno por cada 10 [Breath] en sí (máx 2)\n\nFin del Turno: Si esta unidad no usa alguna Habilidad de Ataque (incluyendo Habilidades E.G.O, excluyendo [CoveringFire], gana 10 de [Breath] y 1 [PenetrateResultUp] el siguiente turno."
     },
     {
       "id": 1071103,
-      "name": "Snipe",
-      "desc": "Encounter Start: gain 3 [PenetrateResultUp]\n\n<style=\"highlight\">When this unit enters the Encounter, gain 1 [Bullet_LogicAtelier] (once per Encounter)</style>\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload]\n(Except [Bullet_LogicAtelier]; once per Encounter)"
+      "name": "Fuego de Francotirador",
+      "desc": "Inicio del Encuentro: gana 3 [PenetrateResultUp]\n\nCuando esta unidad entre en el Encuentro, gana 1 [Bullet_LogicAtelier] (una vez por Encuentro)\n\nFin del Turno: Si esta unidad no tiene ninguna [Bullet] de algún tipo restante, activa [Retreat_FullStop] (una vez por Encuentro)\n\nSi esta unidad Substituye a otra, o se vuelve a unir a la batalla luego de [Retreat_FullStop], gana  [LogicAtelierAM] máx, 3 [PenetrateResultUp] y [FullReload] (excepto [Bullet_LogicAtelier]; una vez por Encuentro)"
     },
     {
       "id": 1071111,
-      "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\n<style=\"highlight\">Combat Start: if this unit is not set to use any Attack Skills (including E.G.O Skills), apply 3 [Breath] to 1 ally with the least Poise Potency</style>\n\nTurn End: if this unit did not use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn"
+      "name": "Apuntado de Precisión",
+      "desc": "Fin del Turno: gana 1 [Agility] el siguiente turno por cada 10 [Breath] en sí (máx 2)\n\nInicio de Combate: si esta unidad no está puesta a usar alguna Habilidad de Ataque (incluyendo Habilidades E.G.O), aplica 3 de [Breath] a 1 aliado con la menor Potencia de Temple\n\nFin del Turno: Si esta unidad no usa alguna Habilidad de Ataque (incluyendo Habilidades E.G.O, excluyendo [CoveringFire], gana 10 de [Breath] y 1 [PenetrateResultUp] el siguiente turno"
     },
     {
       "id": 1071121,
-      "name": "Spotter",
-      "desc": "1 ally with the least [Bullet] gains +2 [Breath] Count when using a Skill that consumes [Bullet].\n- If the said ally is a Full-Stop Office Identity, or if they have less than 5 [Breath] Count, gain +4 [Breath] Count instead (once per turn; does not apply to units without [Bullet])"
+      "name": "Marcador",
+      "desc": "1 aliado con la menor [Bullet] gana +2 Contador de [Breath] al usar una Habilidad que consume [Bullet].\n\n- Si dicho aliado es una Identidad de la Oficina Punto Final, o si tiene menos de 5 Contador de [Breath], gana +4 Contador de [Breath] en su lugar (una vez por turno; no aplica a unidades sin [Bullet])"
     },
     {
       "id": 1011101,
-      "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
-      "desc": "On death, inflict 4 [Burst] and +2 [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 4 [Burst] and +2 [Burst] Count against the enemy with the least [Burst] Count"
+      "name": "Esto se refleja en su apariencia, más parecida a la Anormalidad de la que proviene en comparación al de la antigua L Corp",
+      "desc": "Tras morir, inflige 4 de [Burst] y +2 Contador de [Burst] contra el último objetivo que atacó a esta unidad; luego, gana 2 recursos E.G.O para los 4 recursos E.G.O que menos se tenga.\n- Si nadie atacó a esta unidad, o si un aliado mató a esta unidad, inflige 4  de [Burst] y +2 Contador de [Burst] contra el enemigo con el menor Contador de [Burst"
     },
     {
       "id": 1011111,
-      "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
-      "desc": "On death, inflict <style=\"highlight\">5</style> [Burst] and +<style=\"highlight\">3</style> [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 5 [Burst] and +3 [Burst] Count against the enemy with the least [Burst] Count\n- If this unit is in a [GlowingLantern] state, inflict double the [Burst] potency with this effect"
+      "name": "Esto se refleja en su apariencia, más parecida a la Anormalidad de la que proviene en comparación al de la antigua L Corp",
+      "desc": "Tras morir, inflige <style=\"highlight\">5</style> de [Burst] y +<style=\"highlight\">3</style> Contador de [Burst] contra el último objetivo que atacó a esta unidad; luego, gana 2 recursos E.G.O para los 4 recursos E.G.O que menos se tenga.\n- Si nadie atacó a esta unidad, o si un aliado mató a esta unidad, inflige 5 de [Burst] y +3 Contador de [Burst] contra el enemigo con el menor Contador de [Burst] \n- Si esta unidad está en estado [GlowingLantern], inflige doble Potencia de [Burst] con este efecto"
     },
     {
       "id": 1011121,
-      "name": "E.G.O disintegration is not unlike decomposition of compost",
-      "desc": "When 1 ally with the least HP is killed, gain 2 E.G.O resources for 2 E.G.O least-owned E.G.O resources"
+      "name": "La Desintegración del E.G.O. no es diferente a la descomposición de la composta",
+      "desc": "Cuando 1 aliado con el menor HP es asesinado, gana 2 recursos E.G.O de los 2 recursos E.G.O que menos se tenga"
     },
     {
       "id": 1021101,
-      "name": "Fireproof",
-      "desc": "Cannot be Staggered or fall below 1 HP due to [Combustion] damage."
+      "name": "A Prueba de Fuego",
+      "desc": "No puede ser Aturdida o que sus HP bajen de 1 por daño de [Combustion]."
     },
     {
       "id": 1021111,
-      "name": "Flame Moth",
-      "desc": "Combat Start: at 80%+ missing HP, and at less than 30 [Combustion], gain up to 30 [Combustion] (once per Encounter)\n\nTurn End: gain 1 [AttackUp] next turn for every 6 [Combustion] on self (max 5)\n\nOn death, activate the following:\n- Inflict 2 [Combustion] on all enemies; inflict Burn on self between all enemies (max 3 per enemy)\n- Gain 2 E.G.O resource for 2 least-owned E.G.O resources\n\nIf this unit died due to the A.B.S. Max Attunement 【Degraded Corrosion】 Skill, enhance the effect:\n- Inflict 3 [Combustion] on all enemies; inflict [Combustion] on self between all enemies (max 5 per enemy)\n- Gain 2 E.G.O resource for 2 least-owned E.G.O resources\n- If this unit had 30+ Burn, apply 3 [AttackUp] to 1 ally that gets Substituted in"
+      "name": "Polilla Ardiente",
+      "desc": "Inicio de Combate: a 80%+ de HP faltante, y menos de 30 [Combustion], gana hasta 30 [Combustion] (una vez por Encuentro)\n\nFin del Turno: gana 1 [AttackUp] el siguiente turno por cada 6 de [Combustion] en sí (máx 5)\n\nTras morir, activa lo siguiente:\n-Inflige 2 de [Combustion] en todos los enemigos, ; inflige [Combustion]a todos los enemigos por la cantidad en si (máx. 3 por enemigo)\n-Gana 2 recursos E.G.O de los 2 recursos E.G.O que menos se tenga\n\nSi esta unidad murió debido a la Habilidad E.P.A Sintonización Máxima 【Corrosión Degradada】, mejora el efecto:\n\n-Inflige 3 de [Combustion] en todos los enemigos, ; inflige [Combustion] a todos los enemigos por la cantidad en si (máx. 5 por enemigo)\n-Gana 2 recursos E.G.O de los 2 recursos E.G.O que menos se tenga\n-Si esta unidad tenía 30+ de Quemadura, aplica 3 [AttackUp] a 1 aliado que la Substituya"
     },
     {
       "id": 1021121,
-      "name": "Residual Heat",
-      "desc": "When 1 ally with the least SP inflicts [Combustion] with a Base Attack Skill's On Hit effect, inflict 2 additional [Combustion] (3 times max)\n- If the target the ally is attacking has 30+ Burn, inflict +1 Burn Count instead (3 times max)"
+      "name": "Calor Residual",
+      "desc": "Cuando 1 aliado los menores PC inflige [Combustion] con el efecto Tras Golpear de una Habilidad de Ataque Básica, inflige 2 [Combustion] adicional (3 veces máx)\n- Si el objetivo que el aliado ataque tiene 30+ Quemadura, inflige +1 Contador de Quemadura en su lugar (3 veces máx)"
     }
   ]
 }

@@ -2162,8 +2162,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
-          "desc": "[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects",
+          "name": "Aunque ha de ser mencionado que los equipamientos E.G.O son equipamientos estandarizados,",
+          "desc": "[WhenUse] Gana +2 [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] con sus efectos",
           "coinlist": [
             {
               "coindescs": [
@@ -2171,7 +2171,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
@@ -2181,7 +2181,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -2189,8 +2189,8 @@
         },
         {
           "level": 2,
-          "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1",
+          "name": "Aunque ha de ser mencionado que los equipamientos E.G.O son equipamientos estandarizados,",
+          "desc": "[StartBattle] Tras Perder Choque, gana Poder Final igual al número de Habilidades que seleccionaron a esta unidad (máx 2)\n[WhenUse] Gana +3 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] con sus efectos\n[DefeatDuel] Potencia de [Burst] infligida por esta Habilidad +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2198,7 +2198,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
@@ -2208,7 +2208,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -2216,8 +2216,8 @@
         },
         {
           "level": 4,
-          "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2",
+          "name": "Aunque ha de ser mencionado que los equipamientos E.G.O son equipamientos estandarizados,",
+          "desc": "[StartBattle] Tras Perder Choque, gana Poder Final igual al número de Habilidades que seleccionaron a esta unidad (máx 3)\n[WhenUse] Gana +3 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] con sus efectos\n[DefeatDuel] Potencia de [Burst] infligida por esta Habilidad +2",
           "coinlist": [
             {
               "coindescs": [
@@ -2225,7 +2225,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
@@ -2235,7 +2235,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -2248,8 +2248,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
-          "desc": "[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects",
+          "name": "al compararlos con equipamiento E.G.O de L Corp., dependiendo en el grado de sintonización con la Anormalidad,",
+          "desc": "[WhenUse] Gana +2 [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] con sus efectos",
           "coinlist": [
             {
               "coindescs": [
@@ -2257,7 +2257,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 }
               ]
             }
@@ -2265,8 +2265,8 @@
         },
         {
           "level": 2,
-          "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1",
+          "name": "al compararlos con equipamiento E.G.O de L Corp., dependiendo en el grado de sintonización con la Anormalidad,",
+          "desc": "[StartBattle] Tras Perder Choque, gana Poder Final igual al número de Habilidades que seleccionaron a esta unidad (máx 3)\n[WhenUse] Gana +3 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] con sus efectos\n[DefeatDuel] Contador de [Burst] infligido por esta Habilidad +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2274,7 +2274,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 }
               ]
             }
@@ -2282,8 +2282,8 @@
         },
         {
           "level": 4,
-          "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
-          "desc": "[StartBattle] <style=\"highlight\">On Clash Lose, gain (# of Skills targeting this unit x 2) Final Power (max 6)</style>\n[WhenUse] Gain +4 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +2",
+          "name": "al compararlos con equipamiento E.G.O de L Corp., dependiendo en el grado de sintonización con la Anormalidad,",
+          "desc": "[StartBattle] <style=\"highlight\">Tras Perder Choque, gana (# de Habilidades que seleccionaron a esta unidad x 2) Poder Final (máx 6)</style>\n[WhenUse] Gana +4 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] con sus efectos\n[DefeatDuel] Contador de [Burst] infligido por esta Habilidad +2",
           "coinlist": [
             {
               "coindescs": [
@@ -2291,7 +2291,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 }
               ]
             }
@@ -2304,30 +2304,30 @@
       "levelList": [
         {
           "level": 3,
-          "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
-          "desc": "Deal +0.5% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "name": "las idiosincrasias  de la fuente pueden ser utilizadas con mayor flexibilidad",
+          "desc": "Inflige +0.5% de daño por cada 1% de HP faltante en sí\n[StartBattle] Poder Base +1 por cada Habiliad que seleccionó a esta unidad (máx 2)\n[WhenUse] Gana 2 de [GlowingLantern] (una vez por turno)\n[WhenUse] Gana +6 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige Potencia o Contador de [Burst] con sus efectos; en su lugar, gana Poder Base +1\n[EndSkill] Cura 30 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -2335,30 +2335,30 @@
         },
         {
           "level": 4,
-          "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
-          "desc": "Deal +0.8% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "name": "las idiosincrasias  de la fuente pueden ser utilizadas con mayor flexibilidad",
+          "desc": "Inflige +0.8% de daño por cada 1% de HP faltante en sí\n[StartBattle] Poder Base +1 por cada Habiliad que seleccionó a esta unidad (máx 3)\n[WhenUse] Gana 3 de [GlowingLantern] (una vez por turno)\n[WhenUse] Gana +8 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige Potencia o Contador de [Burst] con sus efectos; en su lugar, gana Poder Base +1\n[EndSkill] Cura 30 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -2371,13 +2371,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
-          "desc": "[StartBattle] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3",
+          "name": "Aún así, el grado al cual dicha sintonización y sincronización son logradas pueden, como resultado, permitir que el usuario sea devorado",
+          "desc": "[StartBattle] Gana 2 de [GlowingLantern] (una vez por turno)\n[WhenUse] Gana +6 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige [Burst] con sus efectos; en su lugar, gana Poder Base +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 }
               ]
             }
@@ -2385,13 +2385,13 @@
         },
         {
           "level": 4,
-          "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
-          "desc": "[StartBattle] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3",
+          "name": "Aún así, el grado al cual dicha sintonización y sincronización son logradas pueden, como resultado, permitir que el usuario sea devorado",
+          "desc": "[StartBattle] Gana 3 de [GlowingLantern] (una vez por turno)\n[WhenUse] Gana +8 de [Aggro] el siguiente turno\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige [Burst] con sus efectos; en su lugar, gana Poder Base +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 }
               ]
             }

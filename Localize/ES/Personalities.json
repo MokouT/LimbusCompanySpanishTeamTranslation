@@ -9,21 +9,21 @@
     },
     {
       "id": 10201,
-      "title": "LCB\nPecador",
+      "title": "LCB\nPecadora",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust 1ra Identidad"
     },
     {
       "id": 10301,
-      "title": "LCB\nPecador",
+      "title": "LCB\nPecadora",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote 1ra Identidad"
     },
     {
       "id": 10401,
-      "title": "LCB\nPecador",
+      "title": "LCB\nPecadora",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū 1ra Identidad"
@@ -51,14 +51,14 @@
     },
     {
       "id": 10801,
-      "title": "LCB\nPecador",
+      "title": "LCB\nPecadora",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael 1ra Identidad"
     },
     {
       "id": 10901,
-      "title": "LCB\nPecador",
+      "title": "LCB\nPecadora",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion 1ra Identidad"
@@ -72,7 +72,7 @@
     },
     {
       "id": 11101,
-      "title": "LCB\nPecador",
+      "title": "LCB\nPecadora",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis 1ra Identidad"
@@ -93,14 +93,14 @@
     },
     {
       "id": 10202,
-      "title": "W Corp. L2\nAgente de Limpieza",
+      "title": "W Corp. N2\nAgente de Limpieza",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust 2da Identidad"
     },
     {
       "id": 10302,
-      "title": "W Corp. L3\nAgente de Limpieza",
+      "title": "W Corp. N3\nAgente de Limpieza",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote 2da Identidad"
@@ -191,7 +191,7 @@
     },
     {
       "id": 10503,
-      "title": "W Corp. L2\nAgente de Limpieza",
+      "title": "W Corp. N2\nAgente de Limpieza",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault 3ra Identidad"
@@ -296,7 +296,7 @@
     },
     {
       "id": 11104,
-      "title": "Asoc. Seven\nSección 6 - Sur Director",
+      "title": "Asoc. Seven\nSección 6 - Sur Directora",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis 4ta Identidad"
@@ -415,7 +415,7 @@
     },
     {
       "id": 10305,
-      "title": "Asoc. Cinq\nSección 5 - Sur Director",
+      "title": "Asoc. Cinq\nSección 5 - Sur Directora",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote 5ta Identidad"
@@ -450,7 +450,7 @@
     },
     {
       "id": 10405,
-      "title": "W Corp. L3\nAgente de Limpieza",
+      "title": "W Corp. N3\nAgente de Limpieza",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū 5ta Identidad"
@@ -513,14 +513,14 @@
     },
     {
       "id": 10106,
-      "title": "W Corp. L3\nAgente de Limpieza",
+      "title": "W Corp. N3\nAgente de Limpieza",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang 6ta Identidad"
     },
     {
       "id": 11207,
-      "title": "Piratas Garfio-Gemelo\nPrimer Oficial",
+      "title": "Piratas Garfios Gemelos\nPrimer Oficial",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor 7ma Identidad"
@@ -632,14 +632,14 @@
     },
     {
       "id": 11208,
-      "title": "Clan Kurokumo\nCaptain",
+      "title": "Clan Kurokumo\nCapitán",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor 8va Identidad"
     },
     {
       "id": 10908,
-      "title": "Asoc. Liu.\nSección 4 - Sur \nDirector",
+      "title": "Asoc. Liu.\nSección 4 - Sur \nDirectora",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion 8va Identidad"
@@ -681,7 +681,7 @@
     },
     {
       "id": 10209,
-      "title": "Cumbres Borrascosas\nCriado",
+      "title": "Cumbres Borrascosas\nCriada",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust 9na Identidad"
@@ -702,7 +702,7 @@
     },
     {
       "id": 10809,
-      "title": "Familia Edgar\nCriado",
+      "title": "Familia Edgar\nCriada",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael 9na Identidad"
@@ -877,21 +877,21 @@
     },
     {
       "id": 10611,
-      "title": "Oficina Punto Final\nRepresentante",
+      "title": "Oficina \nPunto Final\nRepresentante",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu 11va Identidad"
     },
     {
       "id": 10711,
-      "title": "Oficina Punto Final\nFixer",
+      "title": "Oficina \nPunto Final\nFixer",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff 11va Identidad"
     },
     {
       "id": 10211,
-      "title": "E.G.O LCE::\nEstrella De Pétalo\nArdiente",
+      "title": "E.G.O LCE::\nEstrella de Pétalo\nArdiente",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust's 11th Identity"

@@ -84,7 +84,7 @@
     {
       "id": 9708,
       "name": "Vino Cerebral de Basurejo",
-      "desc": "Cuando un aliado ataca a un enemigo con tiene [Burst] con una Habilidad que inflige Potencia o Contador de [Burst], inflige +(Contador de [Burst] x 1.25)% de daño. (máx 50%)\n\ncuando un aliado se recupera del Aturdimiento, cura 20% de su HP Máx. (2 veces por Encuentro)",
+      "desc": "Cuando un aliado ataca a un enemigo que tiene [Burst] con una Habilidad que inflige Potencia o Contador de [Burst], inflige +(Contador de [Burst] x 1.25)% de daño. (máx 50%)\n\ncuando un aliado se recupera del Aturdimiento, cura 20% de su HP Máx. (2 veces por Encuentro)",
       "simpleDesc": [
         {
           "abilityID": 9708,

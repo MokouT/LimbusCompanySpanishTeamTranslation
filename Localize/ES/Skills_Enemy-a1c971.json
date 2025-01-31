@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "■■ew",
-          "desc": "[WhenUse] If the target does not have [Burst], Clash Power +1",
+          "name": "■■■ticar",
+          "desc": "[WhenUse] Si el objetivo no tiene [Burst], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 2 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 2 de daño a PC"
                 }
               ]
             }
@@ -27,29 +27,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Le■'■ ■■t",
-          "desc": "[WhenUse] If the target has 5+ [Burst], Coin Power +1",
+          "name": "A ■■mer",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Burst], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 3 de daño a PC"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Cura HP igual al daño infligido (Máx 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 5 de daño a PC"
                 }
               ]
             }
@@ -62,39 +62,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I■'s Y■■r ■■rn N■■!!",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)",
+          "name": "¡¡E■ ■u ■■rno Aho■■!!",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Burst] en el objetivo (Máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Cura HP igual al daño infligido (Máx 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At less than 50% HP, Reuse Coin once"
+                  "desc": "[OnSucceedAttack] Con menos de 50% de HP, Reutiliza esta Moneda una vez"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 10 de daño a PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Cura HP igual al daño infligido (Máx 20)"
                 }
               ]
             }
@@ -107,8 +107,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gua■■",
-          "desc": "[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP",
+          "name": "Gua■■■",
+          "desc": "[WhenUse] Gana HP de Escudo por cada 5 de [Burst] en el objetivo\n[EndBattle] Cura HP igual a HP de Escudo restante",
           "coinlist": [
             {
               "coindescs": [
@@ -126,16 +126,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wa■■■■ha",
-          "desc": "[WhenUse] If the target does not have [Burst], Clash Power +1",
+          "name": "Ja■■■■ja",
+          "desc": "[WhenUse] Si el objetivo no tiene [Burst], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 2 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 2 de daño a PC"
                 }
               ]
             }
@@ -148,29 +148,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "C■■an",
-          "desc": "[WhenUse] If the target has 5+ [Burst], Coin Power +1",
+          "name": "L■■■iar",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Burst], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 3 de daño a PC"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Cura HP igual al daño infligido (Máx 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 5 de daño a PC"
                 }
               ]
             }
@@ -183,39 +183,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ti■■ to E■■!",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)",
+          "name": "¡Ho■■ de Co■■■!",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Burst] en el objetivo (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Cura HP igual al daño infligido (Máx 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At less than 50% HP, Reuse Coin once"
+                  "desc": "[OnSucceedAttack] Con menos de 50% de HP, Reutiliza esta Moneda una vez"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 10 de daño a PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Cura HP igual al daño infligido (Máx 20)"
                 }
               ]
             }
@@ -228,8 +228,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "■■■rd",
-          "desc": "[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP",
+          "name": "■■■rdia",
+          "desc": "[WhenUse] Gana HP de Escudo por cada 5 de [Burst] en el objetivo\n[EndBattle] Cura HP igual a HP de Escudo restante",
           "coinlist": [
             {
               "coindescs": [

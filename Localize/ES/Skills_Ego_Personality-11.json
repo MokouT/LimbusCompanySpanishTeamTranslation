@@ -796,17 +796,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Magic Bullet",
+          "name": "Bala Mágica",
           "abName": "Der Freischütz",
-          "desc": "Deal +1% more damage for every 3 [Combustion] on the target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 2 [DarkFlame] against all enemies with [Combustion]",
+          "desc": "Inflige +1% de daño por cada 3 de [Combustion] en el objetivo (máx 10%)\n[BeforeAttack] Con 0 de [FreischutzShotCount], gana 1 de [FreischutzShotCount].\n- Valor de [FreischutzShotCount] determina la bala a ser disparada.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gana [FreischutzShotCount] igual a la Reson. más alta (mín. 1, máx 4)\n[EndSkill] Si el objetivo principal es derrotado, inflige 2 de [DarkFlame] contra todos los enemigos con [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] igual a [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
+                  "desc": "[OnSucceedAttack] Inflige [DarkFlame] igual a [FreischutzShotCount] (una vez por cada unidad)"
                 }
               ]
             }
@@ -814,17 +814,17 @@
         },
         {
           "level": 3,
-          "name": "Magic Bullet",
+          "name": "Bala Mágica",
           "abName": "Der Freischütz",
-          "desc": "Deal +<style=\"highlight\">2</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">20</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">3</style> [DarkFlame] against all enemies with [Combustion]",
+          "desc": "Inflige +<style=\"highlight\">2</style>% de daño por cada 3 de [Combustion] en el objetivo (máx <style=\"highlight\">20</style>%)\n[BeforeAttack] Con 0 de [FreischutzShotCount], gana 1 de [FreischutzShotCount].\n- Valor de [FreischutzShotCount] determina la bala a ser disparada.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gana [FreischutzShotCount] igual a la Reson. más alta (mín. 1, máx 4)\n[EndSkill] Si el objetivo principal es derrotado, inflige <style=\"highlight\">3</style> de [DarkFlame] contra todos los enemigos con [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] igual a [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
+                  "desc": "[OnSucceedAttack] Inflige [DarkFlame] igual a [FreischutzShotCount] (una vez por cada unidad)"
                 }
               ]
             }
@@ -832,17 +832,17 @@
         },
         {
           "level": 4,
-          "name": "Magic Bullet",
+          "name": "Bala Mágica",
           "abName": "Der Freischütz",
-          "desc": "Deal +<style=\"highlight\">3</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">30</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">4</style> [DarkFlame] against all enemies with [Combustion]",
+          "desc": "Inflige +<style=\"highlight\">3</style>% de daño por cada 3 de [Combustion] en el objetivo (máx <style=\"highlight\">30</style>%)\n[BeforeAttack] Con 0 de [FreischutzShotCount], gana 1 de [FreischutzShotCount].\n- Valor de [FreischutzShotCount] determina la bala a ser disparada.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gana [FreischutzShotCount] igual a la Reson. más alta (mín. 1, máx 4)\n[EndSkill] Si el objetivo principal es derrotado, inflige <style=\"highlight\">4</style> de [DarkFlame] contra todos los enemigos con [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] igual a [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
+                  "desc": "[OnSucceedAttack] Inflige [DarkFlame] igual a [FreischutzShotCount] (una vez por cada unidad)"
                 }
               ]
             }
@@ -855,17 +855,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Magic Bullet",
+          "name": "Bala Mágica",
           "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nTargets randomly\nDeal +1% more damage for every 3 [Combustion] on the target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 3 [DarkFlame] against all enemies with [Combustion]",
+          "desc": "[CantIdentify]\nSelecciona aleatoriamente\nInflige +1% de daño por cada 3 de [Combustion] en el objetivo (máx 10%)\n[BeforeAttack] Con 0 de [FreischutzShotCount], gana 1 de [FreischutzShotCount].\n- Valor de [FreischutzShotCount] determina la bala a ser disparada.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gana [FreischutzShotCount] igual a la Reson. más alta (mín. 1, máx 4)\n[EndSkill] Si el objetivo principal es derrotado, inflige 3 de [DarkFlame] contra todos los enemigos con [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] igual a [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
+                  "desc": "[OnSucceedAttack] Inflige [DarkFlame] igual a [FreischutzShotCount] (una vez por cada unidad)"
                 }
               ]
             }
@@ -873,20 +873,20 @@
         },
         {
           "level": 3,
-          "name": "Magic Bullet",
+          "name": "Bala Mágica",
           "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nTargets randomly\nDeal +<style=\"highlight\">2</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">20</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">5</style> [DarkFlame] against all enemies with [Combustion]",
+          "desc": "[CantIdentify]\nSelecciona aleatoriamente\nInflige +<style=\"highlight\">2</style>% de daño por cada 3 de [Combustion] en el objetivo (máx <style=\"highlight\">20</style>%)\n[BeforeAttack] Con 0 de [FreischutzShotCount], gana 1 de [FreischutzShotCount].\n- Valor de [FreischutzShotCount] determina la bala a ser disparada.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gana [FreischutzShotCount] igual a la Reson. más alta (mín. 1, máx 4)\n[EndSkill] Si el objetivo principal es derrotado, inflige <style=\"highlight\">5</style> de [DarkFlame] contra todos los enemigos con [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] igual a [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +([FreischutzShotCount] / 3) [Combustion] Count (rounded down)"
+                  "desc": "[OnSucceedAttack] Inflige +([FreischutzShotCount] / 3) Contador de [Combustion] (redondeado hacia abajo)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [DarkFlame] igual a [FreischutzShotCount] (una vez por cada unidad)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -894,20 +894,20 @@
         },
         {
           "level": 4,
-          "name": "Magic Bullet",
+          "name": "Bala Mágica",
           "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nTargets randomly\nDeal +<style=\"highlight\">3</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">30</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">7</style> [DarkFlame] against all enemies with [Combustion]",
+          "desc": "[CantIdentify]\nSelecciona aleatoriamente\nInflige +<style=\"highlight\">3</style>% de daño por cada 3 de [Combustion] en el objetivo (máx <style=\"highlight\">30</style>%)\n[BeforeAttack] Con 0 de [FreischutzShotCount], gana 1 de [FreischutzShotCount].\n- Valor de [FreischutzShotCount] determina la bala a ser disparada.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gana [FreischutzShotCount] igual a la Reson. más alta (mín. 1, máx 4)\n[EndSkill] Si el objetivo principal es derrotado, inflige <style=\"highlight\">7</style> de [DarkFlame] contra todos los enemigos con [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] igual a [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] Count (rounded down)"
+                  "desc": "[OnSucceedAttack] Inflige +([FreischutzShotCount] / <style=\"highlight\">2</style>) Contador de [Combustion] (redondeado hacia abajo)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [DarkFlame] igual a [FreischutzShotCount] (una vez por cada unidad)<style=\"highlight\"></style>"
                 }
               ]
             }
